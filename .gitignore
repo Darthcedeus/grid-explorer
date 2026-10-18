@@ -18,8 +18,10 @@ build/*
 coverage/
 .cache/
 
-# Local application data
-data/
+# Local application data: allow only public bundled snapshots
+data/*
+!data/energy-power.json
+!data/energy-flows.json
 *.db
 *.sqlite
 *.sqlite3
