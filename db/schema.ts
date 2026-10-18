@@ -1,0 +1,4 @@
+import {sqliteTable,text,integer,index,uniqueIndex} from 'drizzle-orm/sqlite-core';
+export const sourceArtifacts=sqliteTable('source_artifacts',{id:text('id').primaryKey(),source:text('source').notNull(),endpoint:text('endpoint').notNull(),day:text('day').notNull(),sha256:text('sha256').notNull(),body:text('body').notNull(),fetchedAt:text('fetched_at').notNull()},t=>[uniqueIndex('artifact_endpoint_day_hash').on(t.endpoint,t.day,t.sha256)]);
+export const sourceCache=sqliteTable('source_cache',{key:text('key').primaryKey(),artifactId:text('artifact_id').notNull(),expiresAt:integer('expires_at').notNull()});
+export const sourceChecks=sqliteTable('source_checks',{id:text('id').primaryKey(),source:text('source').notNull(),checkedAt:text('checked_at').notNull(),status:text('status').notNull(),detail:text('detail')},t=>[index('source_checks_time').on(t.checkedAt)]);

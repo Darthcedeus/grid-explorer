@@ -1,0 +1,17 @@
+.git
+node_modules
+dist
+.next
+.vinext
+.wrangler
+.sites-runtime
+.env
+.env.*
+!.env.example
+research
+outputs
+work
+*.tar.gz
+*.sqlite*
+*.log
+__pycache__

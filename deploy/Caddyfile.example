@@ -1,0 +1,8 @@
+grid.humza.xyz {
+    encode zstd gzip
+    # Preserve private access. Generate this hash with: caddy hash-password
+    basic_auth {
+        admin REPLACE_WITH_CADDY_PASSWORD_HASH
+    }
+    reverse_proxy 127.0.0.1:6000
+}

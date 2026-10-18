@@ -1,0 +1,9 @@
+'use client';
+import {useEffect,useState} from 'react';
+type RecordValue={start:string;end:string;powerMw:number;energyMwh:number;revisionAt:string};
+export function NedOutput({point,start}:{point:number;start:string}){
+ const date=start.slice(0,10);const [result,setResult]=useState<{records:RecordValue[];fetchedAt:string;point:number;date:string}|null>(null);const [error,setError]=useState('');const [loading,setLoading]=useState(true);
+ useEffect(()=>{const c=new AbortController();setLoading(true);setResult(null);setError('');fetch(`/api/ned?point=${point}&date=${date}`,{signal:c.signal}).then(async r=>{const d=await r.json() as {records:RecordValue[];fetchedAt:string;point:number;date:string;error?:string;message?:string};if(!r.ok)throw Error(d.error||d.message||'NED unavailable');if(!Array.isArray(d.records))throw Error('Invalid response');setResult(d);}).catch(e=>{if(e.name!=='AbortError')setError(e.message);}).finally(()=>{if(!c.signal.aborted)setLoading(false);});return()=>c.abort();},[point,date]);
+ const row=result?.point===point&&result.date===date?result.records.find(r=>Date.parse(r.start)===Date.parse(start)):undefined;
+ return <div className="detail-number"><span>NED modelled offshore output</span><strong>{row?row.powerMw.toLocaleString('en',{maximumFractionDigits:1}):'—'} <small>MW</small></strong><p role="status">{loading?'Retrieving NED observations…':error||(!row?'No NED estimate for this exact interval.':'Provider model estimate, not measured plant telemetry.')}</p>{row&&<p>Interval energy: {row.energyMwh.toLocaleString('en',{maximumFractionDigits:1})} MWh<br/>Revision: {new Date(row.revisionAt).toLocaleString('en-GB',{timeZone:'Europe/Amsterdam'})} Amsterdam time</p>}<a href="https://ned.nl/nl/datacatalogus" target="_blank" rel="noreferrer">NED source and definitions</a></div>;
+}

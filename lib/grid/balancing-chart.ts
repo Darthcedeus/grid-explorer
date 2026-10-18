@@ -1,0 +1,2 @@
+import type {BalancingPoint} from './tennet';
+export function balancingPath(records:BalancingPoint[],key:string,x:(t:number)=>number,y:(v:number)=>number){let path='',end:number|null=null;for(const p of records){const value=p.values[key],t=Date.parse(p.start);if(value==null){end=null;continue;}path+=`${end===t?'L':'M'}${x(t).toFixed(2)},${y(value).toFixed(2)} `;end=Date.parse(p.end);}return path;}

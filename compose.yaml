@@ -1,0 +1,29 @@
+services:
+  grid:
+    build: .
+    image: netherlands-grid-explorer:local
+    restart: unless-stopped
+    init: true
+    env_file: .env
+    environment:
+      GRID_SELF_HOSTED: "1"
+      APP_ORIGIN: https://grid.humza.xyz
+      GRID_DB_PATH: /data/grid.sqlite
+      PORT: "6000"
+      HOST: 0.0.0.0
+      VINEXT_TRUSTED_HOSTS: grid.humza.xyz
+    ports:
+      - "${GRID_BIND_ADDRESS:-127.0.0.1}:6000:6000"
+    volumes:
+      - grid-data:/data
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+volumes:
+  grid-data:

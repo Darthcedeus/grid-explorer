@@ -1,0 +1,7 @@
+export type Method = 'reported' | 'modelled' | 'allocated' | 'inferred' | 'static' | 'illustrative';
+export type Freshness = 'recent' | 'delayed' | 'historical';
+export interface Envelope { schema_version: string; endpoint: string; country: string; unit: string; interval_minutes: number; generated_at: string; available_until: string; series: {id:string;name:string;unit?:string}[]; data: {timestamp:string;values:Record<string,number|null>}[]; license:string; attributes: Record<string,unknown>; }
+export interface Interval { start:string;end:string;generation:number|null;load:number|null;netImports:number|null;residual:number|null;mix:Record<string,number|null>;borders:Record<string,number|null>;missing:string[]; }
+export interface Dataset { retrieval?:{requestedDay:string;checkedAt:string;fallbackReason:string|null;powerFetchedAt?:string;flowsFetchedAt?:string};  source:string; sourceUrl:string; mode:'recorded'|'illustrative'; delivery:'upstream'|'cache'|'bundled'; fetchedAt:string;generatedAt:string; intervalMinutes:number; intervals:Interval[]; powerLatest:string; flowsLatest:string; warnings:string[]; provenance:{powerUrl:string;flowsUrl:string;license:string;method:string;transformVersion:string}; }
+export interface Asset {id:string;name:string;technology:string;capacityMw:number;lat:number;lon:number;operator:string;source:string;sourceUrl:string;upstreamUrl:string;registryVersion:string;status:string;locationQuality:string;capacityQuality:string;nedPoint:number|null;}
+export interface Region {name:string;lat:number;lon:number;weight:number;}

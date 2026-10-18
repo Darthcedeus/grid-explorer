@@ -1,0 +1,6 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {rwePlants,rweHistory,rweLive,rwePath} from '../lib/grid/rwe.ts';
+test('Dutch catalogue retains flags and maps provider longitude/latitude fields',()=>{const plants=rwePlants([{country:'NL',lid:'unit',name:'Test',power:12,has_old_data:true,types:['GS'],location_data:{pos_lat:'5.9',pos_lon:'51.1',share:50},blocks:[{bid:'block',has_old_data:true,block_data:{no_livedata:true}}]}]);assert.deepEqual(plants[0].coordinates,[5.9,51.1]);assert.equal(plants[0].old,true);assert.equal(plants[0].units[0].unavailable,true);});
+test('history validates identity and both timestamp representations',()=>{const date='2026-09-19T06:15:00+02:00',datetime=String(Date.parse(date));assert.equal(rweHistory({id:'a',values:[{date,datetime,value:'0'}]},'a')[0].mw,0);assert.throws(()=>rweHistory({id:'b',values:[]},'a'));assert.throws(()=>rweHistory({id:'a',values:[{date,datetime:'0',value:10}]},'a'));});
+test('missing readings remain missing, zero stays zero, chart breaks at absent quarters',()=>{assert.deepEqual(rweLive({a:0,b:null,c:'',d:'bad'}),{a:0,b:null,c:null,d:null});assert.equal(rwePath([{time:'2026-01-01T00:00:00Z',mw:0},{time:'2026-01-01T00:30:00Z',mw:1}]).match(/M/g).length,2);});
