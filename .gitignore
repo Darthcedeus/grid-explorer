@@ -22,6 +22,7 @@ coverage/
 data/*
 !data/energy-power.json
 !data/energy-flows.json
+!data/assets.json
 *.db
 *.sqlite
 *.sqlite3
