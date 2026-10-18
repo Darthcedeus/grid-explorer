@@ -1,0 +1,32 @@
+# Coolify Raw Compose variant. No credentials or production .env files.
+services:
+  grid:
+    build: .
+    restart: unless-stopped
+    init: true
+    environment:
+      GRID_SELF_HOSTED: "1"
+      APP_ORIGIN: ${APP_ORIGIN:?Set APP_ORIGIN in Coolify}
+      GRID_DB_PATH: /data/grid.sqlite
+      PORT: "6000"
+      HOST: 0.0.0.0
+      VINEXT_TRUSTED_HOSTS: ${VINEXT_TRUSTED_HOSTS:?Set trusted hosts in Coolify}
+      NED_API_KEY: ${NED_API_KEY:-}
+      TENNET_API_KEY: ${TENNET_API_KEY:-}
+    ports:
+      - "0.0.0.0:6000:6000"
+    volumes:
+      - grid-data:/data
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+volumes:
+  grid-data:
+    external: true
+    name: netherlands-grid-explorer_grid-data
