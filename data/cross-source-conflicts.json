@@ -1,0 +1,38 @@
+{
+  "way/1240983871": [
+    {
+      "field": "Voltage",
+      "basis": "Unique exact operator asset ID and location agreement; source voltage fields differ. Neither value is silently replaced.",
+      "sources": [
+        {
+          "name": "OpenStreetMap",
+          "value": "10000;400 V",
+          "url": "https://www.openstreetmap.org/way/1240983871"
+        },
+        {
+          "name": "Liander GIS",
+          "value": "20kV/10kV",
+          "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/54863"
+        }
+      ]
+    }
+  ],
+  "liander:642:54863": [
+    {
+      "field": "Voltage",
+      "basis": "Unique exact operator asset ID and location agreement; source voltage fields differ. Neither value is silently replaced.",
+      "sources": [
+        {
+          "name": "OpenStreetMap",
+          "value": "10000;400 V",
+          "url": "https://www.openstreetmap.org/way/1240983871"
+        },
+        {
+          "name": "Liander GIS",
+          "value": "20kV/10kV",
+          "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/54863"
+        }
+      ]
+    }
+  ]
+}

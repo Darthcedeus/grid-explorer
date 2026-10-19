@@ -1,0 +1,18 @@
+{
+  "source": "OpenStreetMap contributors",
+  "sourceUrl": "https://www.openstreetmap.org/copyright",
+  "license": "ODbL 1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "snapshotAt": "2026-09-18T13:28:51Z",
+  "retrievedAt": "2026-09-18T13:32:45.725869+00:00",
+  "counts": {
+    "substation": 544,
+    "line": 1747,
+    "cable": 1157
+  },
+  "excluded": {
+    "internal_wiring": 2762
+  },
+  "rawSha256": "047e8275db78e998fbc746606631e875a0d24299e4ced23a1728e8f487764727",
+  "scope": "OSM ways and substations tagged with 110, 150, 220 or 380 kV intersecting Netherlands query area; incomplete and not operator-verified. Whole cross-border ways may extend outside NL. Internal bays/busbars excluded. Counts are OSM objects, not distinct circuits or physical sites."
+}

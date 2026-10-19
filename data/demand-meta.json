@@ -1,0 +1,12 @@
+{
+  "source": "CBS Postcode4 via PDOK",
+  "year": 2023,
+  "unit": "kWh per dwelling per year",
+  "count": 4070,
+  "publishedCount": 4037,
+  "sourceUrl": "https://api.pdok.nl/cbs/postcode4/ogc/v1/collections/postcode4",
+  "attribution": "\u00a9 CBS, \u00a9 ESRI Nederland",
+  "rawSha256": "4a8f67148b5a7a1a141ba9a5c5c14e671bb19d1bf8b7b1591c0d4901aad4038a",
+  "geometryMethod": "Topology-aware precision reduction to 0.00001 degrees from archived source, Shapely valid_output; display only, not cadastral precision.",
+  "scope": "Published mean annual electricity use at private-dwelling connections. Excludes common-building consumption and electricity generated in the dwelling. Not a postcode total or real-time load. Geometry and energy values are both 2023. Negative missing/suppression codes remain null."
+}

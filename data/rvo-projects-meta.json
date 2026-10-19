@@ -1,0 +1,23 @@
+{
+  "source": "RVO SDE(+)(+)",
+  "referenceDate": "2026-07",
+  "retrievedAt": "2026-09-18T21:30:59.866344+00:00",
+  "sourceUrl": "https://www.rvo.nl/sites/default/files/2026-09/SDE-projecten-in-beheer-juli-2026.xlsx",
+  "sha256": "98ad44ba6c8a0df321ca245fe9507c8870d275faa3bbe7edab6023e9754c70a6",
+  "workbookRecords": 30230,
+  "count": 28913,
+  "technologies": {
+    "Solar": 27819,
+    "Onshore wind": 1077,
+    "Offshore wind": 17
+  },
+  "solarInstallationTypes": {
+    "Rooftop": 20907,
+    "Unspecified": 5884,
+    "Ground-mounted": 976,
+    "Floating": 52
+  },
+  "scope": "Solar and onshore/offshore wind subsidy records only. Other workbook technologies excluded.",
+  "limitations": "Not a census of physical assets. No capacity column, map coordinates or telemetry. Applicant is not necessarily current operator. Anonymisation is preserved; no identity reconstruction or automatic OSM joins.",
+  "license": "RVO public project publication; original workbook notes and anonymisation retained."
+}

@@ -1,0 +1,31 @@
+{
+  "source": "OpenStreetMap contributors",
+  "license": "ODbL 1.0",
+  "snapshotAt": "2026-09-18T14:18:28Z",
+  "geographicFilter": "Representative point within PDOK province polygons; offshore outside polygons excluded. Bounding-box centre can exclude boundary-straddling plants.",
+  "sourceSnapshots": [
+    "2026-09-18T14:22:35Z",
+    "2026-09-18T14:18:28Z"
+  ],
+  "count": 3359,
+  "counts": {
+    "Wind": 2601,
+    "Solar": 758
+  },
+  "kinds": {
+    "Wind turbine": 2601,
+    "Solar farm / plant": 758
+  },
+  "excluded": {},
+  "rawSha256": "3ee4053c585391af0440ec2231bf04733a3c4738ca0f4dce04d4b76178f46391",
+  "scope": "Solar-farm ways and wind-turbine nodes within Dutch provincial boundaries. Relation-only solar sites, offshore outside provincial polygons, and other plant technologies are excluded from this extract. Other plants remain in the separate historical registry. Mapped objects, not a complete census. Sites and individual generators can overlap; capacities must not be summed. Rooftop solar is not comprehensively included. Current operation is unverified.",
+  "fieldCoverage": {
+    "nameOrReference": 1138,
+    "operator": 1071,
+    "numericCapacityMw": 1483,
+    "additionalEvidence": 3359,
+    "assetTelemetry": 0,
+    "solarPeakCapacityMwp": 213
+  },
+  "enrichmentAudit": "/data/map-evidence-audit.json"
+}
