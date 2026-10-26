@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM node:24.22.1-bookworm-slim AS build
+FROM node:26.12.1-bookworm-slim AS build
 WORKDIR /app
 RUN npm install --global pnpm@11.25.0
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
@@ -8,7 +8,7 @@ COPY . .
 ENV GRID_SELF_HOSTED=1 NODE_ENV=production
 RUN node node_modules/vinext/dist/cli.js build
 
-FROM node:24.22.1-bookworm-slim AS runtime
+FROM node:26.12.1-bookworm-slim AS runtime
 WORKDIR /app
 ENV NODE_ENV=production GRID_SELF_HOSTED=1 PORT=6000 HOST=0.0.0.0 GRID_DB_PATH=/data/grid.sqlite
 COPY --from=build --chown=node:node /app/dist/standalone/ ./
