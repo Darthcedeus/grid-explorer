@@ -1,0 +1,1602 @@
+{
+  "method": "Unique exact OSM ref:liander = Liander operator asset ID; distance <=25 metres. Missing fields only; original values retained. Names are source labels, not independent verification.",
+  "datasets": {
+    "stations": {
+      "counts": {
+        "withSourceLink": 7151,
+        "withSnapshot": 7151,
+        "unnamedBefore": 5420,
+        "unnamedAfter": 5222,
+        "namesFromOriginalTags": 1,
+        "nameFilled": 197
+      },
+      "matches": [
+        {
+          "osmId": "way/265937747",
+          "operatorId": "699986316",
+          "distanceMetres": 0.05,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266052069",
+          "operatorId": "710199520",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266052125",
+          "operatorId": "710191797",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266052181",
+          "operatorId": "710190916",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266052224",
+          "operatorId": "709940130",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266293829",
+          "operatorId": "709741455",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266294229",
+          "operatorId": "710802470",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266294277",
+          "operatorId": "709762283",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266299741",
+          "operatorId": "710381155",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266299762",
+          "operatorId": "1002329231",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266363605",
+          "operatorId": "703811453",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266363681",
+          "operatorId": "711279627",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266364348",
+          "operatorId": "710403379",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266365249",
+          "operatorId": "710411644",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266365369",
+          "operatorId": "711287285",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266367386",
+          "operatorId": "711273584",
+          "distanceMetres": 0.81,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266367398",
+          "operatorId": "706010614",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266370908",
+          "operatorId": "711443610",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266371856",
+          "operatorId": "705973146",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266372171",
+          "operatorId": "711299506",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266372470",
+          "operatorId": "703801814",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266447667",
+          "operatorId": "705766799",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266447971",
+          "operatorId": "705814966",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266462832",
+          "operatorId": "709655595",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266462987",
+          "operatorId": "704304266",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266463137",
+          "operatorId": "704112067",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266463524",
+          "operatorId": "704124099",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266463670",
+          "operatorId": "709660564",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266463772",
+          "operatorId": "704098054",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266463807",
+          "operatorId": "269431906645139",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266463841",
+          "operatorId": "704006697",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266463902",
+          "operatorId": "709652631",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266469141",
+          "operatorId": "711061911",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266469207",
+          "operatorId": "711053474",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266469230",
+          "operatorId": "706075482",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266872311",
+          "operatorId": "706127613",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266872479",
+          "operatorId": "705297204",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266872678",
+          "operatorId": "705420040",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266872742",
+          "operatorId": "705342358",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266918661",
+          "operatorId": "703843852",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266918774",
+          "operatorId": "703939731",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266918895",
+          "operatorId": "703930032",
+          "distanceMetres": 0.07,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266919519",
+          "operatorId": "703944064",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266919976",
+          "operatorId": "710973975",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266920381",
+          "operatorId": "703922119",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266920448",
+          "operatorId": "710992659",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266920636",
+          "operatorId": "710981643",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266978089",
+          "operatorId": "706265764",
+          "distanceMetres": 0.2,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266979573",
+          "operatorId": "706381601",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266979676",
+          "operatorId": "710390278",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266979726",
+          "operatorId": "709674549",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980110",
+          "operatorId": "705851074",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980163",
+          "operatorId": "705837658",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980164",
+          "operatorId": "710076085",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980220",
+          "operatorId": "706394504",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980363",
+          "operatorId": "705922587",
+          "distanceMetres": 0.13,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980382",
+          "operatorId": "710399064",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980584",
+          "operatorId": "705865973",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980617",
+          "operatorId": "703321481",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980643",
+          "operatorId": "710272571",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980679",
+          "operatorId": "710247661",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980764",
+          "operatorId": "705884315",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266980851",
+          "operatorId": "709847252",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266981249",
+          "operatorId": "703588184",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266981349",
+          "operatorId": "710458054",
+          "distanceMetres": 0.12,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266981385",
+          "operatorId": "705891929",
+          "distanceMetres": 0.29,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266981528",
+          "operatorId": "183597017350062",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266981635",
+          "operatorId": "710575481",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266981690",
+          "operatorId": "705931547",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266981774",
+          "operatorId": "710060328",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266982018",
+          "operatorId": "704298043",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266982048",
+          "operatorId": "710553088",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266982482",
+          "operatorId": "705870396",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266982778",
+          "operatorId": "705940753",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266983058",
+          "operatorId": "704284668",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266983114",
+          "operatorId": "705856832",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266983640",
+          "operatorId": "710288039",
+          "distanceMetres": 1.23,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/266984721",
+          "operatorId": "704271742",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/267438178",
+          "operatorId": "699755909",
+          "distanceMetres": 0.06,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/267438398",
+          "operatorId": "699685704",
+          "distanceMetres": 0.06,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/270676634",
+          "operatorId": "259387299",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/270676763",
+          "operatorId": "259389387",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/270676792",
+          "operatorId": "259081844",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/270676943",
+          "operatorId": "259389471",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/270676985",
+          "operatorId": "259753488",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/436751892",
+          "operatorId": "706362764",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/436925856",
+          "operatorId": "32023282337778",
+          "distanceMetres": 0.17,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/594743058",
+          "operatorId": "704259089",
+          "distanceMetres": 0.45,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/618068395",
+          "operatorId": "706281264",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/801523806",
+          "operatorId": "704934838",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/801523835",
+          "operatorId": "706372715",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/981563432",
+          "operatorId": "710265768",
+          "distanceMetres": 0.27,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/981563433",
+          "operatorId": "710358936",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/981570831",
+          "operatorId": "710260919",
+          "distanceMetres": 0.31,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1240983871",
+          "operatorId": "183596993863248",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1358514996",
+          "operatorId": "59614166906838",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1358514997",
+          "operatorId": "59614166906856",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229831",
+          "operatorId": "59614166906874",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229832",
+          "operatorId": "59614166906883",
+          "distanceMetres": 0.12,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229833",
+          "operatorId": "59614166906865",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229834",
+          "operatorId": "59614166906820",
+          "distanceMetres": 0.32,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229835",
+          "operatorId": "59614166906847",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229836",
+          "operatorId": "32023297703760",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229837",
+          "operatorId": "32023297860882",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419229838",
+          "operatorId": "59614166906829",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232561",
+          "operatorId": "183596970973173",
+          "distanceMetres": 0.17,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232562",
+          "operatorId": "981584987",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232563",
+          "operatorId": "183596971133535",
+          "distanceMetres": 0.18,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232564",
+          "operatorId": "183596971141936",
+          "distanceMetres": 0.06,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232565",
+          "operatorId": "781816771",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232567",
+          "operatorId": "183597001195245",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232568",
+          "operatorId": "9964328316272",
+          "distanceMetres": 0.26,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419232569",
+          "operatorId": "704239827",
+          "distanceMetres": 0.18,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236081",
+          "operatorId": "1024525141",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236082",
+          "operatorId": "59614169856946",
+          "distanceMetres": 0.19,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236083",
+          "operatorId": "32023313980138",
+          "distanceMetres": 0.13,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236084",
+          "operatorId": "710299990",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236085",
+          "operatorId": "183597034522988",
+          "distanceMetres": 0.17,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236086",
+          "operatorId": "32439896455043",
+          "distanceMetres": 1.35,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236088",
+          "operatorId": "183597038888299",
+          "distanceMetres": 0.13,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236089",
+          "operatorId": "32023305339182",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236090",
+          "operatorId": "704918879",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236091",
+          "operatorId": "183597031433690",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419236092",
+          "operatorId": "710277508",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419239520",
+          "operatorId": "269431904540939",
+          "distanceMetres": 0.12,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419241246",
+          "operatorId": "710295456",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419243660",
+          "operatorId": "1099513235498",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419246416",
+          "operatorId": "183596971005956",
+          "distanceMetres": 0.56,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1419246417",
+          "operatorId": "711070402",
+          "distanceMetres": 0.18,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1423527242",
+          "operatorId": "705842970",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1432014162",
+          "operatorId": "269431904545233",
+          "distanceMetres": 0.17,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448222891",
+          "operatorId": "768870166",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448222892",
+          "operatorId": "1024525133",
+          "distanceMetres": 0.17,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448222893",
+          "operatorId": "710466980",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448222895",
+          "operatorId": "32023325078776",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234980",
+          "operatorId": "1024525125",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234981",
+          "operatorId": "710079816",
+          "distanceMetres": 0.35,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234982",
+          "operatorId": "710067593",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234983",
+          "operatorId": "1007827261",
+          "distanceMetres": 0.26,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234984",
+          "operatorId": "710183454",
+          "distanceMetres": 1.37,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234985",
+          "operatorId": "9964349041936",
+          "distanceMetres": 0.46,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234986",
+          "operatorId": "59614156800204",
+          "distanceMetres": 0.39,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448234987",
+          "operatorId": "706313113",
+          "distanceMetres": 0.48,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448275070",
+          "operatorId": "710206201",
+          "distanceMetres": 0.06,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448275071",
+          "operatorId": "710085053",
+          "distanceMetres": 0.13,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448275072",
+          "operatorId": "710348352",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448275073",
+          "operatorId": "709779154",
+          "distanceMetres": 0.17,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448275074",
+          "operatorId": "710186674",
+          "distanceMetres": 2.6,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448275075",
+          "operatorId": "704249169",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1448293616",
+          "operatorId": "709842372",
+          "distanceMetres": 0.99,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1474773274",
+          "operatorId": "32439896739678",
+          "distanceMetres": 0.34,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1474793946",
+          "operatorId": "183596970999463",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1474793949",
+          "operatorId": "32439894497518",
+          "distanceMetres": 0.18,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1474842120",
+          "operatorId": "9964345824997",
+          "distanceMetres": 0.46,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477813241",
+          "operatorId": "9964331994677",
+          "distanceMetres": 0.43,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477817425",
+          "operatorId": "778954737",
+          "distanceMetres": 0.27,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477819917",
+          "operatorId": "269431908251077",
+          "distanceMetres": 0.61,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477819919",
+          "operatorId": "709771039",
+          "distanceMetres": 0.29,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477819920",
+          "operatorId": "59614158113417",
+          "distanceMetres": 0.27,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477819921",
+          "operatorId": "969799958",
+          "distanceMetres": 0.39,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477819922",
+          "operatorId": "183596988193032",
+          "distanceMetres": 0.05,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477863134",
+          "operatorId": "269431890053814",
+          "distanceMetres": 0.24,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477863136",
+          "operatorId": "32023295385338",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477863137",
+          "operatorId": "704926373",
+          "distanceMetres": 0.24,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477863138",
+          "operatorId": "32023322675876",
+          "distanceMetres": 0.3,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882815",
+          "operatorId": "183596972631557",
+          "distanceMetres": 0.24,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882816",
+          "operatorId": "705823049",
+          "distanceMetres": 0.34,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882818",
+          "operatorId": "1099516401409",
+          "distanceMetres": 0.46,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882821",
+          "operatorId": "183596997770103",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882822",
+          "operatorId": "32023307956385",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882823",
+          "operatorId": "183596969561906",
+          "distanceMetres": 0.12,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882824",
+          "operatorId": "32023287996168",
+          "distanceMetres": 0.05,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882825",
+          "operatorId": "183596994831844",
+          "distanceMetres": 0.14,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882827",
+          "operatorId": "710426598",
+          "distanceMetres": 0.22,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882828",
+          "operatorId": "183596997739746",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882829",
+          "operatorId": "32023325785571",
+          "distanceMetres": 0.34,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882830",
+          "operatorId": "710106875",
+          "distanceMetres": 0.44,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882831",
+          "operatorId": "1099721282347",
+          "distanceMetres": 0.15,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882832",
+          "operatorId": "864534665",
+          "distanceMetres": 0.3,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882833",
+          "operatorId": "925090078",
+          "distanceMetres": 0.05,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882834",
+          "operatorId": "1099721282338",
+          "distanceMetres": 0.13,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477882835",
+          "operatorId": "269431900283023",
+          "distanceMetres": 0.1,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891350",
+          "operatorId": "259081787",
+          "distanceMetres": 1.87,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891351",
+          "operatorId": "317955897",
+          "distanceMetres": 1.33,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891352",
+          "operatorId": "259373728",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891353",
+          "operatorId": "259442434",
+          "distanceMetres": 0.08,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891354",
+          "operatorId": "771749934",
+          "distanceMetres": 0.37,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891355",
+          "operatorId": "259389406",
+          "distanceMetres": 0.12,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891356",
+          "operatorId": "942899337",
+          "distanceMetres": 0.19,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891358",
+          "operatorId": "59614159622308",
+          "distanceMetres": 0.16,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891361",
+          "operatorId": "802658950",
+          "distanceMetres": 0.09,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1477891362",
+          "operatorId": "259763204",
+          "distanceMetres": 0.24,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1478672317",
+          "operatorId": "32023309360686",
+          "distanceMetres": 0.11,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1478672318",
+          "operatorId": "183597001370131",
+          "distanceMetres": 0.21,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1478682071",
+          "operatorId": "705301891",
+          "distanceMetres": 0.18,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1478682073",
+          "operatorId": "993294538",
+          "distanceMetres": 0.3,
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "osmId": "way/1479045664",
+          "operatorId": "709595898",
+          "distanceMetres": 0.85,
+          "fields": [
+            "name"
+          ]
+        }
+      ]
+    },
+    "producers": {
+      "counts": {
+        "withSourceLink": 3359,
+        "withSnapshot": 3359,
+        "unnamedBefore": 2221,
+        "unnamedAfter": 2221
+      },
+      "matches": []
+    }
+  }
+}

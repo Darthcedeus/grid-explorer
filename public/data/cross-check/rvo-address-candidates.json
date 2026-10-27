@@ -1,0 +1,42 @@
+[
+  {
+    "osmId": "node/9484448202",
+    "rvoId": "SDE1820619",
+    "address": "Treeport 2-wt",
+    "postcode": "4891 PZ",
+    "applicant": "BCT E4 B.V.",
+    "basis": "Exact normalized full postcode + street/house number + technology",
+    "status": "candidate; address may host multiple projects",
+    "realized": true
+  },
+  {
+    "osmId": "node/9484448202",
+    "rvoId": "SDE1823434",
+    "address": "Treeport 2-wt",
+    "postcode": "4891 PZ",
+    "applicant": "BCT E5 B.V.",
+    "basis": "Exact normalized full postcode + street/house number + technology",
+    "status": "candidate; address may host multiple projects",
+    "realized": true
+  },
+  {
+    "osmId": "node/3475998148",
+    "rvoId": "SDE1368483",
+    "address": "De Mars 20a",
+    "postcode": "7742 PE",
+    "applicant": "Eurus Windpark Rembrandt B.V.",
+    "basis": "Exact normalized full postcode + street/house number + technology",
+    "status": "candidate; address may host multiple projects",
+    "realized": true
+  },
+  {
+    "osmId": "node/11610643010",
+    "rvoId": "SDE1324012",
+    "address": "De Mars 7-a",
+    "postcode": "7742 PT",
+    "applicant": "Eurus Windpark Rembrandt B.V.",
+    "basis": "Exact normalized full postcode + street/house number + technology",
+    "status": "candidate; address may host multiple projects",
+    "realized": true
+  }
+]

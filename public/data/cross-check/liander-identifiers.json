@@ -1,0 +1,4196 @@
+[
+  {
+    "osmId": "node/13551348497",
+    "reference": "709834342",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13551348498",
+    "reference": "130665806437387",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13551348499",
+    "reference": "130665806205930",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883140",
+    "reference": "706322184",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883141",
+    "reference": "706341881",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883142",
+    "reference": "706308981",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883143",
+    "reference": "710029241",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883144",
+    "reference": "789049143",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883145",
+    "reference": "706309397",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883146",
+    "reference": "706318039",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883147",
+    "reference": "709875024",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883148",
+    "reference": "709859699",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883149",
+    "reference": "706322596",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883150",
+    "reference": "704188692",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883151",
+    "reference": "709860162",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883152",
+    "reference": "706328486",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883153",
+    "reference": "710177055",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883154",
+    "reference": "710025902",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883155",
+    "reference": "706304054",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883156",
+    "reference": "710026507",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883157",
+    "reference": "709865624",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883158",
+    "reference": "706341340",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883159",
+    "reference": "709869510",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883160",
+    "reference": "704225710",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883161",
+    "reference": "774534183",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883162",
+    "reference": "704202682",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883163",
+    "reference": "710054510",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883164",
+    "reference": "704235669",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883165",
+    "reference": "804425083",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883166",
+    "reference": "704219816",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883167",
+    "reference": "710064785",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883168",
+    "reference": "706353265",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883169",
+    "reference": "704230967",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13555883170",
+    "reference": "798594244",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13556470461",
+    "reference": "32023327208933",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13556470462",
+    "reference": "9964334704993",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13556556683",
+    "reference": "1099526802919",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13556704743",
+    "reference": "705515154",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13556765575",
+    "reference": "259387280",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13556765576",
+    "reference": "259387318",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "node/13556765577",
+    "reference": "259389490",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/265937747",
+    "reference": "699986316",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:45996",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/45996",
+        "distanceMetres": 0.05
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SWK.741065 HAVENDK AB 1-A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/265999033",
+    "reference": "1099526802936",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/265999104",
+    "reference": "1099526803690",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/265999231",
+    "reference": "1099526803656",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/265999366",
+    "reference": "1099526803639",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266052015",
+    "reference": "709783290",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266052069",
+    "reference": "710199520",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18482",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18482",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991716 DOMINEESWG 15",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266052125",
+    "reference": "710191797",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:17523",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/17523",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991084 DOMINEESWG 19",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266052181",
+    "reference": "710190916",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:22629",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/22629",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991717 DOMINEESWG 23",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266052224",
+    "reference": "709940130",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21838",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21838",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991412 K DOORMANWG 56",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266293829",
+    "reference": "709741455",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:16521",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/16521",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991652 L JACHT 52",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266294229",
+    "reference": "710802470",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:19930",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/19930",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991367 TOLLEBEKERWG 25",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266294277",
+    "reference": "709762283",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:16522",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/16522",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991762 WESPENDIEF 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266299741",
+    "reference": "710381155",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:15947",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/15947",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991699 URKERDWARSPAD 6",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266299762",
+    "reference": "1002329231",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:41710",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/41710",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URKERDWARSPAD 10",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266363605",
+    "reference": "703811453",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:37149",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/37149",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991053 RIVIERALN 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266363681",
+    "reference": "711279627",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:49766",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/49766",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991208 DINKELSTR 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266364348",
+    "reference": "710403379",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:40621",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/40621",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991166 DE DOLOMIETEN 4",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266365249",
+    "reference": "710411644",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:36269",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/36269",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981011 DE BALKAN 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266365369",
+    "reference": "711287285",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:195",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/195",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991363 SCHIERINGHALS 13",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266367386",
+    "reference": "711273584",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:24780",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/24780",
+        "distanceMetres": 0.81
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991362 BALLUMERBOCHT 16",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266367398",
+    "reference": "706010614",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:62510",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/62510",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991094 ZWARTE ZEESTR 9",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266370908",
+    "reference": "711443610",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:69838",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/69838",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991103 LOFOTEN 18",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266371856",
+    "reference": "705973146",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:50826",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/50826",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991207 WAALSTR 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266372171",
+    "reference": "711299506",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:48280",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/48280",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991364 ZWANENBALG 30",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266372201",
+    "reference": "9964333186935",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266372470",
+    "reference": "703801814",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:37148",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/37148",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991009 SKAGERRAK 5",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266447667",
+    "reference": "705766799",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21384",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21384",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991048 PEPPELLN 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266447971",
+    "reference": "705814966",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:32634",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/32634",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991218 ESPELERLN 84",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266462832",
+    "reference": "709655595",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:35200",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/35200",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991827 DUURSWOLDPAD 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266462987",
+    "reference": "704304266",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:54248",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/54248",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991786 BEVELAND 21",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266463137",
+    "reference": "704112067",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:35219",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/35219",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991071 PURMER 14",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266463524",
+    "reference": "704124099",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:43256",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/43256",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991781 PUTTEN 25",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266463670",
+    "reference": "709660564",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:69215",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/69215",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991879 WISCH 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266463772",
+    "reference": "704098054",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:6320",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/6320",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991064 MEYERY",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266463807",
+    "reference": "269431906645139",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:39665",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/39665",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "KENNEMERLANDLAAN 2 NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266463841",
+    "reference": "704006697",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:69216",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/69216",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991969 NIEUWLANDENLN 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266463902",
+    "reference": "709652631",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:45014",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/45014",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991824 ELLERTSVELD 15",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266469141",
+    "reference": "711061911",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:32688",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/32688",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981088 SUZE GROENEWEGHAGE 4 TR",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266469207",
+    "reference": "711053474",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:78418",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/78418",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981087 PLESMANHAGE 17 TR",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266469230",
+    "reference": "706075482",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:46886",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/46886",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991123 BANTERWG 12",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266872160",
+    "reference": "706479395",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266872311",
+    "reference": "706127613",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:13744",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/13744",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991830 OOSTERRINGWG 71",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266872479",
+    "reference": "705297204",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:52452",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/52452",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991782 TWEESCHAAR 20",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266872678",
+    "reference": "705420040",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:23794",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/23794",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991017 K OMGANG 8",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266872742",
+    "reference": "705342358",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:15253",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/15253",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOORDERRINGWEG 1 (NOP.991125)",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266918661",
+    "reference": "703843852",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:58203",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/58203",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991291 ESPELERPAD 4",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266918774",
+    "reference": "703939731",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:67146",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/67146",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991949 TOERNOOILN 4",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266918895",
+    "reference": "703930032",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:59137",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/59137",
+        "distanceMetres": 0.07
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991147 I TADEMASTR 44",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266919519",
+    "reference": "703944064",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:42666",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/42666",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "GRAAF FLORISLAAN 27",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266919976",
+    "reference": "710973975",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:20914",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/20914",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991790 DE BUN 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266920381",
+    "reference": "703922119",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:59749",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/59749",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981022 BRABANTSESTR 22-T/O",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266920448",
+    "reference": "710992659",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21388",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21388",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991499 ZUIDERRAND 10",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266920636",
+    "reference": "710981643",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:20915",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/20915",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991255 ZUIDERRAND 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266978089",
+    "reference": "706265764",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:67360",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/67360",
+        "distanceMetres": 0.2
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591007 DE REEDE 8A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266979573",
+    "reference": "706381601",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21770",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21770",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591009 REEPSTG 80",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266979676",
+    "reference": "710390278",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18261",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18261",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991516 VORMTWG 14",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266979726",
+    "reference": "709674549",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:20912",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/20912",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591001 ALMERELN 3A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266979772",
+    "reference": "710557258",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266979897",
+    "reference": "709865082",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266979898",
+    "reference": "706407674",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266980110",
+    "reference": "705851074",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21277",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21277",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591100 COUPURE 28TO",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980163",
+    "reference": "705837658",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:566884",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/566884",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591076 VOORONDER 33",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980164",
+    "reference": "710076085",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:16478",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/16478",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591106 WAAIGAT",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980220",
+    "reference": "706394504",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21771",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21771",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591011 SINGEL 14A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980363",
+    "reference": "705922587",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21755",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21755",
+        "distanceMetres": 0.13
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591016 HOLKENKAMP 47",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980382",
+    "reference": "710399064",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18262",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18262",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991484 VORMTWG 10",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980577",
+    "reference": "704216022",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266980584",
+    "reference": "705865973",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21279",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21279",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591084 BLAUWBORST 20",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980617",
+    "reference": "703321481",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:61148",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/61148",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591050 LACON 45",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980643",
+    "reference": "710272571",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18008",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18008",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591056 ROBBENPLAAT 25",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980679",
+    "reference": "710247661",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18005",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18005",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591031 STAARTWG 22",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980764",
+    "reference": "705884315",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21282",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21282",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591018 NINK 65",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266980851",
+    "reference": "709847252",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:15974",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/15974",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591035 KOLK 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266981249",
+    "reference": "703588184",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:58231",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/58231",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591049 GAMMELS 28",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266981349",
+    "reference": "710458054",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18263",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18263",
+        "distanceMetres": 0.12
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591045 TRINTEL 22",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266981385",
+    "reference": "705891929",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21754",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21754",
+        "distanceMetres": 0.29
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591028 ACHTERLAND 22",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266981528",
+    "reference": "183597017350062",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:32133",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/32133",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MOLENGAT 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266981635",
+    "reference": "710575481",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:60790",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/60790",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991196 WESTERMEERWG 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266981690",
+    "reference": "705931547",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:22239",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/22239",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591029 DE NOORD 77",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266981724",
+    "reference": "704197058",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266981774",
+    "reference": "710060328",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21840",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21840",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591088 ZWOLSCHE DIEP 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266982018",
+    "reference": "704298043",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:59789",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/59789",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591066 KOOIZAND 42",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266982048",
+    "reference": "710553088",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:59805",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/59805",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991483 VORMTWG 6",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266982212",
+    "reference": "709838565",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266982482",
+    "reference": "705870396",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21280",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21280",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591083 REIGER 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266982487",
+    "reference": "704203335",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266982512",
+    "reference": "710562232",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266982778",
+    "reference": "705940753",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:22240",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/22240",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591015 SCHELPENHOEK 92A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266983058",
+    "reference": "704284668",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:56770",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/56770",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591065 MIDDELBUURT 44",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266983114",
+    "reference": "705856832",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21278",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21278",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591101 GOLFOPLOOP 2TO",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266983423",
+    "reference": "705949994",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/266983640",
+    "reference": "710288039",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:59160",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/59160",
+        "distanceMetres": 1.23
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591079 NAGEL 0",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/266984721",
+    "reference": "704271742",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:56769",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/56769",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591010 L DAM 4A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/267438178",
+    "reference": "699755909",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:67853",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/67853",
+        "distanceMetres": 0.06
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SWK.741004 NIEUWSTAD 8",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/267438398",
+    "reference": "699685704",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:568975",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/568975",
+        "distanceMetres": 0.06
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SWK.741005 DE SCHANS 5A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/270676634",
+    "reference": "259387299",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:37590",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/37590",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "STORTEMELK",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/270676763",
+    "reference": "259389387",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:53203",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/53203",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "RECREATIECENTRUM DUINKERSOORD A525",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/270676792",
+    "reference": "259081844",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:52533",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/52533",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "LUTINELAAN",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/270676943",
+    "reference": "259389471",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:11562",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/11562",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DUINKERSOORD",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/270676985",
+    "reference": "259753488",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:14125",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/14125",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "W DE VLAMINGHWEG 43",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/306289508",
+    "reference": "259389433",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/436751889",
+    "reference": "706408308",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/436751892",
+    "reference": "706362764",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21769",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21769",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591036 HAKVOORTSTR 44 A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/436925856",
+    "reference": "32023282337778",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:62354",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/62354",
+        "distanceMetres": 0.17
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "STORTEMELK 3 A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/594743044",
+    "reference": "704197474",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/594743058",
+    "reference": "704259089",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:19275",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/19275",
+        "distanceMetres": 0.45
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591030 L RIET 6",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/618068395",
+    "reference": "706281264",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:23227",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/23227",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591014 STEENBANK 9",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/801523806",
+    "reference": "704934838",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:60289",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/60289",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591033 TOPWG 2A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/801523835",
+    "reference": "706372715",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:19389",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/19389",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591003 MONUMENTLN 67",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/981563432",
+    "reference": "710265768",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18007",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18007",
+        "distanceMetres": 0.27
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991866 STAARTWG 4",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/981563433",
+    "reference": "710358936",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18485",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18485",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991122 URKERWG 52",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/981570831",
+    "reference": "710260919",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18006",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18006",
+        "distanceMetres": 0.31
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.991867 STAARTWG 10",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/981570832",
+    "reference": "710257125",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/981826630",
+    "reference": "710269930",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1240983871",
+    "reference": "183596993863248",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:54863",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/54863",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOORDERRINGWEG 1 NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "20kV/10kV",
+    "voltageAgreement": false,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1358514996",
+    "reference": "59614166906838",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:1820",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/1820",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "VAN HEEMSKERCKLAAN 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1358514997",
+    "reference": "59614166906856",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:47564",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/47564",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "BARON VAN GHENTLAAN 5",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229831",
+    "reference": "59614166906874",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:3871",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/3871",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MICHIEL DE RUYTERALLEE 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229832",
+    "reference": "59614166906883",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:1033",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/1033",
+        "distanceMetres": 0.12
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MICHIEL DE RUYTERALLEE 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229833",
+    "reference": "59614166906865",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:3870",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/3870",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "PIET HEYNALLEE 6",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229834",
+    "reference": "59614166906820",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:32420",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/32420",
+        "distanceMetres": 0.32
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "PIETER FLORISZPLEIN 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229835",
+    "reference": "59614166906847",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:47565",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/47565",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "PIETER FLORISZPLEIN 4",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229836",
+    "reference": "32023297703760",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:43392",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/43392",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "VAN NESLAAN",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229837",
+    "reference": "32023297860882",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:1585",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/1585",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "VAN HEEMSKERCKLAAN",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419229838",
+    "reference": "59614166906829",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:1008",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/1008",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "BANCKERTLAAN 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232561",
+    "reference": "183596970973173",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:60072",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/60072",
+        "distanceMetres": 0.17
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MARSDIEP 15",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232562",
+    "reference": "981584987",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:46921",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/46921",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MOLENGAT 1B TO",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232563",
+    "reference": "183596971133535",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:51275",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/51275",
+        "distanceMetres": 0.18
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DOOVE BALG 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232564",
+    "reference": "183596971141936",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:10811",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/10811",
+        "distanceMetres": 0.06
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SCHEURRAK 8 NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232565",
+    "reference": "781816771",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:37801",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/37801",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DOMINEESWEG BIJ 36",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232567",
+    "reference": "183597001195245",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:14562",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/14562",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "HET SPIJK 16 A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232568",
+    "reference": "9964328316272",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:9287",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/9287",
+        "distanceMetres": 0.26
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "HOORNSE HOP 1 G",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419232569",
+    "reference": "704239827",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:38512",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/38512",
+        "distanceMetres": 0.18
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591107 DE HORS",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236081",
+    "reference": "1024525141",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:79346",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/79346",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "CHRISTINASTRAAT 73",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236082",
+    "reference": "59614169856946",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:3767",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/3767",
+        "distanceMetres": 0.19
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "AMALIAHOF 34",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236083",
+    "reference": "32023313980138",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:36058",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/36058",
+        "distanceMetres": 0.13
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DE BRUG 11 NB",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236084",
+    "reference": "710299990",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:17779",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/17779",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591122 TALMA HAVEN",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236085",
+    "reference": "183597034522988",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:2850",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/2850",
+        "distanceMetres": 0.17
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NIJVERHEIDSPAD 6",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236086",
+    "reference": "32439896455043",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:46003",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/46003",
+        "distanceMetres": 1.35
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "BURG. J. SCHIPPER KADE 12 B",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236088",
+    "reference": "183597038888299",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:44896",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/44896",
+        "distanceMetres": 0.13
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NIEUW GUINEASTRAAT 85A NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236089",
+    "reference": "32023305339182",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:42288",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/42288",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "WAAIERSHOEK 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236090",
+    "reference": "704918879",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:60288",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/60288",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591113 URK LOGGER",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236091",
+    "reference": "183597031433690",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:55698",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/55698",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "BOOMKOR 2 ATR",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419236092",
+    "reference": "710277508",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18009",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18009",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591126 NAGEL 93",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419239520",
+    "reference": "269431904540939",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:6953",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/6953",
+        "distanceMetres": 0.12
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "ANS JONKERSINGEL",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419241246",
+    "reference": "710295456",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18010",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18010",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591115 NAGEL 3E FASE WINKELCENTR.",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419243660",
+    "reference": "1099513235498",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:2100",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/2100",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MALZWIN 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419246416",
+    "reference": "183596971005956",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:17350",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/17350",
+        "distanceMetres": 0.56
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "BREEHORN 8 B",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1419246417",
+    "reference": "711070402",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:66242",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/66242",
+        "distanceMetres": 0.18
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591121 MALZWIN",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1423527242",
+    "reference": "705842970",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:566871",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/566871",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591105 VLECHTTUINEN 1A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1432014162",
+    "reference": "269431904545233",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:43643",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/43643",
+        "distanceMetres": 0.17
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "ALEIDA DIJKHUIZENHAGE",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448222891",
+    "reference": "768870166",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:50450",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/50450",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "FRISOSTRAAT T/O NR 32",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448222892",
+    "reference": "1024525133",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:52731",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/52731",
+        "distanceMetres": 0.17
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "CONSTANTIJNSTRAAT 55",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448222893",
+    "reference": "710466980",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:19375",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/19375",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591130 WILLEM ALEXANDER",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448222895",
+    "reference": "32023325078776",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:15320",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/15320",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DE NOORD 12 ATR",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234980",
+    "reference": "1024525125",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:79231",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/79231",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "CHRISTINASTRAAT 35",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234981",
+    "reference": "710079816",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:16479",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/16479",
+        "distanceMetres": 0.35
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591124 DE RIEPEL 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234982",
+    "reference": "710067593",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:16477",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/16477",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591116 URK GRIEND 11",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234983",
+    "reference": "1007827261",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:17486",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/17486",
+        "distanceMetres": 0.26
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DOMINEESWEG 29",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234984",
+    "reference": "710183454",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:41742",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/41742",
+        "distanceMetres": 1.37
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981024 DOMINEESWG 29",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234985",
+    "reference": "9964349041936",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:11896",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/11896",
+        "distanceMetres": 0.46
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "VLIESTROOM 8A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234986",
+    "reference": "59614156800204",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:79348",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/79348",
+        "distanceMetres": 0.39
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "OSLOLAAN 4",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448234987",
+    "reference": "706313113",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:19388",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/19388",
+        "distanceMetres": 0.48
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591132 INDUSTRIERONDWEG 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448275070",
+    "reference": "710206201",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:17524",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/17524",
+        "distanceMetres": 0.06
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981175 ZUIDERMEERWEG 49",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448275071",
+    "reference": "710085053",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:16480",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/16480",
+        "distanceMetres": 0.13
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591125 STAARTWEG 16A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448275072",
+    "reference": "710348352",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:18484",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/18484",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991706 URKERWG 58",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448275073",
+    "reference": "709779154",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21364",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21364",
+        "distanceMetres": 0.17
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.991105 K DOORMANWG 62",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448275074",
+    "reference": "710186674",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:17522",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/17522",
+        "distanceMetres": 2.6
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981038 DOMINEESWG 27",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448275075",
+    "reference": "704249169",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:56768",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/56768",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591127 HET SPIJK 2T",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1448288608",
+    "reference": "774534171",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1448290158",
+    "reference": "59614169204251",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1448293616",
+    "reference": "709842372",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21837",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21837",
+        "distanceMetres": 0.99
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URK.591047 T KLIF 33",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1466503963",
+    "reference": "710247245",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474690797",
+    "reference": "1020988351",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474690798",
+    "reference": "882575222",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474690799",
+    "reference": "818356809",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474690800",
+    "reference": "269431891721956",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474770222",
+    "reference": "32439899107252",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474773271",
+    "reference": "1007827929",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474773272",
+    "reference": "706294477",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474773274",
+    "reference": "32439896739678",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:41664",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/41664",
+        "distanceMetres": 0.34
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "KLIFWEG 10 NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1474793943",
+    "reference": "32439927765771",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474793944",
+    "reference": "32023320231965",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474793945",
+    "reference": "704197923",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474793946",
+    "reference": "183596970999463",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:33224",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/33224",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "WESTWAL 5 A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1474793947",
+    "reference": "704254820",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474793948",
+    "reference": "710072419",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474793949",
+    "reference": "32439894497518",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:8508",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/8508",
+        "distanceMetres": 0.18
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DE RIEPEL 7",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1474793950",
+    "reference": "1099520207934",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474842119",
+    "reference": "130665794504037",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474842120",
+    "reference": "9964345824997",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:58334",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/58334",
+        "distanceMetres": 0.46
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "FOKSDIEP 28 A NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1474842121",
+    "reference": "130665830466512",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474842122",
+    "reference": "269431924022273",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474842123",
+    "reference": "704207707",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474842124",
+    "reference": "956929310",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1474842125",
+    "reference": "710265321",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477769186",
+    "reference": "9964349162621",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477769187",
+    "reference": "797677589",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477769188",
+    "reference": "32023312318472",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477773787",
+    "reference": "705847270",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477798061",
+    "reference": "934068385",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477813240",
+    "reference": "989336559",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477813241",
+    "reference": "9964331994677",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:16025",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/16025",
+        "distanceMetres": 0.43
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "ZUIDERMEERWEG NB 49",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477817425",
+    "reference": "778954737",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:79228",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/79228",
+        "distanceMetres": 0.27
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "URKERDWARSPAD",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477819917",
+    "reference": "269431908251077",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:5540",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/5540",
+        "distanceMetres": 0.61
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SPERWER 24 ATR",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477819918",
+    "reference": "269431904618022",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477819919",
+    "reference": "709771039",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:23219",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/23219",
+        "distanceMetres": 0.29
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981057 TOLLEBEEK WEST FASE 3",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477819920",
+    "reference": "59614158113417",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:2021",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/2021",
+        "distanceMetres": 0.27
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "KAMPPLAATS 27",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477819921",
+    "reference": "969799958",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:532",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/532",
+        "distanceMetres": 0.39
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NIMRODSTRAAT 2 THV",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477819922",
+    "reference": "183596988193032",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:26751",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/26751",
+        "distanceMetres": 0.05
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "ZUIDWESTERRINGWEG 30 NB",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477819923",
+    "reference": "710795582",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477819924",
+    "reference": "32023318393548",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477863134",
+    "reference": "269431890053814",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:38222",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/38222",
+        "distanceMetres": 0.24
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "WESTERRAND 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477863135",
+    "reference": "710962210",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477863136",
+    "reference": "32023295385338",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:28507",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/28507",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "WEIDEMOLEN 22",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477863137",
+    "reference": "704926373",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:17036",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/17036",
+        "distanceMetres": 0.24
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981097 ESPEL WEST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477863138",
+    "reference": "32023322675876",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:42870",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/42870",
+        "distanceMetres": 0.3
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DE BUN 7 A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477867077",
+    "reference": "32023301580426",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477867078",
+    "reference": "1099527278269",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477867079",
+    "reference": "1099527328865",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477867080",
+    "reference": "981584896",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477882814",
+    "reference": "706024137",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477882815",
+    "reference": "183596972631557",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:9492",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/9492",
+        "distanceMetres": 0.24
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOORDZEESTRAAT 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882816",
+    "reference": "705823049",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:62636",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/62636",
+        "distanceMetres": 0.34
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981121 ESPELERLAAN 72",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882817",
+    "reference": "705766263",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477882818",
+    "reference": "1099516401409",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:6515",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/6515",
+        "distanceMetres": 0.46
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "WILGENLAAN 14",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882819",
+    "reference": "705831364",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477882820",
+    "reference": "9964333645233",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477882821",
+    "reference": "183596997770103",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:44351",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/44351",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SCHWEITZERSINGEL 3 TO",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882822",
+    "reference": "32023307956385",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:38993",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/38993",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "OOSTERMOER 2",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882823",
+    "reference": "183596969561906",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:48886",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/48886",
+        "distanceMetres": 0.12
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "OVERFLAKKEE 16 NB",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882824",
+    "reference": "32023287996168",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:34204",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/34204",
+        "distanceMetres": 0.05
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SCHIELAND 28 NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882825",
+    "reference": "183596994831844",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:15295",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/15295",
+        "distanceMetres": 0.14
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "WESTERGOLAAN 64",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882826",
+    "reference": "9964333715885",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477882827",
+    "reference": "710426598",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:32635",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/32635",
+        "distanceMetres": 0.22
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981119 ESPELERWG  6 A",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882828",
+    "reference": "183596997739746",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:492",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/492",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "ALETTA JACOBSHAGE 2 ATR",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882829",
+    "reference": "32023325785571",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:14667",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/14667",
+        "distanceMetres": 0.34
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "SUZE GROENEWEGHAGE 9 TO",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882830",
+    "reference": "710106875",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:38326",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/38326",
+        "distanceMetres": 0.44
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981128 JAMES COOKSINGEL 1 TR",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882831",
+    "reference": "1099721282347",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:9989",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/9989",
+        "distanceMetres": 0.15
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "JEANNE D'ARCLAAN 169",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882832",
+    "reference": "864534665",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:459",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/459",
+        "distanceMetres": 0.3
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "C. LELYHAGE",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882833",
+    "reference": "925090078",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21273",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21273",
+        "distanceMetres": 0.05
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "W. KR.NIETHAGE",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882834",
+    "reference": "1099721282338",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:43645",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/43645",
+        "distanceMetres": 0.13
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "JOHN DALTONHAGE 32",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477882835",
+    "reference": "269431900283023",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:39692",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/39692",
+        "distanceMetres": 0.1
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MIEKE SMITHAGE",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891349",
+    "reference": "858023233",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477891350",
+    "reference": "259081787",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:12910",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/12910",
+        "distanceMetres": 1.87
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "POSTWEG",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891351",
+    "reference": "317955897",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:3011",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/3011",
+        "distanceMetres": 1.33
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "DE LANGE PAAL",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891352",
+    "reference": "259373728",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:3531",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/3531",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "KAMPWEG 16",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891353",
+    "reference": "259442434",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:27180",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/27180",
+        "distanceMetres": 0.08
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "BIJ FILTERGEBOUW",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891354",
+    "reference": "771749934",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:14340",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/14340",
+        "distanceMetres": 0.37
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "VUURBOETSPLEIN 16 NAAST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891355",
+    "reference": "259389406",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:11561",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/11561",
+        "distanceMetres": 0.12
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "W DE VLAMINGHWEG/BADWEG",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891356",
+    "reference": "942899337",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:21274",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/21274",
+        "distanceMetres": 0.19
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "WILLEM DE VLAMINGHWEG 17 NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891357",
+    "reference": "610007359",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477891358",
+    "reference": "59614159622308",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:12509",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/12509",
+        "distanceMetres": 0.16
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "LUTINELAAN 4A NST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891359",
+    "reference": "259083932",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477891360",
+    "reference": "259770016",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1477891361",
+    "reference": "802658950",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:1010",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/1010",
+        "distanceMetres": 0.09
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "FORTWEG BIJ 10",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1477891362",
+    "reference": "259763204",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:42933",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/42933",
+        "distanceMetres": 0.24
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "FORTWEG BIJ 1",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1478672317",
+    "reference": "32023309360686",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:34369",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/34369",
+        "distanceMetres": 0.11
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "MEINDERT HOBBEMA 8",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1478672318",
+    "reference": "183597001370131",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:667",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/667",
+        "distanceMetres": 0.21
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "PHILIP DE KONINCK 11 NB",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1478682071",
+    "reference": "705301891",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:40492",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/40492",
+        "distanceMetres": 0.18
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981103 ZUID OOST",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1478682072",
+    "reference": "130665795172746",
+    "status": "identifier not in imported layers",
+    "operatorRecords": []
+  },
+  {
+    "osmId": "way/1478682073",
+    "reference": "993294538",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:64478",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/64478",
+        "distanceMetres": 0.3
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "HET RISTER 11",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  },
+  {
+    "osmId": "way/1479045664",
+    "reference": "709595898",
+    "status": "exact identifier + position",
+    "operatorRecords": [
+      {
+        "id": "liander:642:79824",
+        "url": "https://services1.arcgis.com/v6W5HAVrpgSg3vts/arcgis/rest/services/Liander_Open_Data_Elektra/FeatureServer/642/79824",
+        "distanceMetres": 0.85
+      }
+    ],
+    "originalOsmName": null,
+    "operatorName": "NOP.981067 KUINDERWG 52",
+    "originalOsmVoltage": "10000;400",
+    "operatorVoltage": "10kV/0.4kV",
+    "voltageAgreement": true,
+    "operatorLabelAgreement": true
+  }
+]

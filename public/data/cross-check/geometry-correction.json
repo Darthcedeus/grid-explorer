@@ -1,0 +1,23 @@
+{
+  "method": "Rebuilt display boundaries from valid original source geometry using Shapely 2.1.2 set_precision, valid_output, grid 0.00001 degrees. Collapsed sub-grid rings can be removed. No statistical attributes or original archives changed. Display precision, not surveyed accuracy.",
+  "datasets": [
+    {
+      "dataset": "public/data/provinces.geojson",
+      "source": "research/raw/provinces.geojson",
+      "sourceSha256": "76d990b9070490726635b4d38e41b0277c19e107bd6a8e4f4e11d8ed019a7ba7",
+      "features": 12,
+      "invalidBefore": 5,
+      "invalidAfter": 0,
+      "propertiesUnchanged": true
+    },
+    {
+      "dataset": "public/data/demand-postcodes.geojson",
+      "source": "research/raw/cbs-postcode-2023.json.gz",
+      "sourceSha256": "4a8f67148b5a7a1a141ba9a5c5c14e671bb19d1bf8b7b1591c0d4901aad4038a",
+      "features": 4070,
+      "invalidBefore": 379,
+      "invalidAfter": 0,
+      "propertiesUnchanged": true
+    }
+  ]
+}

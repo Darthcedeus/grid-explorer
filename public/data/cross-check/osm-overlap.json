@@ -1,0 +1,4898 @@
+[
+  {
+    "id": "node/6736513103",
+    "networkName": "380 kV Centrale Diemen",
+    "stationName": "380 kV Centrale Diemen",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/node/6736513103"
+  },
+  {
+    "id": "node/11195644008",
+    "networkName": "220 kV Hollandse Kust Zuid Beta",
+    "stationName": "220 kV Hollandse Kust Zuid Beta",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/node/11195644008"
+  },
+  {
+    "id": "node/12395644637",
+    "networkName": "110 kV AVI",
+    "stationName": "110 kV AVI",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/node/12395644637"
+  },
+  {
+    "id": "node/12395644638",
+    "networkName": "110 kV Salinco",
+    "stationName": "110 kV Salinco",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/node/12395644638"
+  },
+  {
+    "id": "way/22976749",
+    "networkName": "150 kV Diemen",
+    "stationName": "150 kV Diemen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/22976749"
+  },
+  {
+    "id": "way/22984334",
+    "networkName": "380 kV Oostzaan",
+    "stationName": "380 kV Oostzaan",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/22984334"
+  },
+  {
+    "id": "way/23094591",
+    "networkName": "150 kV Oosteind",
+    "stationName": "150 kV Oosteind",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23094591"
+  },
+  {
+    "id": "way/23094714",
+    "networkName": "150 kV Geertruidenberg",
+    "stationName": "150 kV Geertruidenberg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23094714"
+  },
+  {
+    "id": "way/23094921",
+    "networkName": "150 kV Waalwijk",
+    "stationName": "150 kV Waalwijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23094921"
+  },
+  {
+    "id": "way/23094981",
+    "networkName": "150 kV 's Hertogenbosch Noord",
+    "stationName": "150 kV 's Hertogenbosch Noord",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23094981"
+  },
+  {
+    "id": "way/23095605",
+    "networkName": "150 kV 's Graveland",
+    "stationName": "150 kV 's Graveland",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23095605"
+  },
+  {
+    "id": "way/23095791",
+    "networkName": "150 kV Breukelen",
+    "stationName": "150 kV Breukelen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23095791"
+  },
+  {
+    "id": "way/23096302",
+    "networkName": "150 kV Wijdewormer",
+    "stationName": "150 kV Wijdewormer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23096302"
+  },
+  {
+    "id": "way/23096382",
+    "networkName": "150 kV Oterleek",
+    "stationName": "150 kV Oterleek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23096382"
+  },
+  {
+    "id": "way/23096966",
+    "networkName": "380 kV Geertruidenberg",
+    "stationName": "380 kV Geertruidenberg",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23096966"
+  },
+  {
+    "id": "way/23112759",
+    "networkName": "150 kV Zeewolde",
+    "stationName": "150 kV Zeewolde",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23112759"
+  },
+  {
+    "id": "way/23112802",
+    "networkName": "150 kV Bunschoten",
+    "stationName": "150 kV Bunschoten",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23112802"
+  },
+  {
+    "id": "way/23112862",
+    "networkName": "150 kV Soest",
+    "stationName": "150 kV Soest",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23112862"
+  },
+  {
+    "id": "way/23120968",
+    "networkName": "150 kV Oudenrijn",
+    "stationName": "150 kV Oudenrijn",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23120968"
+  },
+  {
+    "id": "way/23135563",
+    "networkName": "380 kV Crayestein",
+    "stationName": "380 kV Crayestein",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23135563"
+  },
+  {
+    "id": "way/23135620",
+    "networkName": "150 kV Middelharnis",
+    "stationName": "150 kV Middelharnis",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23135620"
+  },
+  {
+    "id": "way/23135627",
+    "networkName": "150 kV Moerdijk",
+    "stationName": "150 kV Moerdijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23135627"
+  },
+  {
+    "id": "way/23135699",
+    "networkName": "150 kV Geervliet Noorddijk",
+    "stationName": "150 kV Geervliet Noorddijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23135699"
+  },
+  {
+    "id": "way/23135714",
+    "networkName": "380 kV Maasvlakte",
+    "stationName": "380 kV Maasvlakte",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23135714"
+  },
+  {
+    "id": "way/23135864",
+    "networkName": "150 kV Driebergen",
+    "stationName": "150 kV Driebergen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23135864"
+  },
+  {
+    "id": "way/23136337",
+    "networkName": "150 kV Rilland",
+    "stationName": "150 kV Rilland",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23136337"
+  },
+  {
+    "id": "way/23136414",
+    "networkName": "150 kV Woensdrecht",
+    "stationName": "150 kV Woensdrecht",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23136414"
+  },
+  {
+    "id": "way/23137579",
+    "networkName": "150 kV Zaltbommel",
+    "stationName": "150 kV Zaltbommel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23137579"
+  },
+  {
+    "id": "way/23138003",
+    "networkName": "150 kV Tiel",
+    "stationName": "150 kV Tiel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23138003"
+  },
+  {
+    "id": "way/23140069",
+    "networkName": "150 kV Graetheide",
+    "stationName": "150 kV Graetheide",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23140069"
+  },
+  {
+    "id": "way/23140196",
+    "networkName": "150 kV Limmel",
+    "stationName": "150 kV Limmel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23140196"
+  },
+  {
+    "id": "way/23140502",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23140502"
+  },
+  {
+    "id": "way/23140801",
+    "networkName": "150 kV Lutterade",
+    "stationName": "150 kV Lutterade",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23140801"
+  },
+  {
+    "id": "way/23141154",
+    "networkName": "150 kV Beek",
+    "stationName": "150 kV Beek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23141154"
+  },
+  {
+    "id": "way/23640930",
+    "networkName": "150 kV Lage Weide",
+    "stationName": "150 kV Lage Weide",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/23640930"
+  },
+  {
+    "id": "way/25465725",
+    "networkName": "150 kV Dodewaard",
+    "stationName": "150 kV Dodewaard",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/25465725"
+  },
+  {
+    "id": "way/26142609",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/26142609"
+  },
+  {
+    "id": "way/27078167",
+    "networkName": "150 kV Nieuwegein",
+    "stationName": "150 kV Nieuwegein",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/27078167"
+  },
+  {
+    "id": "way/27130532",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/27130532"
+  },
+  {
+    "id": "way/32042392",
+    "networkName": "110 kV Winschoten",
+    "stationName": "110 kV Winschoten",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/32042392"
+  },
+  {
+    "id": "way/41394481",
+    "networkName": "150 kV Gouda",
+    "stationName": "150 kV Gouda",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/41394481"
+  },
+  {
+    "id": "way/44659469",
+    "networkName": "110 kV Assen Marsdijk",
+    "stationName": "110 kV Assen Marsdijk",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/44659469"
+  },
+  {
+    "id": "way/48914855",
+    "networkName": "150 kV Alblasserdam",
+    "stationName": "150 kV Alblasserdam",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/48914855"
+  },
+  {
+    "id": "way/51125512",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/51125512"
+  },
+  {
+    "id": "way/51162096",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/51162096"
+  },
+  {
+    "id": "way/51265419",
+    "networkName": "150 kV Venserweg",
+    "stationName": "150 kV Venserweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/51265419"
+  },
+  {
+    "id": "way/51266527",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/51266527"
+  },
+  {
+    "id": "way/51267452",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/51267452"
+  },
+  {
+    "id": "way/51317971",
+    "networkName": "150 kV 's Hertogenbosch West",
+    "stationName": "150 kV 's Hertogenbosch West",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/51317971"
+  },
+  {
+    "id": "way/54068793",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/54068793"
+  },
+  {
+    "id": "way/60475837",
+    "networkName": "150 kV Bergen op Zoom",
+    "stationName": "150 kV Bergen op Zoom",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/60475837"
+  },
+  {
+    "id": "way/72888152",
+    "networkName": "380 kV Bleiswijk",
+    "stationName": "380 kV Bleiswijk",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/72888152"
+  },
+  {
+    "id": "way/72888154",
+    "networkName": "150 kV Wateringen",
+    "stationName": "150 kV Wateringen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/72888154"
+  },
+  {
+    "id": "way/75870373",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/75870373"
+  },
+  {
+    "id": "way/80233205",
+    "networkName": "110 kV Noordoostpolder Voorsterweg",
+    "stationName": "110 kV Noordoostpolder Voorsterweg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/80233205"
+  },
+  {
+    "id": "way/82290338",
+    "networkName": "150 kV Langerak",
+    "stationName": "150 kV Langerak",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/82290338"
+  },
+  {
+    "id": "way/83423799",
+    "networkName": "380 kV Hengelo",
+    "stationName": "380 kV Hengelo",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/83423799"
+  },
+  {
+    "id": "way/83423800",
+    "networkName": "110 kV Oele",
+    "stationName": "110 kV Oele",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/83423800"
+  },
+  {
+    "id": "way/87177513",
+    "networkName": "150 kV Dronten",
+    "stationName": "150 kV Dronten",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87177513"
+  },
+  {
+    "id": "way/87177559",
+    "networkName": "380 kV Ens",
+    "stationName": "380 kV Ens",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87177559"
+  },
+  {
+    "id": "way/87201685",
+    "networkName": "150 kV Schoonbron",
+    "stationName": "150 kV Schoonbron",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87201685"
+  },
+  {
+    "id": "way/87207979",
+    "networkName": "150 kV Druten",
+    "stationName": "150 kV Druten",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87207979"
+  },
+  {
+    "id": "way/87207981",
+    "networkName": "150 kV Lelystad",
+    "stationName": "150 kV Lelystad",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87207981"
+  },
+  {
+    "id": "way/87207986",
+    "networkName": "150 kV Uden",
+    "stationName": "150 kV Uden",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87207986"
+  },
+  {
+    "id": "way/87207992",
+    "networkName": "150 kV Helmond Oost",
+    "stationName": "150 kV Helmond Oost",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;20000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87207992"
+  },
+  {
+    "id": "way/87208002",
+    "networkName": "150 kV Harderwijk",
+    "stationName": "150 kV Harderwijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87208002"
+  },
+  {
+    "id": "way/87208003",
+    "networkName": "150 kV Eindhoven Zuid",
+    "stationName": "150 kV Eindhoven Zuid",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87208003"
+  },
+  {
+    "id": "way/87208010",
+    "networkName": "150 kV Teersdijk",
+    "stationName": "150 kV Teersdijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87208010"
+  },
+  {
+    "id": "way/87208012",
+    "networkName": "150 kV Kattenberg",
+    "stationName": "150 kV Kattenberg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87208012"
+  },
+  {
+    "id": "way/87208015",
+    "networkName": "150 kV Maarheeze",
+    "stationName": "150 kV Maarheeze",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87208015"
+  },
+  {
+    "id": "way/87282306",
+    "networkName": "150 kV Belfeld",
+    "stationName": "150 kV Belfeld",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87282306"
+  },
+  {
+    "id": "way/87322581",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87322581"
+  },
+  {
+    "id": "way/87322583",
+    "networkName": "150 kV Oostburg",
+    "stationName": "150 kV Oostburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87322583"
+  },
+  {
+    "id": "way/87322585",
+    "networkName": "150 kV Westdorpe",
+    "stationName": "150 kV Westdorpe",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87322585"
+  },
+  {
+    "id": "way/87322587",
+    "networkName": "150 kV Terneuzen",
+    "stationName": "150 kV Terneuzen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87322587"
+  },
+  {
+    "id": "way/87342754",
+    "networkName": "220 kV Vierverlaten",
+    "stationName": "220 kV Vierverlaten",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87342754"
+  },
+  {
+    "id": "way/87342758",
+    "networkName": "220 kV Meeden",
+    "stationName": "220 kV Meeden",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87342758"
+  },
+  {
+    "id": "way/87353777",
+    "networkName": "110 kV Kropswolde",
+    "stationName": "110 kV Kropswolde",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87353777"
+  },
+  {
+    "id": "way/87354306",
+    "networkName": "380 kV Zwolle",
+    "stationName": "380 kV Zwolle",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87354306"
+  },
+  {
+    "id": "way/87354307",
+    "networkName": "220 kV Hessenweg",
+    "stationName": "220 kV Hessenweg",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87354307"
+  },
+  {
+    "id": "way/87358157",
+    "networkName": "220 kV Oudehaske",
+    "stationName": "220 kV Oudehaske",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000;110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87358157"
+  },
+  {
+    "id": "way/87364036",
+    "networkName": "150 kV Hattem",
+    "stationName": "150 kV Hattem",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87364036"
+  },
+  {
+    "id": "way/87364043",
+    "networkName": "150 kV Vaassen",
+    "stationName": "150 kV Vaassen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87364043"
+  },
+  {
+    "id": "way/87364049",
+    "networkName": "110 kV Harculo",
+    "stationName": "110 kV Harculo",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87364049"
+  },
+  {
+    "id": "way/87364702",
+    "networkName": "110 kV Raalte",
+    "stationName": "110 kV Raalte",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87364702"
+  },
+  {
+    "id": "way/87365396",
+    "networkName": "110 kV Weteringkade",
+    "stationName": "110 kV Weteringkade",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87365396"
+  },
+  {
+    "id": "way/87369452",
+    "networkName": "110 kV Olst",
+    "stationName": "110 kV Olst",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87369452"
+  },
+  {
+    "id": "way/87370991",
+    "networkName": "110 kV Goor",
+    "stationName": "110 kV Goor",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87370991"
+  },
+  {
+    "id": "way/87370992",
+    "networkName": "110 kV Weideweg",
+    "stationName": "110 kV Weideweg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87370992"
+  },
+  {
+    "id": "way/87370994",
+    "networkName": "110 kV Deventer Bergweide",
+    "stationName": "110 kV Deventer Bergweide",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87370994"
+  },
+  {
+    "id": "way/87370995",
+    "networkName": "110 kV Deventer Platvoet",
+    "stationName": "110 kV Deventer Platvoet",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87370995"
+  },
+  {
+    "id": "way/87370996",
+    "networkName": "110 kV Rijssen",
+    "stationName": "110 kV Rijssen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87370996"
+  },
+  {
+    "id": "way/87377571",
+    "networkName": "110 kV Zwartsluis",
+    "stationName": "110 kV Zwartsluis",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87377571"
+  },
+  {
+    "id": "way/87377579",
+    "networkName": "110 kV Steenwijk",
+    "stationName": "110 kV Steenwijk",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87377579"
+  },
+  {
+    "id": "way/87377580",
+    "networkName": "110 kV Meppel",
+    "stationName": "110 kV Meppel",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87377580"
+  },
+  {
+    "id": "way/87382991",
+    "networkName": "110 kV Vollenhove",
+    "stationName": "110 kV Vollenhove",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87382991"
+  },
+  {
+    "id": "way/87439115",
+    "networkName": "110 kV Rauwerd",
+    "stationName": "110 kV Rauwerd",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87439115"
+  },
+  {
+    "id": "way/87439119",
+    "networkName": "110 kV Lemmer",
+    "stationName": "110 kV Lemmer",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87439119"
+  },
+  {
+    "id": "way/87448633",
+    "networkName": "110 kV Louwsmeer",
+    "stationName": "110 kV Louwsmeer",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87448633"
+  },
+  {
+    "id": "way/87448636",
+    "networkName": "110 kV Drachten",
+    "stationName": "110 kV Drachten",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87448636"
+  },
+  {
+    "id": "way/87448656",
+    "networkName": "220 kV Bergum",
+    "stationName": "220 kV Bergum",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000;110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87448656"
+  },
+  {
+    "id": "way/87451505",
+    "networkName": "110 kV Dokkum",
+    "stationName": "110 kV Dokkum",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87451505"
+  },
+  {
+    "id": "way/87451508",
+    "networkName": "110 kV Winsum Ranum",
+    "stationName": "110 kV Winsum Ranum",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87451508"
+  },
+  {
+    "id": "way/87787021",
+    "networkName": "150 kV Shell Moerdijk",
+    "stationName": "150 kV Shell Moerdijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87787021"
+  },
+  {
+    "id": "way/87787023",
+    "networkName": "150 kV WKC Moerdijk",
+    "stationName": "150 kV WKC Moerdijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87787023"
+  },
+  {
+    "id": "way/87787238",
+    "networkName": "150 kV Borssele",
+    "stationName": "150 kV Borssele",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87787238"
+  },
+  {
+    "id": "way/87792499",
+    "networkName": "380 kV Dodewaard",
+    "stationName": "380 kV Dodewaard",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87792499"
+  },
+  {
+    "id": "way/87794279",
+    "networkName": "380 kV Lelystad",
+    "stationName": "380 kV Lelystad",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87794279"
+  },
+  {
+    "id": "way/87847415",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87847415"
+  },
+  {
+    "id": "way/87850288",
+    "networkName": "150 kV Goes de Poel",
+    "stationName": "150 kV Goes de Poel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87850288"
+  },
+  {
+    "id": "way/87852567",
+    "networkName": "Scheelkampen",
+    "stationName": "Scheelkampen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/87852567"
+  },
+  {
+    "id": "way/88074959",
+    "networkName": "110 kV Nijverdal",
+    "stationName": "110 kV Nijverdal",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88074959"
+  },
+  {
+    "id": "way/88074974",
+    "networkName": "110 kV Almelo Mosterdpot",
+    "stationName": "110 kV Almelo Mosterdpot",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88074974"
+  },
+  {
+    "id": "way/88074978",
+    "networkName": "110 kV Almelo Tusveld",
+    "stationName": "110 kV Almelo Tusveld",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88074978"
+  },
+  {
+    "id": "way/88074984",
+    "networkName": "110 kV Veenoord",
+    "stationName": "110 kV Veenoord",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88074984"
+  },
+  {
+    "id": "way/88074988",
+    "networkName": "150 kV Weertheide",
+    "stationName": "150 kV Weertheide",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88074988"
+  },
+  {
+    "id": "way/88075001",
+    "networkName": "110 kV Enschede Marssteden",
+    "stationName": "110 kV Enschede Marssteden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88075001"
+  },
+  {
+    "id": "way/88075004",
+    "networkName": "150 kV Lochem",
+    "stationName": "150 kV Lochem",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88075004"
+  },
+  {
+    "id": "way/88075018",
+    "networkName": "150 kV Venray",
+    "stationName": "150 kV Venray",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88075018"
+  },
+  {
+    "id": "way/88075020",
+    "networkName": "150 kV Beersdal",
+    "stationName": "150 kV Beersdal",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88075020"
+  },
+  {
+    "id": "way/88075022",
+    "networkName": "110 kV Ommen Dante",
+    "stationName": "110 kV Ommen Dante",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88075022"
+  },
+  {
+    "id": "way/88075030",
+    "networkName": "110 kV Tubbergen",
+    "stationName": "110 kV Tubbergen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88075030"
+  },
+  {
+    "id": "way/88075066",
+    "networkName": "110 kV Vroomshoop",
+    "stationName": "110 kV Vroomshoop",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/88075066"
+  },
+  {
+    "id": "way/89178675",
+    "networkName": "380 kV Eemshaven",
+    "stationName": "380 kV Eemshaven",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/89178675"
+  },
+  {
+    "id": "way/96382843",
+    "networkName": "150 kV De Lier",
+    "stationName": "150 kV De Lier",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/96382843"
+  },
+  {
+    "id": "way/96382845",
+    "networkName": "380 kV Westerlee",
+    "stationName": "380 kV Westerlee",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/96382845"
+  },
+  {
+    "id": "way/96382846",
+    "networkName": "150 kV Westerlee",
+    "stationName": "150 kV Westerlee",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/96382846"
+  },
+  {
+    "id": "way/101807326",
+    "networkName": "150 kV Haarlemmermeer",
+    "stationName": "150 kV Haarlemmermeer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;20000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/101807326"
+  },
+  {
+    "id": "way/112181304",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/112181304"
+  },
+  {
+    "id": "way/113367686",
+    "networkName": "150 kV Born",
+    "stationName": "150 kV Born",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/113367686"
+  },
+  {
+    "id": "way/115300231",
+    "networkName": "150 kV Terwinselen",
+    "stationName": "150 kV Terwinselen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/115300231"
+  },
+  {
+    "id": "way/115952861",
+    "networkName": "110 kV Breezanddijk",
+    "stationName": "110 kV Breezanddijk",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/115952861"
+  },
+  {
+    "id": "way/117705482",
+    "networkName": "150 kV Rijswijk",
+    "stationName": "150 kV Rijswijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/117705482"
+  },
+  {
+    "id": "way/129638874",
+    "networkName": "220 kV Eemshaven Oost",
+    "stationName": "220 kV Eemshaven Oost",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/129638874"
+  },
+  {
+    "id": "way/129638950",
+    "networkName": "380 kV Eemshaven Oudeschip",
+    "stationName": "380 kV Eemshaven Oudeschip",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/129638950"
+  },
+  {
+    "id": "way/129650340",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/129650340"
+  },
+  {
+    "id": "way/129650341",
+    "networkName": "150 kV Botlek",
+    "stationName": "150 kV Botlek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/129650341"
+  },
+  {
+    "id": "way/129650343",
+    "networkName": "150 kV Europoort",
+    "stationName": "150 kV Europoort",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000;23000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/129650343"
+  },
+  {
+    "id": "way/129650358",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/129650358"
+  },
+  {
+    "id": "way/137891772",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/137891772"
+  },
+  {
+    "id": "way/140909247",
+    "networkName": "110 kV Kampen",
+    "stationName": "110 kV Kampen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/140909247"
+  },
+  {
+    "id": "way/146809673",
+    "networkName": "380 kV Enecogen",
+    "stationName": "380 kV Enecogen",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/146809673"
+  },
+  {
+    "id": "way/146901292",
+    "networkName": "380 kV Simonshaven",
+    "stationName": "380 kV Simonshaven",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/146901292"
+  },
+  {
+    "id": "way/146908530",
+    "networkName": "150 kV Sassenheim",
+    "stationName": "150 kV Sassenheim",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/146908530"
+  },
+  {
+    "id": "way/146908538",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/146908538"
+  },
+  {
+    "id": "way/146910463",
+    "networkName": "150 kV Vijfhuizen",
+    "stationName": "150 kV Vijfhuizen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/146910463"
+  },
+  {
+    "id": "way/147359112",
+    "networkName": "150 kV Zoetermeer HSL",
+    "stationName": "150 kV Zoetermeer HSL",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/147359112"
+  },
+  {
+    "id": "way/148687862",
+    "networkName": "150 kV Hemweg",
+    "stationName": "150 kV Hemweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/148687862"
+  },
+  {
+    "id": "way/155505087",
+    "networkName": "150 kV Ypenburg",
+    "stationName": "150 kV Ypenburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000;23000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/155505087"
+  },
+  {
+    "id": "way/155505101",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/155505101"
+  },
+  {
+    "id": "way/157902099",
+    "networkName": "380 kV Boxmeer",
+    "stationName": "380 kV Boxmeer",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/157902099"
+  },
+  {
+    "id": "way/158180423",
+    "networkName": "150 kV Ede",
+    "stationName": "150 kV Ede",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/158180423"
+  },
+  {
+    "id": "way/158564362",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/158564362"
+  },
+  {
+    "id": "way/158595367",
+    "networkName": "150 kV Middelburg",
+    "stationName": "150 kV Middelburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/158595367"
+  },
+  {
+    "id": "way/158595369",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/158595369"
+  },
+  {
+    "id": "way/158595371",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/158595371"
+  },
+  {
+    "id": "way/158595374",
+    "networkName": "150 kV Vlissingen",
+    "stationName": "150 kV Vlissingen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/158595374"
+  },
+  {
+    "id": "way/158601617",
+    "networkName": "NorNed Converterstation",
+    "stationName": "NorNed Converterstation",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "450000;380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/158601617"
+  },
+  {
+    "id": "way/162176185",
+    "networkName": "150 kV Maasbracht",
+    "stationName": "150 kV Maasbracht",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162176185"
+  },
+  {
+    "id": "way/162176187",
+    "networkName": "380 kV Maasbracht",
+    "stationName": "380 kV Maasbracht",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162176187"
+  },
+  {
+    "id": "way/162179284",
+    "networkName": "380 kV Eindhoven",
+    "stationName": "380 kV Eindhoven",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162179284"
+  },
+  {
+    "id": "way/162179855",
+    "networkName": "150 kV Eindhoven Noord",
+    "stationName": "150 kV Eindhoven Noord",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162179855"
+  },
+  {
+    "id": "way/162180850",
+    "networkName": "150 kV Best",
+    "stationName": "150 kV Best",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162180850"
+  },
+  {
+    "id": "way/162181125",
+    "networkName": "150 kV Eindhoven West",
+    "stationName": "150 kV Eindhoven West",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162181125"
+  },
+  {
+    "id": "way/162183344",
+    "networkName": "150 kV Hapert",
+    "stationName": "150 kV Hapert",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162183344"
+  },
+  {
+    "id": "way/162275049",
+    "networkName": "150 kV Huskensweg",
+    "stationName": "150 kV Huskensweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162275049"
+  },
+  {
+    "id": "way/162275050",
+    "networkName": "150 kV Treebeek",
+    "stationName": "150 kV Treebeek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162275050"
+  },
+  {
+    "id": "way/162280813",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162280813"
+  },
+  {
+    "id": "way/162458470",
+    "networkName": "150 kV Merum",
+    "stationName": "150 kV Merum",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162458470"
+  },
+  {
+    "id": "way/162458472",
+    "networkName": "150 kV Roermond",
+    "stationName": "150 kV Roermond",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162458472"
+  },
+  {
+    "id": "way/162465283",
+    "networkName": "150 kV Buggenum",
+    "stationName": "150 kV Buggenum",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162465283"
+  },
+  {
+    "id": "way/162534333",
+    "networkName": "150 kV Budel",
+    "stationName": "150 kV Budel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162534333"
+  },
+  {
+    "id": "way/162534334",
+    "networkName": "150 kV Kelpen",
+    "stationName": "150 kV Kelpen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162534334"
+  },
+  {
+    "id": "way/162534335",
+    "networkName": "150 kV Nederweert",
+    "stationName": "150 kV Nederweert",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162534335"
+  },
+  {
+    "id": "way/162783151",
+    "networkName": "150 kV DSM-1 Swentibold",
+    "stationName": "150 kV DSM-1 Swentibold",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162783151"
+  },
+  {
+    "id": "way/162790139",
+    "networkName": "150 kV Aarle Rixtel",
+    "stationName": "150 kV Aarle Rixtel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162790139"
+  },
+  {
+    "id": "way/162790141",
+    "networkName": "150 kV Helmond Zuid",
+    "stationName": "150 kV Helmond Zuid",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162790141"
+  },
+  {
+    "id": "way/162791828",
+    "networkName": "150 kV Oss",
+    "stationName": "150 kV Oss",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162791828"
+  },
+  {
+    "id": "way/162794290",
+    "networkName": "150 kV Eerde",
+    "stationName": "150 kV Eerde",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162794290"
+  },
+  {
+    "id": "way/162911982",
+    "networkName": "150 kV Biesbosch",
+    "stationName": "150 kV Biesbosch",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162911982"
+  },
+  {
+    "id": "way/162911985",
+    "networkName": "150 kV Tilburg West",
+    "stationName": "150 kV Tilburg West",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162911985"
+  },
+  {
+    "id": "way/162916228",
+    "networkName": "150 kV Breda",
+    "stationName": "150 kV Breda",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162916228"
+  },
+  {
+    "id": "way/162916229",
+    "networkName": "150 kV Etten",
+    "stationName": "150 kV Etten",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162916229"
+  },
+  {
+    "id": "way/162916230",
+    "networkName": "150 kV Princenhage",
+    "stationName": "150 kV Princenhage",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/162916230"
+  },
+  {
+    "id": "way/163031243",
+    "networkName": "150 kV Roosendaal",
+    "stationName": "150 kV Roosendaal",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163031243"
+  },
+  {
+    "id": "way/163031244",
+    "networkName": "150 kV Zevenbergschenhoek",
+    "stationName": "150 kV Zevenbergschenhoek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163031244"
+  },
+  {
+    "id": "way/163135973",
+    "networkName": "150 kV Kruiningen",
+    "stationName": "150 kV Kruiningen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163135973"
+  },
+  {
+    "id": "way/163135974",
+    "networkName": "150 kV Willem Anna Polder",
+    "stationName": "150 kV Willem Anna Polder",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163135974"
+  },
+  {
+    "id": "way/163138890",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163138890"
+  },
+  {
+    "id": "way/163138891",
+    "networkName": "150 kV Hydro Agri Sluiskil",
+    "stationName": "150 kV Hydro Agri Sluiskil",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;15000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163138891"
+  },
+  {
+    "id": "way/163308444",
+    "networkName": "150 kV Blerick",
+    "stationName": "150 kV Blerick",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163308444"
+  },
+  {
+    "id": "way/163308445",
+    "networkName": "150 kV Boekend",
+    "stationName": "150 kV Boekend",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163308445"
+  },
+  {
+    "id": "way/163308446",
+    "networkName": "150 kV Helden",
+    "stationName": "150 kV Helden",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163308446"
+  },
+  {
+    "id": "way/163401492",
+    "networkName": "150 kV Cuijk",
+    "stationName": "150 kV Cuijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163401492"
+  },
+  {
+    "id": "way/163401493",
+    "networkName": "150 kV Gennep",
+    "stationName": "150 kV Gennep",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163401493"
+  },
+  {
+    "id": "way/163401494",
+    "networkName": "150 kV Haps",
+    "stationName": "150 kV Haps",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163401494"
+  },
+  {
+    "id": "way/163401495",
+    "networkName": "150 kV Horst",
+    "stationName": "150 kV Horst",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163401495"
+  },
+  {
+    "id": "way/163405156",
+    "networkName": "150 kV Nijmegen",
+    "stationName": "150 kV Nijmegen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163405156"
+  },
+  {
+    "id": "way/163405157",
+    "networkName": "150 kV Philips",
+    "stationName": "150 kV Philips",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163405157"
+  },
+  {
+    "id": "way/163484690",
+    "networkName": "150 kV Elst",
+    "stationName": "150 kV Elst",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163484690"
+  },
+  {
+    "id": "way/163484693",
+    "networkName": "150 kV Renkum",
+    "stationName": "150 kV Renkum",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163484693"
+  },
+  {
+    "id": "way/163989098",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989098"
+  },
+  {
+    "id": "way/163989099",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989099"
+  },
+  {
+    "id": "way/163989101",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989101"
+  },
+  {
+    "id": "way/163989102",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989102"
+  },
+  {
+    "id": "way/163989104",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989104"
+  },
+  {
+    "id": "way/163989110",
+    "networkName": "150 kV Borculo",
+    "stationName": "150 kV Borculo",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989110"
+  },
+  {
+    "id": "way/163989111",
+    "networkName": "150 kV Dale",
+    "stationName": "150 kV Dale",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989111"
+  },
+  {
+    "id": "way/163989112",
+    "networkName": "150 kV Ulft",
+    "stationName": "150 kV Ulft",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989112"
+  },
+  {
+    "id": "way/163989113",
+    "networkName": "150 kV Winterswijk",
+    "stationName": "150 kV Winterswijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989113"
+  },
+  {
+    "id": "way/163989114",
+    "networkName": "150 kV Zevenaar",
+    "stationName": "150 kV Zevenaar",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163989114"
+  },
+  {
+    "id": "way/163996254",
+    "networkName": "150 kV Eerbeek",
+    "stationName": "150 kV Eerbeek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163996254"
+  },
+  {
+    "id": "way/163996255",
+    "networkName": "150 kV Woudhuis",
+    "stationName": "150 kV Woudhuis",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163996255"
+  },
+  {
+    "id": "way/163996256",
+    "networkName": "150 kV Zutphen",
+    "stationName": "150 kV Zutphen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163996256"
+  },
+  {
+    "id": "way/163996257",
+    "networkName": "150 kV Apeldoorn",
+    "stationName": "150 kV Apeldoorn",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/163996257"
+  },
+  {
+    "id": "way/164093713",
+    "networkName": "150 kV Almere",
+    "stationName": "150 kV Almere",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164093713"
+  },
+  {
+    "id": "way/164093714",
+    "networkName": "150 kV Kubbetocht",
+    "stationName": "150 kV Kubbetocht",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164093714"
+  },
+  {
+    "id": "way/164093715",
+    "networkName": "150 kV Pampus",
+    "stationName": "150 kV Pampus",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164093715"
+  },
+  {
+    "id": "way/164093716",
+    "networkName": "150 kV Zuiderveld",
+    "stationName": "150 kV Zuiderveld",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164093716"
+  },
+  {
+    "id": "way/164243417",
+    "networkName": "150 kV 't Goeie Spoor",
+    "stationName": "150 kV 't Goeie Spoor",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164243417"
+  },
+  {
+    "id": "way/164243418",
+    "networkName": "150 kV Harselaar",
+    "stationName": "150 kV Harselaar",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164243418"
+  },
+  {
+    "id": "way/164243419",
+    "networkName": "150 kV Wageningselaan",
+    "stationName": "150 kV Wageningselaan",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164243419"
+  },
+  {
+    "id": "way/164406941",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164406941"
+  },
+  {
+    "id": "way/164406943",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164406943"
+  },
+  {
+    "id": "way/164406946",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164406946"
+  },
+  {
+    "id": "way/164498755",
+    "networkName": "150 kV Zoetermeer",
+    "stationName": "150 kV Zoetermeer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164498755"
+  },
+  {
+    "id": "way/164510602",
+    "networkName": "150 kV Amstelveen",
+    "stationName": "150 kV Amstelveen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164510602"
+  },
+  {
+    "id": "way/164510603",
+    "networkName": "150 kV Bijlmer Zuid",
+    "stationName": "150 kV Bijlmer Zuid",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164510603"
+  },
+  {
+    "id": "way/164646417",
+    "networkName": "150 kV Noord Klaprozenweg",
+    "stationName": "150 kV Noord Klaprozenweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164646417"
+  },
+  {
+    "id": "way/164646418",
+    "networkName": "150 kV Nieuwe Meer",
+    "stationName": "150 kV Nieuwe Meer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164646418"
+  },
+  {
+    "id": "way/164866777",
+    "networkName": "150 kV Noord Papaverweg",
+    "stationName": "150 kV Noord Papaverweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/164866777"
+  },
+  {
+    "id": "way/165083350",
+    "networkName": "150kV Opstijgpunt Aagtendijk",
+    "stationName": "150kV Opstijgpunt Aagtendijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165083350"
+  },
+  {
+    "id": "way/165083352",
+    "networkName": "150 kV Anna Paulowna",
+    "stationName": "150 kV Anna Paulowna",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165083352"
+  },
+  {
+    "id": "way/165083353",
+    "networkName": "150 kV Westwoud",
+    "stationName": "150 kV Westwoud",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165083353"
+  },
+  {
+    "id": "way/165095020",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165095020"
+  },
+  {
+    "id": "way/165210320",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165210320"
+  },
+  {
+    "id": "way/165242801",
+    "networkName": "150 kV Krimpen a/d IJssel",
+    "stationName": "150 kV Krimpen a/d IJssel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165242801"
+  },
+  {
+    "id": "way/165242802",
+    "networkName": "380 kV Krimpen a/d IJssel",
+    "stationName": "380 kV Krimpen a/d IJssel",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165242802"
+  },
+  {
+    "id": "way/165250724",
+    "networkName": "150 kV Rotterdam Ommoord",
+    "stationName": "150 kV Rotterdam Ommoord",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000;23000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165250724"
+  },
+  {
+    "id": "way/165278333",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165278333"
+  },
+  {
+    "id": "way/165278334",
+    "networkName": "Onderdoorgang Betuweroute west",
+    "stationName": "Onderdoorgang Betuweroute west",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165278334"
+  },
+  {
+    "id": "way/165278335",
+    "networkName": "Onderdoorgang Betuweroute oost",
+    "stationName": "Onderdoorgang Betuweroute oost",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165278335"
+  },
+  {
+    "id": "way/165278337",
+    "networkName": "150 kV Arkel",
+    "stationName": "150 kV Arkel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165278337"
+  },
+  {
+    "id": "way/165278338",
+    "networkName": "150 kV Merwedehaven",
+    "stationName": "150 kV Merwedehaven",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165278338"
+  },
+  {
+    "id": "way/165894267",
+    "networkName": "110 kV Frankhuis",
+    "stationName": "110 kV Frankhuis",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165894267"
+  },
+  {
+    "id": "way/165957581",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165957581"
+  },
+  {
+    "id": "way/165958261",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/165958261"
+  },
+  {
+    "id": "way/166838681",
+    "networkName": "Tractie onderstation Graafstroom",
+    "stationName": "Tractie onderstation Graafstroom",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/166838681"
+  },
+  {
+    "id": "way/167067407",
+    "networkName": "110 kV Eibergen",
+    "stationName": "110 kV Eibergen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167067407"
+  },
+  {
+    "id": "way/167067408",
+    "networkName": "110 kV Haaksbergen",
+    "stationName": "110 kV Haaksbergen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167067408"
+  },
+  {
+    "id": "way/167073705",
+    "networkName": "110 kV Boldershoek",
+    "stationName": "110 kV Boldershoek",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167073705"
+  },
+  {
+    "id": "way/167107735",
+    "networkName": "110 kV Enschede Vechtstraat",
+    "stationName": "110 kV Enschede Vechtstraat",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167107735"
+  },
+  {
+    "id": "way/167107736",
+    "networkName": "110 kV Oldenzaal",
+    "stationName": "110 kV Oldenzaal",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167107736"
+  },
+  {
+    "id": "way/167107737",
+    "networkName": "110 kV Urenco",
+    "stationName": "110 kV Urenco",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167107737"
+  },
+  {
+    "id": "way/167107738",
+    "networkName": "110 kV Wesselerbrink",
+    "stationName": "110 kV Wesselerbrink",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167107738"
+  },
+  {
+    "id": "way/167527408",
+    "networkName": "110 kV Hardenberg",
+    "stationName": "110 kV Hardenberg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167527408"
+  },
+  {
+    "id": "way/167670574",
+    "networkName": "110 kV Coevorden",
+    "stationName": "110 kV Coevorden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167670574"
+  },
+  {
+    "id": "way/167670576",
+    "networkName": "110 kV Coevorden Europark",
+    "stationName": "110 kV Coevorden Europark",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167670576"
+  },
+  {
+    "id": "way/167670577",
+    "networkName": "110 kV Dedemsvaart",
+    "stationName": "110 kV Dedemsvaart",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167670577"
+  },
+  {
+    "id": "way/167670579",
+    "networkName": "110 kV Hoogeveen",
+    "stationName": "110 kV Hoogeveen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167670579"
+  },
+  {
+    "id": "way/167676457",
+    "networkName": "110 kV Weerdinge",
+    "stationName": "110 kV Weerdinge",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167676457"
+  },
+  {
+    "id": "way/167695556",
+    "networkName": "110 kV Emmen AKZO",
+    "stationName": "110 kV Emmen AKZO",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167695556"
+  },
+  {
+    "id": "way/167695557",
+    "networkName": "110 kV Emmen Bargermeer",
+    "stationName": "110 kV Emmen Bargermeer",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167695557"
+  },
+  {
+    "id": "way/167695558",
+    "networkName": "110 kV Musselkanaal Dobbestroom",
+    "stationName": "110 kV Musselkanaal Dobbestroom",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167695558"
+  },
+  {
+    "id": "way/167695565",
+    "networkName": "110 kV Musselkanaal Zandberg",
+    "stationName": "110 kV Musselkanaal Zandberg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167695565"
+  },
+  {
+    "id": "way/167695566",
+    "networkName": "110 kV Stadskanaal",
+    "stationName": "110 kV Stadskanaal",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167695566"
+  },
+  {
+    "id": "way/167695568",
+    "networkName": "380 kV Meeden",
+    "stationName": "380 kV Meeden",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/167695568"
+  },
+  {
+    "id": "way/168037419",
+    "networkName": "110 kV Scheemda De Eeker",
+    "stationName": "110 kV Scheemda De Eeker",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168037419"
+  },
+  {
+    "id": "way/168037421",
+    "networkName": "110 kV Scheemda Scheemderzwaag",
+    "stationName": "110 kV Scheemda Scheemderzwaag",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168037421"
+  },
+  {
+    "id": "way/168037480",
+    "networkName": "110 kV Delfzijl Schaapbulten",
+    "stationName": "110 kV Delfzijl Schaapbulten",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168037480"
+  },
+  {
+    "id": "way/168037481",
+    "networkName": "110 kV Delfzijl Weiwerd",
+    "stationName": "110 kV Delfzijl Weiwerd",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168037481"
+  },
+  {
+    "id": "way/168037482",
+    "networkName": "110 kV Slochteren Tjuchem",
+    "stationName": "110 kV Slochteren Tjuchem",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168037482"
+  },
+  {
+    "id": "way/168037483",
+    "networkName": "220 kV Weiwerd",
+    "stationName": "220 kV Weiwerd",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000;110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168037483"
+  },
+  {
+    "id": "way/168039816",
+    "networkName": "220 kV Robbenplaat",
+    "stationName": "220 kV Robbenplaat",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168039816"
+  },
+  {
+    "id": "way/168506741",
+    "networkName": "110 kV Groningen Bornholmstraat",
+    "stationName": "110 kV Groningen Bornholmstraat",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168506741"
+  },
+  {
+    "id": "way/168506743",
+    "networkName": "110 kV Groningen Hunze",
+    "stationName": "110 kV Groningen Hunze",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168506743"
+  },
+  {
+    "id": "way/168506744",
+    "networkName": "110 kV Slochteren Dellerweerden",
+    "stationName": "110 kV Slochteren Dellerweerden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168506744"
+  },
+  {
+    "id": "way/168506746",
+    "networkName": "110 kV Slochteren-Overschild",
+    "stationName": "110 kV Slochteren-Overschild",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168506746"
+  },
+  {
+    "id": "way/168506747",
+    "networkName": "110 kV Slochteren Paauwen",
+    "stationName": "110 kV Slochteren Paauwen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168506747"
+  },
+  {
+    "id": "way/168512790",
+    "networkName": "110 kV Gasselte Kraanlanden",
+    "stationName": "110 kV Gasselte Kraanlanden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168512790"
+  },
+  {
+    "id": "way/168512792",
+    "networkName": "110 kV Menterwolde Spitsbergen",
+    "stationName": "110 kV Menterwolde Spitsbergen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168512792"
+  },
+  {
+    "id": "way/168512793",
+    "networkName": "110 kV Slochteren Kooipolder",
+    "stationName": "110 kV Slochteren Kooipolder",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168512793"
+  },
+  {
+    "id": "way/168512799",
+    "networkName": "110 kV Veendam",
+    "stationName": "110 kV Veendam",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168512799"
+  },
+  {
+    "id": "way/168653680",
+    "networkName": "110 kV Groningen Heemskerkstraat",
+    "stationName": "110 kV Groningen Heemskerkstraat",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168653680"
+  },
+  {
+    "id": "way/168654629",
+    "networkName": "110 kV Grijpskerk",
+    "stationName": "110 kV Grijpskerk",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;30000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168654629"
+  },
+  {
+    "id": "way/168762567",
+    "networkName": "110 kV Beilen",
+    "stationName": "110 kV Beilen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168762567"
+  },
+  {
+    "id": "way/168762571",
+    "networkName": "110 kV Norg",
+    "stationName": "110 kV Norg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168762571"
+  },
+  {
+    "id": "way/168871202",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168871202"
+  },
+  {
+    "id": "way/168871217",
+    "networkName": "110 kV Gorredijk",
+    "stationName": "110 kV Gorredijk",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168871217"
+  },
+  {
+    "id": "way/168871218",
+    "networkName": "110 kV Oosterwolde",
+    "stationName": "110 kV Oosterwolde",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168871218"
+  },
+  {
+    "id": "way/168876861",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168876861"
+  },
+  {
+    "id": "way/168876866",
+    "networkName": "110 kV Herbayum",
+    "stationName": "110 kV Herbayum",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168876866"
+  },
+  {
+    "id": "way/168876867",
+    "networkName": "110 kV Leeuwarden",
+    "stationName": "110 kV Leeuwarden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168876867"
+  },
+  {
+    "id": "way/168876868",
+    "networkName": "110 kV Marnezijl",
+    "stationName": "110 kV Marnezijl",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168876868"
+  },
+  {
+    "id": "way/168876869",
+    "networkName": "110 kV Schenkenschans",
+    "stationName": "110 kV Schenkenschans",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168876869"
+  },
+  {
+    "id": "way/168876870",
+    "networkName": "110 kV Sneek",
+    "stationName": "110 kV Sneek",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/168876870"
+  },
+  {
+    "id": "way/170274504",
+    "networkName": "110 kV Wolvega",
+    "stationName": "110 kV Wolvega",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/170274504"
+  },
+  {
+    "id": "way/171267263",
+    "networkName": "150 kV Tinte",
+    "stationName": "150 kV Tinte",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/171267263"
+  },
+  {
+    "id": "way/178699853",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/178699853"
+  },
+  {
+    "id": "way/178699854",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/178699854"
+  },
+  {
+    "id": "way/178699855",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/178699855"
+  },
+  {
+    "id": "way/178699856",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/178699856"
+  },
+  {
+    "id": "way/195430872",
+    "networkName": "150 kV De Vaart",
+    "stationName": "150 kV De Vaart",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/195430872"
+  },
+  {
+    "id": "way/198335271",
+    "networkName": "150 kV Oudeland",
+    "stationName": "150 kV Oudeland",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000;23000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/198335271"
+  },
+  {
+    "id": "way/198335272",
+    "networkName": "150 kV Theemsweg",
+    "stationName": "150 kV Theemsweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/198335272"
+  },
+  {
+    "id": "way/198335273",
+    "networkName": "150 kV Vondelingenweg",
+    "stationName": "150 kV Vondelingenweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/198335273"
+  },
+  {
+    "id": "way/198623630",
+    "networkName": "150 kV Rotterdam Centrum",
+    "stationName": "150 kV Rotterdam Centrum",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/198623630"
+  },
+  {
+    "id": "way/198624856",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/198624856"
+  },
+  {
+    "id": "way/198624857",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/198624857"
+  },
+  {
+    "id": "way/202321293",
+    "networkName": "150 kV Merseyweg",
+    "stationName": "150 kV Merseyweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/202321293"
+  },
+  {
+    "id": "way/203403019",
+    "networkName": "150 kV DSM-2 Kerensheide",
+    "stationName": "150 kV DSM-2 Kerensheide",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;30000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/203403019"
+  },
+  {
+    "id": "way/203405922",
+    "networkName": "150 kV Hoogte Kadijk",
+    "stationName": "150 kV Hoogte Kadijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/203405922"
+  },
+  {
+    "id": "way/220122494",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/220122494"
+  },
+  {
+    "id": "way/220122565",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/220122565"
+  },
+  {
+    "id": "way/220122566",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/220122566"
+  },
+  {
+    "id": "way/220122567",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/220122567"
+  },
+  {
+    "id": "way/220122568",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/220122568"
+  },
+  {
+    "id": "way/220665044",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/220665044"
+  },
+  {
+    "id": "way/222944690",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/222944690"
+  },
+  {
+    "id": "way/222944691",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/222944691"
+  },
+  {
+    "id": "way/222944692",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/222944692"
+  },
+  {
+    "id": "way/224945051",
+    "networkName": "150 kV Opstijgpunt Westerlee",
+    "stationName": "150 kV Opstijgpunt Westerlee",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/224945051"
+  },
+  {
+    "id": "way/238004455",
+    "networkName": "150 kV Dinteloord",
+    "stationName": "150 kV Dinteloord",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/238004455"
+  },
+  {
+    "id": "way/238060756",
+    "networkName": "380 kV Hoek van Holland",
+    "stationName": "380 kV Hoek van Holland",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/238060756"
+  },
+  {
+    "id": "way/245252111",
+    "networkName": "110 kV Klazienaveen Zwet",
+    "stationName": "110 kV Klazienaveen Zwet",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/245252111"
+  },
+  {
+    "id": "way/247115373",
+    "networkName": "150 kV Tiel Oost",
+    "stationName": "150 kV Tiel Oost",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/247115373"
+  },
+  {
+    "id": "way/249605930",
+    "networkName": "150 kV Boxmeer",
+    "stationName": "150 kV Boxmeer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/249605930"
+  },
+  {
+    "id": "way/257007796",
+    "networkName": "150 kV Langeland",
+    "stationName": "150 kV Langeland",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/257007796"
+  },
+  {
+    "id": "way/257010022",
+    "networkName": "150 kV AkzoNobel Botlek",
+    "stationName": "150 kV AkzoNobel Botlek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/257010022"
+  },
+  {
+    "id": "way/259761247",
+    "networkName": "110 kV Meeden",
+    "stationName": "110 kV Meeden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/259761247"
+  },
+  {
+    "id": "way/266695560",
+    "networkName": "150 kV Merwedekanaal",
+    "stationName": "150 kV Merwedekanaal",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/266695560"
+  },
+  {
+    "id": "way/267537949",
+    "networkName": "150 kV 's-Gravenhage",
+    "stationName": "150 kV 's-Gravenhage",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/267537949"
+  },
+  {
+    "id": "way/271381256",
+    "networkName": "Tractie onderstation Zevenaar-West",
+    "stationName": "Tractie onderstation Zevenaar-West",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/271381256"
+  },
+  {
+    "id": "way/272691754",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/272691754"
+  },
+  {
+    "id": "way/273120538",
+    "networkName": "Tractie onderstation Reeweg Havenspoorlijn",
+    "stationName": "Tractie onderstation Reeweg Havenspoorlijn",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/273120538"
+  },
+  {
+    "id": "way/278714305",
+    "networkName": "Tractie onderstation Dintelhaven",
+    "stationName": "Tractie onderstation Dintelhaven",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/278714305"
+  },
+  {
+    "id": "way/278904374",
+    "networkName": "110 kV Delesto",
+    "stationName": "110 kV Delesto",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/278904374"
+  },
+  {
+    "id": "way/279763540",
+    "networkName": "150 kV Markerkant",
+    "stationName": "150 kV Markerkant",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/279763540"
+  },
+  {
+    "id": "way/282361718",
+    "networkName": "110 kV Kalenbergerweg",
+    "stationName": "110 kV Kalenbergerweg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/282361718"
+  },
+  {
+    "id": "way/296537202",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/296537202"
+  },
+  {
+    "id": "way/300791839",
+    "networkName": "110 kV Enschede Van Heekstraat",
+    "stationName": "110 kV Enschede Van Heekstraat",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/300791839"
+  },
+  {
+    "id": "way/308181656",
+    "networkName": "380 kV Beverwijk",
+    "stationName": "380 kV Beverwijk",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/308181656"
+  },
+  {
+    "id": "way/311465746",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/311465746"
+  },
+  {
+    "id": "way/311465750",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/311465750"
+  },
+  {
+    "id": "way/311466213",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/311466213"
+  },
+  {
+    "id": "way/311472381",
+    "networkName": "380 kV Sloecentrale",
+    "stationName": "380 kV Sloecentrale",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/311472381"
+  },
+  {
+    "id": "way/311472383",
+    "networkName": "380 kV Sloecentrale",
+    "stationName": "380 kV Sloecentrale",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/311472383"
+  },
+  {
+    "id": "way/313734933",
+    "networkName": "150 kV Boxtel",
+    "stationName": "150 kV Boxtel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/313734933"
+  },
+  {
+    "id": "way/313734935",
+    "networkName": "Opstijgpunt Oirschot",
+    "stationName": "Opstijgpunt Oirschot",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/313734935"
+  },
+  {
+    "id": "way/326926394",
+    "networkName": "220 kV Saturn",
+    "stationName": "220 kV Saturn",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/326926394"
+  },
+  {
+    "id": "way/352153063",
+    "networkName": "Opstijgpunt Velsen-zuid",
+    "stationName": "Opstijgpunt Velsen-zuid",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/352153063"
+  },
+  {
+    "id": "way/352153064",
+    "networkName": "Opstijgpunt Beverwijk",
+    "stationName": "Opstijgpunt Beverwijk",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/352153064"
+  },
+  {
+    "id": "way/392325953",
+    "networkName": "110 kV Wijster Oosterscheveld",
+    "stationName": "110 kV Wijster Oosterscheveld",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/392325953"
+  },
+  {
+    "id": "way/393225083",
+    "networkName": "LC-10",
+    "stationName": "LC-10",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/393225083"
+  },
+  {
+    "id": "way/395808096",
+    "networkName": "150 kV Californië",
+    "stationName": "150 kV Californië",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/395808096"
+  },
+  {
+    "id": "way/426406308",
+    "networkName": "150 kV Zuidbroek",
+    "stationName": "150 kV Zuidbroek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/426406308"
+  },
+  {
+    "id": "way/477949333",
+    "networkName": "380 kV Vijfhuizen",
+    "stationName": "380 kV Vijfhuizen",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/477949333"
+  },
+  {
+    "id": "way/480742730",
+    "networkName": "380 kV Breukelen Kortrijk",
+    "stationName": "380 kV Breukelen Kortrijk",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/480742730"
+  },
+  {
+    "id": "way/492724453",
+    "networkName": "380 kV Gemini",
+    "stationName": "380 kV Gemini",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/492724453"
+  },
+  {
+    "id": "way/492848570",
+    "networkName": "150 kV DSM-3 Neerbeek",
+    "stationName": "150 kV DSM-3 Neerbeek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/492848570"
+  },
+  {
+    "id": "way/550928976",
+    "networkName": "Tractie onderstation Aveling",
+    "stationName": "Tractie onderstation Aveling",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/550928976"
+  },
+  {
+    "id": "way/577158336",
+    "networkName": "380 kV Rilland",
+    "stationName": "380 kV Rilland",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/577158336"
+  },
+  {
+    "id": "way/578734370",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/578734370"
+  },
+  {
+    "id": "way/606842829",
+    "networkName": "380 kV Vierverlaten",
+    "stationName": "380 kV Vierverlaten",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/606842829"
+  },
+  {
+    "id": "way/606847147",
+    "networkName": "150 kV Maasvlakte",
+    "stationName": "150 kV Maasvlakte",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000;23000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/606847147"
+  },
+  {
+    "id": "way/621304042",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/621304042"
+  },
+  {
+    "id": "way/655858864",
+    "networkName": "COBRA Converterstation",
+    "stationName": "COBRA Converterstation",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "320000;380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/655858864"
+  },
+  {
+    "id": "way/662200832",
+    "networkName": "110 kV IJsselmuiden",
+    "stationName": "110 kV IJsselmuiden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/662200832"
+  },
+  {
+    "id": "way/662637091",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/662637091"
+  },
+  {
+    "id": "way/669239516",
+    "networkName": "150 kV Tilburg Noord",
+    "stationName": "150 kV Tilburg Noord",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/669239516"
+  },
+  {
+    "id": "way/671656043",
+    "networkName": "110 kV Eemshaven Midden",
+    "stationName": "110 kV Eemshaven Midden",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/671656043"
+  },
+  {
+    "id": "way/677997272",
+    "networkName": "150 kV Maalbroek",
+    "stationName": "150 kV Maalbroek",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/677997272"
+  },
+  {
+    "id": "way/693745438",
+    "networkName": "380 kV Hollandse Kust Zuid Landstation",
+    "stationName": "380 kV Hollandse Kust Zuid Landstation",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/693745438"
+  },
+  {
+    "id": "way/696525579",
+    "networkName": "150 kV Agriport A7",
+    "stationName": "150 kV Agriport A7",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/696525579"
+  },
+  {
+    "id": "way/696750501",
+    "networkName": "150 kV ECW Wieringermeer",
+    "stationName": "150 kV ECW Wieringermeer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/696750501"
+  },
+  {
+    "id": "way/700846836",
+    "networkName": "380 kV Doekegat",
+    "stationName": "380 kV Doekegat",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/700846836"
+  },
+  {
+    "id": "way/706486107",
+    "networkName": "Tractie onderstation Zevenaar-Oost",
+    "stationName": "Tractie onderstation Zevenaar-Oost",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/706486107"
+  },
+  {
+    "id": "way/706645489",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/706645489"
+  },
+  {
+    "id": "way/706645493",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/706645493"
+  },
+  {
+    "id": "way/706645495",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/706645495"
+  },
+  {
+    "id": "way/714802176",
+    "networkName": "110 kV Losser",
+    "stationName": "110 kV Losser",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/714802176"
+  },
+  {
+    "id": "way/716826513",
+    "networkName": "150 kV Boekelermeer Zuid",
+    "stationName": "150 kV Boekelermeer Zuid",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/716826513"
+  },
+  {
+    "id": "way/717200590",
+    "networkName": "150 kV Velsen",
+    "stationName": "150 kV Velsen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/717200590"
+  },
+  {
+    "id": "way/717200591",
+    "networkName": "150 kV Waarderpolder",
+    "stationName": "150 kV Waarderpolder",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/717200591"
+  },
+  {
+    "id": "way/717299458",
+    "networkName": "150 kV Zorgvlied",
+    "stationName": "150 kV Zorgvlied",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/717299458"
+  },
+  {
+    "id": "way/717310918",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/717310918"
+  },
+  {
+    "id": "way/717567623",
+    "networkName": "110 kV Heerenveen",
+    "stationName": "110 kV Heerenveen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/717567623"
+  },
+  {
+    "id": "way/719013786",
+    "networkName": "110 kV Delfzijl Farmsum",
+    "stationName": "110 kV Delfzijl Farmsum",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/719013786"
+  },
+  {
+    "id": "way/719027037",
+    "networkName": "110 kV Windpark Westereems",
+    "stationName": "110 kV Windpark Westereems",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/719027037"
+  },
+  {
+    "id": "way/720877335",
+    "networkName": "110 kV Ommen Vilsteren",
+    "stationName": "110 kV Ommen Vilsteren",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/720877335"
+  },
+  {
+    "id": "way/720890882",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/720890882"
+  },
+  {
+    "id": "way/720890885",
+    "networkName": "110 kV Schoonebeek",
+    "stationName": "110 kV Schoonebeek",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/720890885"
+  },
+  {
+    "id": "way/723528919",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/723528919"
+  },
+  {
+    "id": "way/723528920",
+    "networkName": "380 kV Doetinchem",
+    "stationName": "380 kV Doetinchem",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/723528920"
+  },
+  {
+    "id": "way/739937233",
+    "networkName": "380 kV Borssele",
+    "stationName": "380 kV Borssele",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/739937233"
+  },
+  {
+    "id": "way/746755847",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/746755847"
+  },
+  {
+    "id": "way/746755849",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/746755849"
+  },
+  {
+    "id": "way/746755857",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/746755857"
+  },
+  {
+    "id": "way/746755863",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/746755863"
+  },
+  {
+    "id": "way/762557015",
+    "networkName": "380 kV-opstijgpunt Cruquius",
+    "stationName": "380 kV-opstijgpunt Cruquius",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/762557015"
+  },
+  {
+    "id": "way/772396657",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/772396657"
+  },
+  {
+    "id": "way/775337394",
+    "networkName": "150 kV Tilburg Zuid",
+    "stationName": "150 kV Tilburg Zuid",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/775337394"
+  },
+  {
+    "id": "way/775564155",
+    "networkName": "380 kV Borssele Alpha",
+    "stationName": "380 kV Borssele Alpha",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/775564155"
+  },
+  {
+    "id": "way/775571838",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/775571838"
+  },
+  {
+    "id": "way/775571839",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/775571839"
+  },
+  {
+    "id": "way/776770261",
+    "networkName": "150 kV Eindhoven Oost",
+    "stationName": "150 kV Eindhoven Oost",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/776770261"
+  },
+  {
+    "id": "way/776801284",
+    "networkName": "150 kV Borchwerf",
+    "stationName": "150 kV Borchwerf",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/776801284"
+  },
+  {
+    "id": "way/778594653",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/778594653"
+  },
+  {
+    "id": "way/787912161",
+    "networkName": "150 kV Watergraafsmeer",
+    "stationName": "150 kV Watergraafsmeer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/787912161"
+  },
+  {
+    "id": "way/787919158",
+    "networkName": "150 kV Breukelen Kortrijk",
+    "stationName": "150 kV Breukelen Kortrijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/787919158"
+  },
+  {
+    "id": "way/788175401",
+    "networkName": "110 kV Drienemansweg",
+    "stationName": "110 kV Drienemansweg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/788175401"
+  },
+  {
+    "id": "way/919706969",
+    "networkName": "380 kV Borssele Beta",
+    "stationName": "380 kV Borssele Beta",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/919706969"
+  },
+  {
+    "id": "way/919734657",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/919734657"
+  },
+  {
+    "id": "way/919734658",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/919734658"
+  },
+  {
+    "id": "way/919951848",
+    "networkName": "380 kV Hollandse Kust Noord Landstation",
+    "stationName": "380 kV Hollandse Kust Noord Landstation",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/919951848"
+  },
+  {
+    "id": "way/920127890",
+    "networkName": "BritNed Converterstation",
+    "stationName": "BritNed Converterstation",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "450000;380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/920127890"
+  },
+  {
+    "id": "way/920899730",
+    "networkName": "150 kV Dintelhaven",
+    "stationName": "150 kV Dintelhaven",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/920899730"
+  },
+  {
+    "id": "way/920934898",
+    "networkName": "150 kV Exxon Mobile Rotterdam",
+    "stationName": "150 kV Exxon Mobile Rotterdam",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/920934898"
+  },
+  {
+    "id": "way/920938651",
+    "networkName": "150 kV Geervliet",
+    "stationName": "150 kV Geervliet",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/920938651"
+  },
+  {
+    "id": "way/920978708",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/920978708"
+  },
+  {
+    "id": "way/920978709",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/920978709"
+  },
+  {
+    "id": "way/921069367",
+    "networkName": "150 kV Vondelingenweg",
+    "stationName": "150 kV Vondelingenweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/921069367"
+  },
+  {
+    "id": "way/931207696",
+    "networkName": "150 kV Oosterhout",
+    "stationName": "150 kV Oosterhout",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/931207696"
+  },
+  {
+    "id": "way/934114405",
+    "networkName": "380 kV Diemen",
+    "stationName": "380 kV Diemen",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/934114405"
+  },
+  {
+    "id": "way/942640207",
+    "networkName": "Eemshaven Compensatie- en Filterstation",
+    "stationName": "Eemshaven Compensatie- en Filterstation",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/942640207"
+  },
+  {
+    "id": "way/942982757",
+    "networkName": "110 kV Oudehaske",
+    "stationName": "110 kV Oudehaske",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/942982757"
+  },
+  {
+    "id": "way/943327449",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/943327449"
+  },
+  {
+    "id": "way/943476902",
+    "networkName": "150 kV Windpark Zeewolde",
+    "stationName": "150 kV Windpark Zeewolde",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;33000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/943476902"
+  },
+  {
+    "id": "way/943485833",
+    "networkName": "150 kV Prinses Alexia Windpark",
+    "stationName": "150 kV Prinses Alexia Windpark",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;33000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/943485833"
+  },
+  {
+    "id": "way/951425547",
+    "networkName": "150 kV Windplan Groen",
+    "stationName": "150 kV Windplan Groen",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/951425547"
+  },
+  {
+    "id": "way/951425548",
+    "networkName": "150 kV Olsterpad",
+    "stationName": "150 kV Olsterpad",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/951425548"
+  },
+  {
+    "id": "way/968573627",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000;150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/968573627"
+  },
+  {
+    "id": "way/977562878",
+    "networkName": "110 kV Vierverlaten",
+    "stationName": "110 kV Vierverlaten",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/977562878"
+  },
+  {
+    "id": "way/990908692",
+    "networkName": "110 kV Zonnepark Midden-Groningen",
+    "stationName": "110 kV Zonnepark Midden-Groningen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;33000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/990908692"
+  },
+  {
+    "id": "way/991435911",
+    "networkName": "150 kV Windplanblauw",
+    "stationName": "150 kV Windplanblauw",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991435911"
+  },
+  {
+    "id": "way/991470293",
+    "networkName": "110 kV Zonnepark Stadskanaal",
+    "stationName": "110 kV Zonnepark Stadskanaal",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;33000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991470293"
+  },
+  {
+    "id": "way/991541937",
+    "networkName": "110 kV Windpark N33 Eekerpolder",
+    "stationName": "110 kV Windpark N33 Eekerpolder",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;33000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991541937"
+  },
+  {
+    "id": "way/991543400",
+    "networkName": "110 kV Stikstofinstallatie Zuidbroek",
+    "stationName": "110 kV Stikstofinstallatie Zuidbroek",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991543400"
+  },
+  {
+    "id": "way/991544547",
+    "networkName": "110 kV Scheemda",
+    "stationName": "110 kV Scheemda",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991544547"
+  },
+  {
+    "id": "way/991708947",
+    "networkName": "150 kV Middenmeer",
+    "stationName": "150 kV Middenmeer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991708947"
+  },
+  {
+    "id": "way/991711226",
+    "networkName": "150 kV BBL Gasunie",
+    "stationName": "150 kV BBL Gasunie",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991711226"
+  },
+  {
+    "id": "way/991757559",
+    "networkName": "150 kV De Weel",
+    "stationName": "150 kV De Weel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/991757559"
+  },
+  {
+    "id": "way/995906735",
+    "networkName": "110 kV Bergum",
+    "stationName": "110 kV Bergum",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/995906735"
+  },
+  {
+    "id": "way/997710670",
+    "networkName": "110 kV Veendam Zuidwending",
+    "stationName": "110 kV Veendam Zuidwending",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/997710670"
+  },
+  {
+    "id": "way/998237439",
+    "networkName": "110 kV Groningen Bloemsingel",
+    "stationName": "110 kV Groningen Bloemsingel",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/998237439"
+  },
+  {
+    "id": "way/1016074035",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1016074035"
+  },
+  {
+    "id": "way/1031524261",
+    "networkName": "150 kV Windpark Krammer",
+    "stationName": "150 kV Windpark Krammer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;33000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1031524261"
+  },
+  {
+    "id": "way/1041096484",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1041096484"
+  },
+  {
+    "id": "way/1041211292",
+    "networkName": "150 kV Google Datacenter Middenmeer",
+    "stationName": "150 kV Google Datacenter Middenmeer",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1041211292"
+  },
+  {
+    "id": "way/1061622596",
+    "networkName": "380 kV Tilburg",
+    "stationName": "380 kV Tilburg",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1061622596"
+  },
+  {
+    "id": "way/1070709113",
+    "networkName": "150 kV Noordzeewind",
+    "stationName": "150 kV Noordzeewind",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;34000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1070709113"
+  },
+  {
+    "id": "way/1082658975",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1082658975"
+  },
+  {
+    "id": "way/1099434374",
+    "networkName": "220 kV Louwsmeer",
+    "stationName": "220 kV Louwsmeer",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1099434374"
+  },
+  {
+    "id": "way/1101850566",
+    "networkName": "150 kV Vlissingen Oost",
+    "stationName": "150 kV Vlissingen Oost",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1101850566"
+  },
+  {
+    "id": "way/1117415161",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1117415161"
+  },
+  {
+    "id": "way/1117415162",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1117415162"
+  },
+  {
+    "id": "way/1117427745",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1117427745"
+  },
+  {
+    "id": "way/1117582183",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1117582183"
+  },
+  {
+    "id": "way/1117606094",
+    "networkName": "150 kV Arnhem",
+    "stationName": "150 kV Arnhem",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1117606094"
+  },
+  {
+    "id": "way/1137461464",
+    "networkName": "150 kV Delft",
+    "stationName": "150 kV Delft",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1137461464"
+  },
+  {
+    "id": "way/1138619333",
+    "networkName": "150 kV Cultuurweg",
+    "stationName": "150 kV Cultuurweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1138619333"
+  },
+  {
+    "id": "way/1139125625",
+    "networkName": "150 kV IJburg",
+    "stationName": "150 kV IJburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1139125625"
+  },
+  {
+    "id": "way/1145295017",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1145295017"
+  },
+  {
+    "id": "way/1145295018",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1145295018"
+  },
+  {
+    "id": "way/1155889690",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1155889690"
+  },
+  {
+    "id": "way/1155889691",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1155889691"
+  },
+  {
+    "id": "way/1191923224",
+    "networkName": "110 kV Winsum-Brillerij",
+    "stationName": "110 kV Winsum-Brillerij",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1191923224"
+  },
+  {
+    "id": "way/1196308645",
+    "networkName": "150 kV Windpark Bouwdokken",
+    "stationName": "150 kV Windpark Bouwdokken",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1196308645"
+  },
+  {
+    "id": "way/1196309937",
+    "networkName": "150 kV Dordrecht Zuid",
+    "stationName": "150 kV Dordrecht Zuid",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1196309937"
+  },
+  {
+    "id": "way/1196791218",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1196791218"
+  },
+  {
+    "id": "way/1196898986",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1196898986"
+  },
+  {
+    "id": "way/1196898987",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1196898987"
+  },
+  {
+    "id": "way/1205235768",
+    "networkName": "150 kV Rotterdam Marconistraat",
+    "stationName": "150 kV Rotterdam Marconistraat",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1205235768"
+  },
+  {
+    "id": "way/1210501162",
+    "networkName": "110 kV Ens",
+    "stationName": "110 kV Ens",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1210501162"
+  },
+  {
+    "id": "way/1210501163",
+    "networkName": "220 kV Ens",
+    "stationName": "220 kV Ens",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1210501163"
+  },
+  {
+    "id": "way/1210532179",
+    "networkName": "380 kV Tweede Maasvlakte",
+    "stationName": "380 kV Tweede Maasvlakte",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1210532179"
+  },
+  {
+    "id": "way/1210561778",
+    "networkName": "110 kV Hessenweg",
+    "stationName": "110 kV Hessenweg",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1210561778"
+  },
+  {
+    "id": "way/1210561794",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1210561794"
+  },
+  {
+    "id": "way/1210561795",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1210561795"
+  },
+  {
+    "id": "way/1210561796",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1210561796"
+  },
+  {
+    "id": "way/1211885092",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1211885092"
+  },
+  {
+    "id": "way/1218950123",
+    "networkName": "380 kV Wateringen",
+    "stationName": "380 kV Wateringen",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1218950123"
+  },
+  {
+    "id": "way/1240036068",
+    "networkName": "150 kV NorthC Blackbox",
+    "stationName": "150 kV NorthC Blackbox",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1240036068"
+  },
+  {
+    "id": "way/1242497246",
+    "networkName": "150 kV Doetinchem",
+    "stationName": "150 kV Doetinchem",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1242497246"
+  },
+  {
+    "id": "way/1245929347",
+    "networkName": "380 kV Amaliahaven",
+    "stationName": "380 kV Amaliahaven",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1245929347"
+  },
+  {
+    "id": "way/1246028188",
+    "networkName": "380 kV Holland Hydrogen I",
+    "stationName": "380 kV Holland Hydrogen I",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1246028188"
+  },
+  {
+    "id": "way/1246030551",
+    "networkName": "380 kV Wijk aan Zee",
+    "stationName": "380 kV Wijk aan Zee",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1246030551"
+  },
+  {
+    "id": "way/1251689094",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1251689094"
+  },
+  {
+    "id": "way/1252160888",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1252160888"
+  },
+  {
+    "id": "way/1252160893",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1252160893"
+  },
+  {
+    "id": "way/1252554144",
+    "networkName": "150 kV Lutterade",
+    "stationName": "150 kV Lutterade",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1252554144"
+  },
+  {
+    "id": "way/1259105814",
+    "networkName": "150kV Kernenergiecentrale Borssele 1",
+    "stationName": "150kV Kernenergiecentrale Borssele 1",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1259105814"
+  },
+  {
+    "id": "way/1259105822",
+    "networkName": "220 kV Borssele Alpha",
+    "stationName": "220 kV Borssele Alpha",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1259105822"
+  },
+  {
+    "id": "way/1259105828",
+    "networkName": "220 kV Borssele Beta",
+    "stationName": "220 kV Borssele Beta",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1259105828"
+  },
+  {
+    "id": "way/1264334534",
+    "networkName": "110 kV Emmeloord Zuidervaart",
+    "stationName": "110 kV Emmeloord Zuidervaart",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1264334534"
+  },
+  {
+    "id": "way/1266807630",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000;30000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1266807630"
+  },
+  {
+    "id": "way/1266908852",
+    "networkName": "150 kV Rotterdam Zuidwijk",
+    "stationName": "150 kV Rotterdam Zuidwijk",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;23000;10000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1266908852"
+  },
+  {
+    "id": "way/1268254684",
+    "networkName": "220 kV Delesto",
+    "stationName": "220 kV Delesto",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1268254684"
+  },
+  {
+    "id": "way/1271576279",
+    "networkName": "380 kV Maasvlakte Power Plant 3",
+    "stationName": "380 kV Maasvlakte Power Plant 3",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1271576279"
+  },
+  {
+    "id": "way/1275266044",
+    "networkName": "380 kV Maasvlakte Onyx",
+    "stationName": "380 kV Maasvlakte Onyx",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1275266044"
+  },
+  {
+    "id": "way/1283385798",
+    "networkName": "150 kV Rotterdam Waalhaven",
+    "stationName": "150 kV Rotterdam Waalhaven",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1283385798"
+  },
+  {
+    "id": "way/1283388590",
+    "networkName": "150 kV APN",
+    "stationName": "150 kV APN",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1283388590"
+  },
+  {
+    "id": "way/1283408806",
+    "networkName": "150 kV Zeeland refinery",
+    "stationName": "150 kV Zeeland refinery",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1283408806"
+  },
+  {
+    "id": "way/1283666779",
+    "networkName": "110 kV Westermeerdijk",
+    "stationName": "110 kV Westermeerdijk",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1283666779"
+  },
+  {
+    "id": "way/1302686819",
+    "networkName": "110 kV Zeijerveen",
+    "stationName": "110 kV Zeijerveen",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1302686819"
+  },
+  {
+    "id": "way/1320723204",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1320723204"
+  },
+  {
+    "id": "way/1332730934",
+    "networkName": "220 kV Oostpolder West",
+    "stationName": "220 kV Oostpolder West",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000;22000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1332730934"
+  },
+  {
+    "id": "way/1337137523",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1337137523"
+  },
+  {
+    "id": "way/1337137524",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1337137524"
+  },
+  {
+    "id": "way/1337137525",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1337137525"
+  },
+  {
+    "id": "way/1337139847",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1337139847"
+  },
+  {
+    "id": "way/1337139848",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1337139848"
+  },
+  {
+    "id": "way/1337145064",
+    "networkName": "220 kV Avermieden",
+    "stationName": "220 kV Avermieden",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000;33000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1337145064"
+  },
+  {
+    "id": "way/1342601328",
+    "networkName": "150 kV Alphen a/d Rijn",
+    "stationName": "150 kV Alphen a/d Rijn",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1342601328"
+  },
+  {
+    "id": "way/1342626557",
+    "networkName": "150 kV Voorburg",
+    "stationName": "150 kV Voorburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;25000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1342626557"
+  },
+  {
+    "id": "way/1342641196",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 380.0,
+    "stationVoltage": "380000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1342641196"
+  },
+  {
+    "id": "way/1358107598",
+    "networkName": "150 kV Koolhovenlaan",
+    "stationName": "150 kV Koolhovenlaan",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1358107598"
+  },
+  {
+    "id": "way/1361550826",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1361550826"
+  },
+  {
+    "id": "way/1361551553",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1361551553"
+  },
+  {
+    "id": "way/1387468357",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1387468357"
+  },
+  {
+    "id": "way/1387468360",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1387468360"
+  },
+  {
+    "id": "way/1387470538",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1387470538"
+  },
+  {
+    "id": "way/1387507147",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1387507147"
+  },
+  {
+    "id": "way/1395177263",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1395177263"
+  },
+  {
+    "id": "way/1410323497",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1410323497"
+  },
+  {
+    "id": "way/1410333292",
+    "networkName": "150 kV Professor Gerbrandyweg",
+    "stationName": "150 kV Professor Gerbrandyweg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1410333292"
+  },
+  {
+    "id": "way/1420428473",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1420428473"
+  },
+  {
+    "id": "way/1420428478",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1420428478"
+  },
+  {
+    "id": "way/1422828749",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1422828749"
+  },
+  {
+    "id": "way/1422829606",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1422829606"
+  },
+  {
+    "id": "way/1429167740",
+    "networkName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "stationName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1429167740"
+  },
+  {
+    "id": "way/1429167742",
+    "networkName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "stationName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1429167742"
+  },
+  {
+    "id": "way/1429167752",
+    "networkName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "stationName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1429167752"
+  },
+  {
+    "id": "way/1429167753",
+    "networkName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "stationName": "Hoogspanningsverbinding Rilland – Tilburg",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1429167753"
+  },
+  {
+    "id": "way/1429182119",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1429182119"
+  },
+  {
+    "id": "way/1429280015",
+    "networkName": "110 kV Bergum Koumarwei",
+    "stationName": "110 kV Bergum Koumarwei",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1429280015"
+  },
+  {
+    "id": "way/1436552024",
+    "networkName": "150 kV Zuilichem",
+    "stationName": "150 kV Zuilichem",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1436552024"
+  },
+  {
+    "id": "way/1488676025",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1488676025"
+  },
+  {
+    "id": "way/1491469390",
+    "networkName": "150 kV Borculo Berkel",
+    "stationName": "150 kV Borculo Berkel",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1491469390"
+  },
+  {
+    "id": "way/1492499631",
+    "networkName": "150 kV Leiden",
+    "stationName": "150 kV Leiden",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000;50000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1492499631"
+  },
+  {
+    "id": "way/1551706688",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000;20000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1551706688"
+  },
+  {
+    "id": "way/1554871973",
+    "networkName": "150 kV Bijlmer Noord",
+    "stationName": "150 kV Bijlmer Noord",
+    "networkVoltageKv": 150.0,
+    "stationVoltage": "150000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1554871973"
+  },
+  {
+    "id": "way/1556866979",
+    "networkName": "220 kV Zeijerveen",
+    "stationName": "220 kV Zeijerveen",
+    "networkVoltageKv": 220.0,
+    "stationVoltage": "220000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/way/1556866979"
+  },
+  {
+    "id": "relation/19594726",
+    "networkName": "Unnamed substation",
+    "stationName": "Unnamed station",
+    "networkVoltageKv": 110.0,
+    "stationVoltage": "110000",
+    "voltageCompatible": true,
+    "sourceUrl": "https://www.openstreetmap.org/relation/19594726"
+  }
+]

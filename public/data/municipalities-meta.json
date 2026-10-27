@@ -1,0 +1,75 @@
+{
+  "year": 2025,
+  "municipalities": 342,
+  "retrievals": {
+    "households": {
+      "url": "https://opendata.cbs.nl/ODataApi/OData/86333NED/TypedDataSet?%24format=json&%24filter=Woningkenmerken+eq+%27T001100%27+and+startswith%28WijkenEnBuurten%2C%27GM%27%29",
+      "retrievedAt": "2026-09-18T16:25:25.470456+00:00",
+      "sha256": "fa4e446dd7dbf6458b080267f8c25959fb67cb6c458a12fbc9b4052101bbbf53"
+    },
+    "solar": {
+      "url": "https://opendata.cbs.nl/ODataApi/OData/85005NED/TypedDataSet?%24format=json&%24filter=SectorEnVermogensklasse+eq+%27E007161%27+and+Perioden+eq+%272025JJ00%27",
+      "retrievedAt": "2026-09-18T16:24:31.274512+00:00",
+      "sha256": "30a2e5f225f2109ffc9cd8b897cf371606147725f7235ff35c5ec061870e3080"
+    },
+    "geometry": {
+      "url": "https://service.pdok.nl/cbs/wijkenbuurten/2025/wfs/v1_0?service=WFS&version=2.0.0&request=GetFeature&typeNames=wijkenbuurten%3Agemeenten&outputFormat=application%2Fjson&srsName=EPSG%3A4326&count=1000",
+      "retrievedAt": "2026-09-18T16:26:15.606194+00:00",
+      "sha256": "0139f56803797e41357bd35e096927b87b6ef20e909659ea8ed32aa358ed037c"
+    }
+  },
+  "tables": {
+    "households": "86333NED",
+    "solar": "85005NED"
+  },
+  "categories": {
+    "households": "T001100",
+    "solar": "E007161"
+  },
+  "status": {
+    "households": "preliminary",
+    "solar": "revised preliminary"
+  },
+  "publishedCounts": {
+    "deliveryKwh": 342,
+    "netDeliveryKwh": 342,
+    "solarMwp": 342,
+    "inverterMw": 342,
+    "installations": 342
+  },
+  "solarCodesExcludedFromMap": [
+    "GM0003",
+    "GM0370",
+    "GM0756",
+    "GM0501",
+    "GM1684",
+    "GM0010",
+    "GM0786",
+    "GM0788",
+    "GM0398",
+    "GM0530",
+    "GM1685",
+    "GM0416",
+    "GM0024",
+    "GM0815",
+    "GM1702",
+    "GM0856",
+    "GM0457",
+    "GM0614",
+    "GM0000"
+  ],
+  "geometry": "2025 land features (water=NEE); water polygons and Buitenland excluded. Coverage-preserving simplification, 0.00015 degrees; full coordinate precision retained. Display boundaries, not cadastral precision. Shapely 2.1.2.",
+  "units": {
+    "deliveryKwh": "kWh per dwelling per year",
+    "netDeliveryKwh": "kWh per dwelling per year",
+    "solarMwp": "MWp (source kWp / 1000)",
+    "inverterMw": "MW (source kW / 1000)",
+    "installations": "count"
+  },
+  "scope": "Households: mean private-dwelling grid delivery, excluding common-building supplies and self-consumed generation. Net delivery after feed-in has a zero floor; the difference cannot always measure exports. Solar: year-end stock for homes and businesses, not live output; municipality production unavailable. Values are never added across units or to OSM capacities.",
+  "licenses": {
+    "statistics": "CBS attribution",
+    "geometry": "CC0 https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "transformVersion": "municipalities/1.0"
+}

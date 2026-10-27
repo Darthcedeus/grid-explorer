@@ -1,0 +1,1922 @@
+[
+  {
+    "dataset": "public/data/provinces.geojson",
+    "id": "PV26",
+    "issue": "Self-intersection[5.49022 52.11607]"
+  },
+  {
+    "dataset": "public/data/provinces.geojson",
+    "id": "PV25",
+    "issue": "Self-intersection[5.49021 52.11607]"
+  },
+  {
+    "dataset": "public/data/provinces.geojson",
+    "id": "PV27",
+    "issue": "Ring Self-intersection[5.03697 52.22478]"
+  },
+  {
+    "dataset": "public/data/provinces.geojson",
+    "id": "PV20",
+    "issue": "Self-intersection[6.26046 53.11436]"
+  },
+  {
+    "dataset": "public/data/provinces.geojson",
+    "id": "PV21",
+    "issue": "Ring Self-intersection[6.26045 53.11435]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1012",
+    "issue": "Ring Self-intersection[4.89039 52.37318]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1016",
+    "issue": "Ring Self-intersection[4.89039 52.37318]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1034",
+    "issue": "Self-intersection[4.91203 52.40314]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1035",
+    "issue": "Self-intersection[4.88769626213592 52.4255840291262]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1082",
+    "issue": "Self-intersection[4.87141 52.33825]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1083",
+    "issue": "Self-intersection[4.88902 52.33192]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1086",
+    "issue": "Self-intersection[4.98035 52.35975]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1095",
+    "issue": "Self-intersection[4.97061 52.3718]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1097",
+    "issue": "Self-intersection[4.92045 52.34702]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1102",
+    "issue": "Self-intersection[4.95926 52.31972]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1183",
+    "issue": "Self-intersection[4.87873 52.31725]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1185",
+    "issue": "Self-intersection[4.84519554054054 52.2993508108108]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1187",
+    "issue": "Self-intersection[4.84519554054054 52.2993508108108]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1211",
+    "issue": "Ring Self-intersection[5.17073 52.22576]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1212",
+    "issue": "Self-intersection[5.19107 52.21577]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1213",
+    "issue": "Self-intersection[5.19113 52.21577]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1217",
+    "issue": "Self-intersection[5.16891 52.22687]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1252",
+    "issue": "Self-intersection[5.23753977928693 52.2445108998302]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1309",
+    "issue": "Self-intersection[5.22450903225807 52.4171687096774]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1312",
+    "issue": "Ring Self-intersection[5.18995 52.3832]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1313",
+    "issue": "Ring Self-intersection[5.18995 52.3832]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1317",
+    "issue": "Ring Self-intersection[5.23918 52.38556]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1318",
+    "issue": "Ring Self-intersection[5.23918 52.38556]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1322",
+    "issue": "Self-intersection[5.17481 52.34979]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1324",
+    "issue": "Self-intersection[5.23343 52.36568]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1325",
+    "issue": "Self-intersection[5.23317 52.36559]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1332",
+    "issue": "Self-intersection[5.22450903225807 52.4171687096774]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1336",
+    "issue": "Self-intersection[5.30713777777778 52.4034522222222]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1339",
+    "issue": "Self-intersection[5.30713777777778 52.4034522222222]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1356",
+    "issue": "Self-intersection[5.24356 52.33835]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1358",
+    "issue": "Self-intersection[5.24358 52.33835]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1391",
+    "issue": "Ring Self-intersection[5.00746 52.2317]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1393",
+    "issue": "Too few points in geometry component[5.02511 52.26937]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1405",
+    "issue": "Self-intersection[5.15583 52.2816]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1411",
+    "issue": "Self-intersection[5.14062 52.3031]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1508",
+    "issue": "Self-intersection[4.83132 52.46052]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1509",
+    "issue": "Ring Self-intersection[4.83132 52.46052]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1511",
+    "issue": "Self-intersection[4.88769626213592 52.4255840291262]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1521",
+    "issue": "Self-intersection[4.78606 52.49237]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1525",
+    "issue": "Self-intersection[4.78988 52.51924]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1689",
+    "issue": "Self-intersection[5.08114 52.66707]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1695",
+    "issue": "Ring Self-intersection[5.11215 52.65533]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1704",
+    "issue": "Self-intersection[4.81427 52.67211]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1718",
+    "issue": "Self-intersection[4.89870831578947 52.7068280350877]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1723",
+    "issue": "Self-intersection[4.8095 52.69945]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1734",
+    "issue": "Self-intersection[4.89870831578947 52.7068280350877]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1771",
+    "issue": "Self-intersection[5.06942 52.88302]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1791",
+    "issue": "Self-intersection[4.8216 53.0457]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1824",
+    "issue": "Self-intersection[4.76013 52.64718]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1827",
+    "issue": "Self-intersection[4.76246 52.67483]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1861",
+    "issue": "Self-intersection[4.69923 52.67492]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1862",
+    "issue": "Self-intersection[4.71605 52.67157]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1931",
+    "issue": "Self-intersection[4.62136 52.61375]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1965",
+    "issue": "Self-intersection[4.67927 52.5045]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1971",
+    "issue": "Ring Self-intersection[4.6316 52.46199]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "1981",
+    "issue": "Self-intersection[4.68919 52.44351]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2011",
+    "issue": "Self-intersection[4.63195529411765 52.3817888235294]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2023",
+    "issue": "Self-intersection[4.63945 52.39309]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2035",
+    "issue": "Ring Self-intersection[4.65719 52.36036]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2037",
+    "issue": "Self-intersection[4.65719 52.36036]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2102",
+    "issue": "Self-intersection[4.63947 52.34359]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2134",
+    "issue": "Self-intersection[4.6601181922635 52.3242209804673]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2162",
+    "issue": "Too few points in geometry component[4.55967 52.25168]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2201",
+    "issue": "Self-intersection[4.44524 52.22987]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2202",
+    "issue": "Too few points in geometry component[4.42827 52.2416]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2221",
+    "issue": "Too few points in geometry component[4.41717 52.20686]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2223",
+    "issue": "Self-intersection[4.42379 52.1859]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2224",
+    "issue": "Self-intersection[4.41955 52.20092]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2231",
+    "issue": "Self-intersection[4.44284 52.19266]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2262",
+    "issue": "Self-intersection[4.38691 52.08836]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2273",
+    "issue": "Self-intersection[4.36103 52.07905]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2274",
+    "issue": "Self-intersection[4.35376 52.07692]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2286",
+    "issue": "Too few points in geometry component[4.32939 52.01981]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2295",
+    "issue": "Self-intersection[4.24863 52.02493]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2318",
+    "issue": "Self-intersection[4.49781 52.17595]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2361",
+    "issue": "Too few points in geometry component[4.49732 52.19564]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2512",
+    "issue": "Self-intersection[4.3083 52.075]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2513",
+    "issue": "Self-intersection[4.29647 52.07455]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2518",
+    "issue": "Too few points in geometry component[4.29179 52.07469]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2521",
+    "issue": "Too few points in geometry component[4.31077 52.05944]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2522",
+    "issue": "Ring Self-intersection[4.32087 52.05892]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2523",
+    "issue": "Ring Self-intersection[4.32087 52.05892]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2542",
+    "issue": "Ring Self-intersection[4.27266 52.03592]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2551",
+    "issue": "Self-intersection[4.23087252336449 52.0625821495327]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2554",
+    "issue": "Ring Self-intersection[4.2339 52.06872]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2555",
+    "issue": "Ring Self-intersection[4.2339 52.06872]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2571",
+    "issue": "Too few points in geometry component[4.29187 52.07472]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2595",
+    "issue": "Too few points in geometry component[4.32629 52.08176]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2624",
+    "issue": "Too few points in geometry component[4.35277 52.00123]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2643",
+    "issue": "Self-intersection[4.44067 52.0031]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2651",
+    "issue": "Self-intersection[4.48375 52.00653]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2665",
+    "issue": "Ring Self-intersection[4.56237 52.0598]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2671",
+    "issue": "Self-intersection[4.20958 51.99885]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2722",
+    "issue": "Self-intersection[4.5076 52.05694]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2725",
+    "issue": "Ring Self-intersection[4.50304 52.06996]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2728",
+    "issue": "Self-intersection[4.53708810126581 52.0771063291139]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2731",
+    "issue": "Ring Self-intersection[4.56237 52.0598]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2861",
+    "issue": "Self-intersection[4.80167 51.93323]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2871",
+    "issue": "Self-intersection[4.85324 51.94906]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2872",
+    "issue": "Self-intersection[4.86495 51.95162]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2903",
+    "issue": "Self-intersection[4.58846 51.92622]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2906",
+    "issue": "Too few points in geometry component[4.56544 51.93155]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2912",
+    "issue": "Self-intersection[4.61187 51.96331]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2941",
+    "issue": "Ring Self-intersection[4.66407 51.88743]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2951",
+    "issue": "Self-intersection[4.65659 51.86622]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2957",
+    "issue": "Self-intersection[4.66413 51.88743]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "2987",
+    "issue": "Self-intersection[4.58355 51.89397]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3027",
+    "issue": "Self-intersection[4.43085167088607 51.9139462025316]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3028",
+    "issue": "Self-intersection[4.43085167088607 51.9139462025316]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3036",
+    "issue": "Self-intersection[4.4762680412371 51.9356149484536]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3043",
+    "issue": "Self-intersection[4.43460093023256 51.939588372093]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3045",
+    "issue": "Self-intersection[4.43460093023256 51.939588372093]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3052",
+    "issue": "Self-intersection[4.47297 51.94819]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3083",
+    "issue": "Too few points in geometry component[4.48126 51.88762]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3084",
+    "issue": "Self-intersection[4.50601 51.87752]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3113",
+    "issue": "Self-intersection[4.4072 51.91423]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3131",
+    "issue": "Self-intersection[4.3436 51.91052]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3133",
+    "issue": "Self-intersection[4.3476 51.9011]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3134",
+    "issue": "Self-intersection[4.35262 51.90592]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3145",
+    "issue": "Self-intersection[4.23359 51.92706]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3181",
+    "issue": "Self-intersection[4.25678 51.90026]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3221",
+    "issue": "Too few points in geometry component[4.13629 51.83386]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3222",
+    "issue": "Self-intersection[4.1101 51.85498]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3224",
+    "issue": "Self-intersection[4.14652 51.8229]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3225",
+    "issue": "Self-intersection[4.16022 51.82849]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3232",
+    "issue": "Self-intersection[4.14826 51.90089]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3255",
+    "issue": "Self-intersection[4.2047 51.70068]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3258",
+    "issue": "Self-intersection[4.29616060167245 51.6977792494391]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3261",
+    "issue": "Too few points in geometry component[4.41509 51.82835]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3262",
+    "issue": "Too few points in geometry component[4.4151 51.82838]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3267",
+    "issue": "Self-intersection[4.29904019950739 51.8040596206897]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3329",
+    "issue": "Self-intersection[4.73485 51.79315]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3331",
+    "issue": "Ring Self-intersection[4.65557 51.81868]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3332",
+    "issue": "Self-intersection[4.65609 51.82349]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3342",
+    "issue": "Self-intersection[4.62727 51.84578]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3363",
+    "issue": "Self-intersection[4.77199612903226 51.8221712903226]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3381",
+    "issue": "Self-intersection[4.91181 51.86874]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3401",
+    "issue": "Self-intersection[5.03988 52.02149]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3404",
+    "issue": "Self-intersection[5.03878 52.01021]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3411",
+    "issue": "Self-intersection[4.96809 51.97865]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3432",
+    "issue": "Self-intersection[5.07632 52.01547]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3434",
+    "issue": "Self-intersection[5.07632 52.01547]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3439",
+    "issue": "Self-intersection[5.11324 52.05513]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3511",
+    "issue": "Self-intersection[5.12174 52.08842]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3512",
+    "issue": "Self-intersection[5.12174 52.08842]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3522",
+    "issue": "Too few points in geometry component[5.11611 52.07373]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3545",
+    "issue": "Self-intersection[5.06023 52.06824]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3621",
+    "issue": "Ring Self-intersection[4.99974 52.17171]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3632",
+    "issue": "Ring Self-intersection[5.00746 52.2317]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3701",
+    "issue": "Self-intersection[5.24117 52.08615]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3705",
+    "issue": "Self-intersection[5.23115 52.09593]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3706",
+    "issue": "Self-intersection[5.22492 52.10094]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3708",
+    "issue": "Self-intersection[5.2605 52.07644]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3723",
+    "issue": "Ring Self-intersection[5.18329 52.13151]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3737",
+    "issue": "Self-intersection[5.18329 52.13151]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3769",
+    "issue": "Self-intersection[5.27961 52.12421]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3772",
+    "issue": "Self-intersection[5.58051 52.13862]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3784",
+    "issue": "Self-intersection[5.54461590697674 52.1771181395349]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3812",
+    "issue": "Self-intersection[5.38303 52.16005]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3819",
+    "issue": "Self-intersection[5.35531 52.15436]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3826",
+    "issue": "Self-intersection[5.41076 52.20565]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3845",
+    "issue": "Self-intersection[5.59218 52.32408]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3848",
+    "issue": "Self-intersection[5.64814812933025 52.3520618013857]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3849",
+    "issue": "Self-intersection[5.64814812933025 52.3520618013857]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3862",
+    "issue": "Self-intersection[5.54461590697674 52.1771181395349]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3899",
+    "issue": "Self-intersection[5.50291 52.35164]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3941",
+    "issue": "Self-intersection[5.32455 52.03874]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3981",
+    "issue": "Self-intersection[5.18956 52.0724]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3991",
+    "issue": "Self-intersection[5.17612 52.01621]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3992",
+    "issue": "Self-intersection[5.1479 52.02847]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3994",
+    "issue": "Self-intersection[5.1827 52.0177]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "3995",
+    "issue": "Self-intersection[5.18264 52.01769]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4054",
+    "issue": "Self-intersection[5.51382 51.92134]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4061",
+    "issue": "Self-intersection[5.37265 51.85292]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4102",
+    "issue": "Self-intersection[5.23884 51.95248]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4121",
+    "issue": "Self-intersection[5.15472880987848 51.9380007761662]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4141",
+    "issue": "Self-intersection[5.10559 51.89233]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4185",
+    "issue": "Self-intersection[5.32756 51.8496]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4205",
+    "issue": "Self-intersection[4.97192 51.83864]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4251",
+    "issue": "Self-intersection[4.89497 51.81212]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4302",
+    "issue": "Self-intersection[3.90538 51.64278]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4306",
+    "issue": "Self-intersection[3.9758 51.66046]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4328",
+    "issue": "Self-intersection[3.75777 51.71588]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4337",
+    "issue": "Ring Self-intersection[3.64559 51.47918]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4339",
+    "issue": "Self-intersection[3.64563 51.47911]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4384",
+    "issue": "Self-intersection[3.55133 51.47037]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4417",
+    "issue": "Self-intersection[4.00859 51.4542]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4541",
+    "issue": "Self-intersection[3.82643 51.29148]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4565",
+    "issue": "Self-intersection[4.06822 51.26111]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4571",
+    "issue": "Self-intersection[3.9813 51.3015682539683]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4631",
+    "issue": "Self-intersection[4.33066 51.44838]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4671",
+    "issue": "Self-intersection[4.42188 51.62234]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4694",
+    "issue": "Self-intersection[4.12887 51.54573]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4765",
+    "issue": "Ring Self-intersection[4.70988 51.67327]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4811",
+    "issue": "Self-intersection[4.78663 51.59002]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4817",
+    "issue": "Self-intersection[4.80417 51.58889]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4834",
+    "issue": "Ring Self-intersection[4.80939 51.57599]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4847",
+    "issue": "Self-intersection[4.84144574324324 51.6062980630631]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4849",
+    "issue": "Self-intersection[4.91862889980354 51.6013600196464]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4854",
+    "issue": "Ring Self-intersection[4.80939 51.57599]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4874",
+    "issue": "Self-intersection[4.6203 51.59841]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "4882",
+    "issue": "Self-intersection[4.68079 51.49277]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5026",
+    "issue": "Self-intersection[5.05092 51.53118]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5036",
+    "issue": "Ring Self-intersection[4.99643 51.57015]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5043",
+    "issue": "Ring Self-intersection[5.01628 51.58539]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5044",
+    "issue": "Self-intersection[4.99643 51.57015]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5045",
+    "issue": "Self-intersection[5.01628 51.58539]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5046",
+    "issue": "Self-intersection[5.08127 51.57501]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5047",
+    "issue": "Self-intersection[5.02348 51.58917]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5049",
+    "issue": "Self-intersection[5.07726 51.59466]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5051",
+    "issue": "Self-intersection[5.06742 51.51883]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5071",
+    "issue": "Too few points in geometry component[5.14043 51.60856]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5074",
+    "issue": "Self-intersection[5.18457 51.64003]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5105",
+    "issue": "Self-intersection[4.96878 51.61751]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5121",
+    "issue": "Self-intersection[4.91862889980354 51.6013600196464]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5262",
+    "issue": "Self-intersection[5.26352180400891 51.6457083964365]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5263",
+    "issue": "Self-intersection[5.26352180400891 51.6457083964365]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5324",
+    "issue": "Self-intersection[5.21108 51.75292]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5441",
+    "issue": "Self-intersection[5.94445 51.70718]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5445",
+    "issue": "Self-intersection[5.78829 51.63346]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5465",
+    "issue": "Self-intersection[5.55952 51.5871]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5491",
+    "issue": "Self-intersection[5.43224 51.57872]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5616",
+    "issue": "Self-intersection[5.46695 51.44233]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5753",
+    "issue": "Self-intersection[5.79141 51.44426]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5768",
+    "issue": "Self-intersection[5.8957818142454 51.3650082178651]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5804",
+    "issue": "Self-intersection[5.97821 51.53512]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5841",
+    "issue": "Self-intersection[5.86752 51.6032]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5861",
+    "issue": "Too few points in geometry component[6.07302 51.5361]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5913",
+    "issue": "Self-intersection[6.17689383561644 51.3609612328767]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5915",
+    "issue": "Self-intersection[6.17689383561644 51.3609612328767]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "5954",
+    "issue": "Self-intersection[6.09471642757983 51.2539617862101]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6065",
+    "issue": "Self-intersection[5.94485 51.12257]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6086",
+    "issue": "Self-intersection[6.00739 51.27428]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6093",
+    "issue": "Self-intersection[5.88488 51.26757]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6104",
+    "issue": "Self-intersection[5.93011882352941 51.0841511764706]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6105",
+    "issue": "Self-intersection[5.93011882352941 51.0841511764706]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6114",
+    "issue": "Self-intersection[5.85525 51.0485]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6129",
+    "issue": "Ring Self-intersection[5.78467 50.99056]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6167",
+    "issue": "Self-intersection[5.78484 50.99056]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6276",
+    "issue": "Self-intersection[5.87626320008131 50.765634707636]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6286",
+    "issue": "Self-intersection[5.98004 50.81391]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6351",
+    "issue": "Self-intersection[5.98004 50.81391]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6411",
+    "issue": "Too few points in geometry component[5.97001 50.88598]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6412",
+    "issue": "Self-intersection[5.96176 50.89703]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6418",
+    "issue": "Self-intersection[5.98511150402865 50.8654692032229]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6419",
+    "issue": "Self-intersection[5.98511150402865 50.8654692032229]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6433",
+    "issue": "Ring Self-intersection[5.90825 50.91546]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6461",
+    "issue": "Self-intersection[6.06833856716418 50.8698513731343]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6463",
+    "issue": "Self-intersection[6.06833856716418 50.8698513731343]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6523",
+    "issue": "Too few points in geometry component[5.87277 51.83362]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6525",
+    "issue": "Self-intersection[5.87397 51.8224]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6582",
+    "issue": "Self-intersection[5.8233 51.77633]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6591",
+    "issue": "Self-intersection[5.96927 51.69967]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6595",
+    "issue": "Self-intersection[5.98415 51.73052]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6599",
+    "issue": "Self-intersection[6.0329 51.72017]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6717",
+    "issue": "Self-intersection[5.6482 52.02581]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6741",
+    "issue": "Self-intersection[5.56514 52.12175]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6811",
+    "issue": "Self-intersection[5.91013162624822 51.9854751212553]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6816",
+    "issue": "Self-intersection[5.93873607655502 52.0070053588517]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6823",
+    "issue": "Self-intersection[5.93873607655502 52.0070053588517]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6826",
+    "issue": "Too few points in geometry component[5.94913 51.98276]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6827",
+    "issue": "Self-intersection[5.92033965310207 51.9759941027352]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6828",
+    "issue": "Self-intersection[5.92033965310207 51.9759941027352]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6843",
+    "issue": "Self-intersection[5.851831166712 51.9651997144411]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6882",
+    "issue": "Self-intersection[5.96159 51.99414]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6956",
+    "issue": "Self-intersection[6.09376 52.07517]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6961",
+    "issue": "Self-intersection[6.06278 52.10739]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "6987",
+    "issue": "Self-intersection[6.06656 52.00056]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7064",
+    "issue": "Self-intersection[6.39406 51.91399]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7121",
+    "issue": "Self-intersection[6.58091 51.92871]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7122",
+    "issue": "Self-intersection[6.58091 51.92869]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7141",
+    "issue": "Ring Self-intersection[6.63353 52.05644]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7152",
+    "issue": "Ring Self-intersection[6.63353 52.05644]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7203",
+    "issue": "Self-intersection[6.21789 52.14814]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7204",
+    "issue": "Self-intersection[6.21535 52.14107]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7241",
+    "issue": "Self-intersection[6.45098 52.15506]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7311",
+    "issue": "Self-intersection[5.96985 52.21031]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7325",
+    "issue": "Ring Self-intersection[6.04927 52.21132]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7384",
+    "issue": "Ring Self-intersection[6.04927 52.21132]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7412",
+    "issue": "Ring Self-intersection[6.13804 52.25013]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7419",
+    "issue": "Self-intersection[6.13789 52.25022]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7422",
+    "issue": "Self-intersection[6.21880578947363 52.2461242105263]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7451",
+    "issue": "Self-intersection[6.47026 52.28437]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7468",
+    "issue": "Self-intersection[6.5777 52.29184]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7472",
+    "issue": "Ring Self-intersection[6.58456 52.25048]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7491",
+    "issue": "Self-intersection[6.70363 52.26439]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7512",
+    "issue": "Too few points in geometry component[6.89537 52.21598]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7514",
+    "issue": "Self-intersection[6.88977892703863 52.2288195708155]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7522",
+    "issue": "Self-intersection[6.88977892703863 52.2288195708155]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7561",
+    "issue": "Self-intersection[6.86545 52.29719]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7573",
+    "issue": "Self-intersection[6.94322040816327 52.3175819591837]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7581",
+    "issue": "Self-intersection[7.00942 52.25408]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7582",
+    "issue": "Self-intersection[7.00956 52.25408]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7601",
+    "issue": "Self-intersection[6.67744 52.34059]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7605",
+    "issue": "Self-intersection[6.65789072463768 52.3456937681159]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7606",
+    "issue": "Self-intersection[6.65789072463768 52.3456937681159]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7641",
+    "issue": "Self-intersection[6.56642 52.37921]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7678",
+    "issue": "Self-intersection[6.7091 52.4249]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7731",
+    "issue": "Self-intersection[6.41661 52.53075]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7776",
+    "issue": "Self-intersection[6.53569 52.64128]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7777",
+    "issue": "Ring Self-intersection[6.53566 52.64127]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7841",
+    "issue": "Self-intersection[6.80087 52.76508]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7871",
+    "issue": "Self-intersection[6.86207 52.83119]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7916",
+    "issue": "Self-intersection[6.60810013710143 52.6731720184378]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7941",
+    "issue": "Ring Self-intersection[6.19638 52.70008]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7942",
+    "issue": "Ring Self-intersection[6.19638 52.70008]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "7961",
+    "issue": "Self-intersection[6.27641 52.73363]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8013",
+    "issue": "Self-intersection[6.10699 52.49903]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8016",
+    "issue": "Self-intersection[6.07853974161796 52.4796641095048]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8043",
+    "issue": "Self-intersection[6.05754 52.53451]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8084",
+    "issue": "Self-intersection[5.91222 52.38992]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8101",
+    "issue": "Self-intersection[6.26337295081967 52.3707003278689]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8102",
+    "issue": "Self-intersection[6.26337295081967 52.3707003278689]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8166",
+    "issue": "Self-intersection[6.02083 52.31694]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8181",
+    "issue": "Self-intersection[6.03098 52.39721]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8194",
+    "issue": "Self-intersection[6.1009 52.38871]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8219",
+    "issue": "Self-intersection[5.51072 52.49323]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8232",
+    "issue": "Self-intersection[5.47362 52.50055]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8233",
+    "issue": "Ring Self-intersection[5.47362 52.50055]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8243",
+    "issue": "Self-intersection[5.42033794520542 52.5029389041096]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8244",
+    "issue": "Self-intersection[5.42033794520542 52.5029389041096]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8251",
+    "issue": "Self-intersection[5.81630923076923 52.4576292307692]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8253",
+    "issue": "Self-intersection[5.75772 52.57705]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8255",
+    "issue": "Self-intersection[5.63321 52.52195]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8256",
+    "issue": "Self-intersection[5.81630923076923 52.4576292307692]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8262",
+    "issue": "Self-intersection[5.90979 52.56238]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8265",
+    "issue": "Self-intersection[5.89668 52.54651]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8266",
+    "issue": "Self-intersection[5.93584 52.53644]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8301",
+    "issue": "Too few points in geometry component[5.74828 52.7086]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8303",
+    "issue": "Self-intersection[5.74378 52.71207]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8304",
+    "issue": "Self-intersection[5.75962 52.70705]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8331",
+    "issue": "Self-intersection[6.11415022900763 52.787859389313]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8332",
+    "issue": "Too few points in geometry component[6.137 52.79246]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8391",
+    "issue": "Self-intersection[6.1458 52.89521]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8403",
+    "issue": "Self-intersection[6.0417 52.97983]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8441",
+    "issue": "Self-intersection[5.92445 52.9619]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8442",
+    "issue": "Self-intersection[5.92082 52.95824]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8448",
+    "issue": "Self-intersection[5.93115939393943 52.9587466666667]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8521",
+    "issue": "Self-intersection[5.75764 52.92573]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8532",
+    "issue": "Self-intersection[5.70649 52.85539]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8571",
+    "issue": "Self-intersection[5.50185 52.88008]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8603",
+    "issue": "Self-intersection[5.67847 53.05117]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8604",
+    "issue": "Self-intersection[5.68707 53.04107]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8658",
+    "issue": "Ring Self-intersection[5.52336 53.02294]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8744",
+    "issue": "Self-intersection[5.49285 53.08719]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8751",
+    "issue": "Self-intersection[5.37941 53.09165]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8861",
+    "issue": "Self-intersection[5.43648 53.18012]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8881",
+    "issue": "Self-intersection[5.25092 53.38061]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8918",
+    "issue": "Self-intersection[5.79515 53.2143]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8919",
+    "issue": "Self-intersection[5.78068 53.21638]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8921",
+    "issue": "Self-intersection[5.81579 53.20664]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "8935",
+    "issue": "Self-intersection[5.81293 53.18691]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9101",
+    "issue": "Self-intersection[5.998315 53.3311516666667]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9102",
+    "issue": "Self-intersection[5.998315 53.3311516666667]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9202",
+    "issue": "Too few points in geometry component[6.12526 53.10716]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9354",
+    "issue": "Self-intersection[6.35502 53.10597]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9364",
+    "issue": "Self-intersection[6.30329 53.15148]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9418",
+    "issue": "Self-intersection[6.54372 52.82157]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9421",
+    "issue": "Self-intersection[6.47032 52.9728]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9422",
+    "issue": "Self-intersection[6.38094 52.92728]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9475",
+    "issue": "Self-intersection[6.67231 53.11271]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9503",
+    "issue": "Self-intersection[6.96958 52.97387]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9561",
+    "issue": "Self-intersection[7.06511 52.85552]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9608",
+    "issue": "Self-intersection[6.68675 53.18348]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9628",
+    "issue": "Self-intersection[6.90111 53.24395]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9636",
+    "issue": "Self-intersection[6.86071 53.16409]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9665",
+    "issue": "Self-intersection[6.9826 53.09877]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9675",
+    "issue": "Self-intersection[7.02519 53.1495]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9715",
+    "issue": "Self-intersection[6.56458729098211 53.2343605805038]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9716",
+    "issue": "Self-intersection[6.56458729098211 53.2343605805038]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9727",
+    "issue": "Ring Self-intersection[6.51581 53.19849]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9737",
+    "issue": "Self-intersection[6.58745 53.2471]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9741",
+    "issue": "Self-intersection[6.55524 53.23341]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9744",
+    "issue": "Ring Self-intersection[6.51581 53.19849]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9746",
+    "issue": "Self-intersection[6.52582 53.23519]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9893",
+    "issue": "Self-intersection[6.49147 53.30454]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9932",
+    "issue": "Self-intersection[6.912316 53.322402]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9934",
+    "issue": "Self-intersection[6.912316 53.322402]"
+  },
+  {
+    "dataset": "public/data/demand-postcodes.geojson",
+    "id": "9999",
+    "issue": "Self-intersection[6.58359 53.34352]"
+  }
+]

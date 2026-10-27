@@ -1,0 +1,1112 @@
+[
+  {
+    "historicalId": "WRI1019288",
+    "historicalName": "Eems",
+    "candidateSource": "RWE",
+    "candidateId": "E000660",
+    "candidateName": "Eemshaven (Magnum)",
+    "distanceMetres": 841.7,
+    "exactNormalizedName": false,
+    "historicalCapacityMw": 2465.0,
+    "candidateCapacityMw": 1410.0,
+    "capacityBasis": "Historical whole registry value vs RWE share/contracted capacity; not assumed equivalent",
+    "status": "candidate; not merged"
+  },
+  {
+    "historicalId": "WRI1019288",
+    "historicalName": "Eems",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563936",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 388.4,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019288",
+    "historicalName": "Eems",
+    "candidateSource": "OSM",
+    "candidateId": "node/1429378984",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 466.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019289",
+    "historicalName": "Eemshaven",
+    "candidateSource": "RWE",
+    "candidateId": "E110339",
+    "candidateName": "Eemshaven ",
+    "distanceMetres": 913.9,
+    "exactNormalizedName": true,
+    "historicalCapacityMw": 1600.0,
+    "candidateCapacityMw": 1580.0,
+    "capacityBasis": "Historical whole registry value vs RWE share/contracted capacity; not assumed equivalent",
+    "status": "candidate; not merged"
+  },
+  {
+    "historicalId": "WRI1019289",
+    "historicalName": "Eemshaven",
+    "candidateSource": "RWE",
+    "candidateId": "E000660",
+    "candidateName": "Eemshaven (Magnum)",
+    "distanceMetres": 982.9,
+    "exactNormalizedName": false,
+    "historicalCapacityMw": 1600.0,
+    "candidateCapacityMw": 1410.0,
+    "capacityBasis": "Historical whole registry value vs RWE share/contracted capacity; not assumed equivalent",
+    "status": "candidate; not merged"
+  },
+  {
+    "historicalId": "WRI1019289",
+    "historicalName": "Eemshaven",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563849",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 429.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019289",
+    "historicalName": "Eemshaven",
+    "candidateSource": "OSM",
+    "candidateId": "node/1420816580",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 329.5,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019289",
+    "historicalName": "Eemshaven",
+    "candidateSource": "OSM",
+    "candidateId": "node/1429946140",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 429.1,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019311",
+    "historicalName": "Magnum",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563876",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 450.5,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019311",
+    "historicalName": "Magnum",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563881",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 240.1,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019311",
+    "historicalName": "Magnum",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563892",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 365.2,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019311",
+    "historicalName": "Magnum",
+    "candidateSource": "OSM",
+    "candidateId": "node/1617174498",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 303.7,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019305",
+    "historicalName": "FLEVO",
+    "candidateSource": "OSM",
+    "candidateId": "way/700743639",
+    "candidateName": "Zonnepark Maxima-centrale",
+    "distanceMetres": 107.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019290",
+    "historicalName": "Maxima",
+    "candidateSource": "OSM",
+    "candidateId": "way/700743639",
+    "candidateName": "Zonnepark Maxima-centrale",
+    "distanceMetres": 107.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019287",
+    "historicalName": "Sloe",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392091",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 470.5,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019310",
+    "historicalName": "Diemen 33",
+    "candidateSource": "OSM",
+    "candidateId": "way/946238504",
+    "candidateName": "Zonnepark Diemen",
+    "distanceMetres": 160.4,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019307",
+    "historicalName": "GELDERLAND",
+    "candidateSource": "OSM",
+    "candidateId": "node/9514704519",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 456.3,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019307",
+    "historicalName": "GELDERLAND",
+    "candidateSource": "OSM",
+    "candidateId": "node/9514704520",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 289.7,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019300",
+    "historicalName": "Borssele Nuclear Power Station",
+    "candidateSource": "OSM",
+    "candidateId": "node/10081794549",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 490.2,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019306",
+    "historicalName": "HARCULO",
+    "candidateSource": "OSM",
+    "candidateId": "way/63739938",
+    "candidateName": "Unnamed generating site",
+    "distanceMetres": 361.7,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1019306",
+    "historicalName": "HARCULO",
+    "candidateSource": "OSM",
+    "candidateId": "way/63742256",
+    "candidateName": "Unnamed generating site",
+    "distanceMetres": 334.2,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005474",
+    "historicalName": "Westereems",
+    "candidateSource": "RWE",
+    "candidateId": "E110339",
+    "candidateName": "Eemshaven ",
+    "distanceMetres": 324.7,
+    "exactNormalizedName": false,
+    "historicalCapacityMw": 213.3,
+    "candidateCapacityMw": 1580.0,
+    "capacityBasis": "Historical whole registry value vs RWE share/contracted capacity; not assumed equivalent",
+    "status": "candidate; not merged"
+  },
+  {
+    "historicalId": "WRI1005474",
+    "historicalName": "Westereems",
+    "candidateSource": "RWE",
+    "candidateId": "E000660",
+    "candidateName": "Eemshaven (Magnum)",
+    "distanceMetres": 541.1,
+    "exactNormalizedName": false,
+    "historicalCapacityMw": 213.3,
+    "candidateCapacityMw": 1410.0,
+    "capacityBasis": "Historical whole registry value vs RWE share/contracted capacity; not assumed equivalent",
+    "status": "candidate; not merged"
+  },
+  {
+    "historicalId": "WRI1005474",
+    "historicalName": "Westereems",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563766",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 405.5,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005474",
+    "historicalName": "Westereems",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563838",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 326.7,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005474",
+    "historicalName": "Westereems",
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563954",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 341.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005474",
+    "historicalName": "Westereems",
+    "candidateSource": "OSM",
+    "candidateId": "node/1429378985",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 363.1,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005474",
+    "historicalName": "Westereems",
+    "candidateSource": "OSM",
+    "candidateId": "node/1429378986",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 9.7,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0071885",
+    "historicalName": "Scaldia",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624433631",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 370.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0071885",
+    "historicalName": "Scaldia",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624433662",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 201.0,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0071885",
+    "historicalName": "Scaldia",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624433673",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 184.7,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0071885",
+    "historicalName": "Scaldia",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624433694",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 338.1,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0071885",
+    "historicalName": "Scaldia",
+    "candidateSource": "OSM",
+    "candidateId": "node/4742733150",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 339.1,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0071885",
+    "historicalName": "Scaldia",
+    "candidateSource": "OSM",
+    "candidateId": "node/10082970041",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 388.3,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0071714",
+    "historicalName": "Budel-Dorplein",
+    "candidateSource": "OSM",
+    "candidateId": "way/733008797",
+    "candidateName": "Zonnepark Budel",
+    "distanceMetres": 406.5,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0068863",
+    "historicalName": "Delfzijl",
+    "candidateSource": "OSM",
+    "candidateId": "way/459393512",
+    "candidateName": "SunPort Delfzijl",
+    "distanceMetres": 133.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392042",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 487.4,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392045",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 386.0,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392049",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 286.9,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392056",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 98.3,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392059",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 11.8,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392068",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 93.3,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392075",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 282.9,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392079",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 373.4,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392082",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 265.4,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005313",
+    "historicalName": "EPZ",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624392085",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 476.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0072735",
+    "historicalName": "Andijk",
+    "candidateSource": "OSM",
+    "candidateId": "node/1617174156",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 400.3,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005400",
+    "historicalName": "Neeltje Jans",
+    "candidateSource": "OSM",
+    "candidateId": "node/11476916595",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 371.8,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0073215",
+    "historicalName": "Rilland",
+    "candidateSource": "OSM",
+    "candidateId": "node/3741407766",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 169.1,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0073215",
+    "historicalName": "Rilland",
+    "candidateSource": "OSM",
+    "candidateId": "node/3741407767",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 234.0,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0073412",
+    "historicalName": "Roodehaan",
+    "candidateSource": "OSM",
+    "candidateId": "node/12068152242",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 397.1,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005362",
+    "historicalName": "Jacobahaven",
+    "candidateSource": "OSM",
+    "candidateId": "node/13150577941",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 384.4,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005362",
+    "historicalName": "Jacobahaven",
+    "candidateSource": "OSM",
+    "candidateId": "node/13150577942",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 266.4,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005362",
+    "historicalName": "Jacobahaven",
+    "candidateSource": "OSM",
+    "candidateId": "node/13150577943",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 162.9,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005290",
+    "historicalName": "Burgervlotbrug",
+    "candidateSource": "OSM",
+    "candidateId": "node/2973836541",
+    "candidateName": "De Bonte Hen",
+    "distanceMetres": 457.0,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0066277",
+    "historicalName": "Ameland",
+    "candidateSource": "OSM",
+    "candidateId": "way/403958837",
+    "candidateName": "Zonnepark Ameland",
+    "distanceMetres": 64.8,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WKS0065729",
+    "historicalName": "Louisegroeve",
+    "candidateSource": "OSM",
+    "candidateId": "way/795953309",
+    "candidateName": "Zonnepark Louisegroeve",
+    "distanceMetres": 52.6,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005339",
+    "historicalName": "Haringvliet",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624308571",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 434.9,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005339",
+    "historicalName": "Haringvliet",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624308584",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 215.5,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005339",
+    "historicalName": "Haringvliet",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624308587",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 4.3,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005339",
+    "historicalName": "Haringvliet",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624308591",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 223.8,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "historicalId": "WRI1005339",
+    "historicalName": "Haringvliet",
+    "candidateSource": "OSM",
+    "candidateId": "node/1624308597",
+    "candidateName": "Unnamed wind turbine",
+    "distanceMetres": 443.0,
+    "status": "candidate; plant vs turbine/site granularity may differ"
+  },
+  {
+    "rweId": "EC167S911",
+    "rweName": "Oostpolder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8474955843",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 280.7,
+    "sourceUrl": "https://www.openstreetmap.org/node/8474955843",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S911",
+    "rweName": "Oostpolder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8474955848",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 354.2,
+    "sourceUrl": "https://www.openstreetmap.org/node/8474955848",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S911",
+    "rweName": "Oostpolder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8474955849",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 309.1,
+    "sourceUrl": "https://www.openstreetmap.org/node/8474955849",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S003",
+    "rweName": "Oostpolderdijk",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8474955867",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 473.6,
+    "sourceUrl": "https://www.openstreetmap.org/node/8474955867",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S003",
+    "rweName": "Oostpolderdijk",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8474955869",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 135.8,
+    "sourceUrl": "https://www.openstreetmap.org/node/8474955869",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S003",
+    "rweName": "Oostpolderdijk",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8474955870",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 230.4,
+    "sourceUrl": "https://www.openstreetmap.org/node/8474955870",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL31",
+    "rweName": "Eekerpolder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8198837195",
+    "candidateName": "N33-04",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 0.7,
+    "sourceUrl": "https://www.openstreetmap.org/node/8198837195",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL3",
+    "rweName": "Halsteren",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/588594878",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 472.8,
+    "sourceUrl": "https://www.openstreetmap.org/node/588594878",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL3",
+    "rweName": "Halsteren",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/588649126",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 295.9,
+    "sourceUrl": "https://www.openstreetmap.org/node/588649126",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL3",
+    "rweName": "Halsteren",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/588653985",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 127.0,
+    "sourceUrl": "https://www.openstreetmap.org/node/588653985",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL3",
+    "rweName": "Halsteren",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/588654351",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 95.2,
+    "sourceUrl": "https://www.openstreetmap.org/node/588654351",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL3",
+    "rweName": "Halsteren",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/588655549",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 243.6,
+    "sourceUrl": "https://www.openstreetmap.org/node/588655549",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL999",
+    "rweName": "Kattenberg",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/6375833955",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 457.3,
+    "sourceUrl": "https://www.openstreetmap.org/node/6375833955",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL999",
+    "rweName": "Kattenberg",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/6375833956",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 0.1,
+    "sourceUrl": "https://www.openstreetmap.org/node/6375833956",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL13",
+    "rweName": "Sabina Polder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8936274179",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 208.0,
+    "sourceUrl": "https://www.openstreetmap.org/node/8936274179",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL13",
+    "rweName": "Sabina Polder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8936274180",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 95.5,
+    "sourceUrl": "https://www.openstreetmap.org/node/8936274180",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL13",
+    "rweName": "Sabina Polder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8936274181",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 315.2,
+    "sourceUrl": "https://www.openstreetmap.org/node/8936274181",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL13",
+    "rweName": "Sabina Polder",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/8936274188",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 449.6,
+    "sourceUrl": "https://www.openstreetmap.org/node/8936274188",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL9",
+    "rweName": "Volkerak",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/797602394",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 419.3,
+    "sourceUrl": "https://www.openstreetmap.org/node/797602394",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL9",
+    "rweName": "Volkerak",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/797602399",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 188.8,
+    "sourceUrl": "https://www.openstreetmap.org/node/797602399",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL10",
+    "rweName": "Westereems",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563828",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 145.3,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563828",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL30",
+    "rweName": "Zuidwester",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/3593594679",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 354.6,
+    "sourceUrl": "https://www.openstreetmap.org/node/3593594679",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "NL30",
+    "rweName": "Zuidwester",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/4198315021",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 362.9,
+    "sourceUrl": "https://www.openstreetmap.org/node/4198315021",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110334",
+    "rweName": "Amer",
+    "rwePowerType": [
+      "BM"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "way/1030678743",
+    "candidateName": "Drijvend Zonnepark Amer",
+    "candidateTechnology": "Solar",
+    "distanceMetres": 217.7,
+    "sourceUrl": "https://www.openstreetmap.org/way/1030678743",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110334",
+    "rweName": "Amer",
+    "rwePowerType": [
+      "BM"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "way/1030678741",
+    "candidateName": "Unnamed generating site",
+    "candidateTechnology": "Solar",
+    "distanceMetres": 332.8,
+    "sourceUrl": "https://www.openstreetmap.org/way/1030678741",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110334",
+    "rweName": "Amer",
+    "rwePowerType": [
+      "BM"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "way/1030678742",
+    "candidateName": "Unnamed generating site",
+    "candidateTechnology": "Solar",
+    "distanceMetres": 111.9,
+    "sourceUrl": "https://www.openstreetmap.org/way/1030678742",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110339",
+    "rweName": "Eemshaven ",
+    "rwePowerType": [
+      "CL"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563838",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 401.6,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563838",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110339",
+    "rweName": "Eemshaven ",
+    "rwePowerType": [
+      "CL"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563839",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 336.2,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563839",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110339",
+    "rweName": "Eemshaven ",
+    "rwePowerType": [
+      "CL"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563954",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 197.7,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563954",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110339",
+    "rweName": "Eemshaven ",
+    "rwePowerType": [
+      "CL"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563960",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 307.0,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563960",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110339",
+    "rweName": "Eemshaven ",
+    "rwePowerType": [
+      "CL"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1429378986",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 333.5,
+    "sourceUrl": "https://www.openstreetmap.org/node/1429378986",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E000660",
+    "rweName": "Eemshaven (Magnum)",
+    "rwePowerType": [
+      "GS"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563950",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 147.8,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563950",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E000660",
+    "rweName": "Eemshaven (Magnum)",
+    "rwePowerType": [
+      "GS"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563954",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 339.3,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563954",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E000660",
+    "rweName": "Eemshaven (Magnum)",
+    "rwePowerType": [
+      "GS"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/1410563964",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 327.5,
+    "sourceUrl": "https://www.openstreetmap.org/node/1410563964",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "E110345",
+    "rweName": "Moerdijk",
+    "rwePowerType": [
+      "GS"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "way/946022177",
+    "candidateName": "Zonnepark SNB",
+    "candidateTechnology": "Solar",
+    "distanceMetres": 476.6,
+    "sourceUrl": "https://www.openstreetmap.org/way/946022177",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S080",
+    "rweName": "Karolinapolder R",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/12568387127",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 186.6,
+    "sourceUrl": "https://www.openstreetmap.org/node/12568387127",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S080",
+    "rweName": "Karolinapolder R",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/12568387128",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 383.9,
+    "sourceUrl": "https://www.openstreetmap.org/node/12568387128",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  },
+  {
+    "rweId": "EC167S080",
+    "rweName": "Karolinapolder R",
+    "rwePowerType": [
+      "WN"
+    ],
+    "candidateSource": "OSM",
+    "candidateId": "node/12568387129",
+    "candidateName": "Unnamed wind turbine",
+    "candidateTechnology": "Wind",
+    "distanceMetres": 316.1,
+    "sourceUrl": "https://www.openstreetmap.org/node/12568387129",
+    "status": "proximity candidate only; technology and site/unit granularity need review"
+  }
+]

@@ -1,0 +1,1023 @@
+{
+  "checkedAt": "2026-09-19T08:29:12.765099+00:00",
+  "scope": "All imported source families and all deployed archive metadata accessible on this run. Saved snapshots, not a new survey or independent verification of every site. No external sources added.",
+  "checks": [
+    {
+      "title": "All map layers: geometry, identity and source links",
+      "status": "checked",
+      "detail": "Checked every feature; administrative boundaries are display geography, not grid service areas.",
+      "stats": {
+        "layers": 14,
+        "features": 116279,
+        "invalidGeometries": 0
+      },
+      "file": "geometry-issues.json"
+    },
+    {
+      "title": "OSM network ↔ OSM stations",
+      "status": "checked",
+      "detail": "Exact object IDs reveal overlapping extracts of the same source, not a second independent witness. Different display labels are preserved.",
+      "stats": {
+        "sharedObjects": 544,
+        "voltageDisagreements": 0
+      },
+      "file": "osm-overlap.json"
+    },
+    {
+      "title": "Exact Liander matches: voltage and operator fields",
+      "status": "review",
+      "detail": "Compared original OSM voltage tags in volts with complete operator kV strings. Enriched names are excluded from independent corroboration; partial or unsupported voltage formats stay unassessed.",
+      "stats": {
+        "comparedVoltages": 197,
+        "voltageDifferences": 1,
+        "operatorLabelDifferences": 0
+      },
+      "file": "liander-field-comparisons.json"
+    },
+    {
+      "title": "Liander ↔ OSM station identifiers",
+      "status": "checked",
+      "detail": "All ref:liander tags checked against all three imported layers. Existing enrichment remains limited to unique identifiers within 25 metres.",
+      "stats": {
+        "identifier not in imported layers": 108,
+        "exact identifier + position": 197
+      },
+      "file": "liander-identifiers.json"
+    },
+    {
+      "title": "Stedin + Liander ↔ every OSM station",
+      "status": "review",
+      "detail": "Tested original Stedin footprints and all Liander points. Overlap/proximity suggests a candidate; no name, voltage or operator is copied on this evidence alone.",
+      "stats": {
+        "stedinFootprints": 37422,
+        "OSM display point within Stedin footprint": 1526,
+        "Within 25 m of Liander point": 1540
+      },
+      "file": "station-spatial-candidates.json"
+    },
+    {
+      "title": "RVO ↔ all OSM producers",
+      "status": "review",
+      "detail": "All 28,913 project rows screened. Applicant is not automatically the operator; address matches do not establish site identity. Missing coordinates and shared project addresses prevent automatic joining.",
+      "stats": {
+        "projects": 28913,
+        "duplicateProjectIds": 0,
+        "osmProducersWithFullAddress": 16,
+        "addressCandidates": 4
+      },
+      "file": "rvo-address-candidates.json"
+    },
+    {
+      "title": "WRI / offshore additions ↔ RWE ↔ OSM",
+      "status": "review",
+      "detail": "Checked historical registry against every Dutch RWE site and mapped OSM producer. Nearby units may share a complex; historical ownership and capacities are never overwritten by proximity.",
+      "stats": {
+        "historicalRecords": 71,
+        "rweDutchSites": 18,
+        "rweOldDataFlags": 6,
+        "candidatePairsBySource": {
+          "WRI → RWE": 5,
+          "WRI → OSM": 57,
+          "RWE → OSM": 38
+        },
+        "candidates": 100
+      },
+      "file": "generation-candidates.json"
+    },
+    {
+      "title": "Enexis and TenneT station identity coverage",
+      "status": "gap",
+      "detail": "Original OSM attributes are checked for all operator labels, including Enexis and TenneT. The imported Enexis releases are neighbourhood/postcode aggregates and an unnamed illustrative station profile; none supplies a station ID/coordinate register. TenneT balancing is national context, not GIS. These records cannot independently establish the identity, voltage or load of OSM stations.",
+      "stats": {
+        "osmStationOperatorLabels": {
+          "Enexis": 133,
+          "TenneT": 429,
+          "TenneT;Enexis": 1,
+          "TenneT;Stedin": 1,
+          "TenneT;ProRail": 3,
+          "Enexis;WP HZP B.V.": 1,
+          "ENEXIS": 7
+        }
+      },
+      "file": null
+    },
+    {
+      "title": "RWE saved responses ↔ catalogue and national timestamps",
+      "status": "review",
+      "detail": "All 18 Dutch plants and 22 unit IDs checked against the saved live response. Claus and Magnum histories each contain 84 valid ISO/epoch-aligned records. The two saved aggregate-query responses are empty. Plant histories have no overlapping timestamps with the complete saved national power snapshots, so a plant-to-national value comparison cannot be made. Local response validation does not establish hosted access.",
+      "stats": {
+        "dutchPlants": 18,
+        "dutchUnits": 22,
+        "unitsAbsentFromLiveResponse": 0,
+        "histories": [
+          {
+            "file": "claus-history.json",
+            "id": "E110336",
+            "plant": "Claus",
+            "intervals": 84,
+            "missing": 0,
+            "first": "2026-09-18T07:30:00.000Z",
+            "last": "2026-09-19T04:15:00.000Z"
+          },
+          {
+            "file": "magnum-history.json",
+            "id": "E000660",
+            "plant": "Eemshaven (Magnum)",
+            "intervals": 84,
+            "missing": 0,
+            "first": "2026-09-18T07:30:00.000Z",
+            "last": "2026-09-19T04:15:00.000Z"
+          },
+          {
+            "file": "nl-wind-history.json",
+            "id": null,
+            "plant": "Empty aggregate-query response; no national observations",
+            "intervals": 0,
+            "missing": 0
+          },
+          {
+            "file": "nl-gas-history.json",
+            "id": null,
+            "plant": "Empty aggregate-query response; no national observations",
+            "intervals": 0,
+            "missing": 0
+          }
+        ],
+        "commonWithSavedNational": [
+          {
+            "plant": "Claus",
+            "commonIntervals": 0
+          },
+          {
+            "plant": "Eemshaven (Magnum)",
+            "commonIntervals": 0
+          }
+        ]
+      },
+      "file": "rwe-response-validation.json"
+    },
+    {
+      "title": "Enexis releases ↔ CBS/PDOK geography",
+      "status": "checked",
+      "detail": "All four releases checked for identity and mapped-code coverage; same-code January/July differences retained. Enexis 2026 service-area registered capacity is not a direct equality check against CBS 2025 national/municipal stock.",
+      "stats": {
+        "snapshots": [
+          {
+            "kind": "gv",
+            "date": "2026-01-01",
+            "rows": 2870,
+            "unmapped": 149,
+            "duplicateIds": 0,
+            "mappedWithoutGeometry": 0
+          },
+          {
+            "kind": "gv",
+            "date": "2026-07-01",
+            "rows": 2875,
+            "unmapped": 93,
+            "duplicateIds": 0,
+            "mappedWithoutGeometry": 0
+          },
+          {
+            "kind": "kv",
+            "date": "2026-01-01",
+            "rows": 4869,
+            "unmapped": 288,
+            "duplicateIds": 0,
+            "mappedWithoutGeometry": 0
+          },
+          {
+            "kind": "kv",
+            "date": "2026-07-01",
+            "rows": 4892,
+            "unmapped": 202,
+            "duplicateIds": 0,
+            "mappedWithoutGeometry": 0
+          }
+        ],
+        "changedFields": 10682,
+        "changedFieldsWithDifferentAreaLabels": 130
+      },
+      "file": "enexis-snapshot-changes.json"
+    },
+    {
+      "title": "Enexis + Liander annual use ↔ CBS postcode demand",
+      "status": "checked",
+      "detail": "Compared geographical coverage only: 2026 standard annual values for small connections cannot be validated by equality with 2023 dwelling averages. Shared postcodes do not imply the same meters.",
+      "stats": {
+        "enexisPostcodes": 1579,
+        "lianderPostcodes": 1614,
+        "sharedOperatorPostcodes": 8,
+        "enexisNotInCbs2023": 1,
+        "lianderNotInCbs2023": 0,
+        "cbsPostcodes": 4070,
+        "lianderAnnualReconciliationDifferenceKwh": 0.0
+      },
+      "file": "annual-coverage-overlap.json"
+    },
+    {
+      "title": "Bundled metadata ↔ downloadable data",
+      "status": "checked",
+      "detail": "Compared every same-named JSON file shared between the application bundle and public downloads.",
+      "stats": {
+        "files": [
+          {
+            "file": "assets.json",
+            "identicalContent": true
+          },
+          {
+            "file": "demand-meta.json",
+            "identicalContent": true
+          },
+          {
+            "file": "municipalities-meta.json",
+            "identicalContent": true
+          },
+          {
+            "file": "network-meta.json",
+            "identicalContent": true
+          },
+          {
+            "file": "producers-meta.json",
+            "identicalContent": true
+          },
+          {
+            "file": "rvo-projects-meta.json",
+            "identicalContent": true
+          },
+          {
+            "file": "stations-meta.json",
+            "identicalContent": true
+          }
+        ]
+      },
+      "file": null
+    },
+    {
+      "title": "Energy-Charts generation, demand and physical borders",
+      "status": "checked",
+      "detail": "Checked both saved days, common timestamps, duplicate times, source units and reported border sums. Generation + imports - load is a coverage residual, not measured losses or independent validation.",
+      "stats": {
+        "snapshots": [
+          {
+            "snapshot": "baseline",
+            "generationUnit": "MW",
+            "flowUnit": "GW",
+            "powerIntervals": 96,
+            "flowIntervals": 96,
+            "commonIntervals": 96,
+            "maxBorderSumDifferenceGW": 0.001000000000000334,
+            "powerDuplicateTimestamps": 0,
+            "flowDuplicateTimestamps": 0,
+            "powerMatchesArchivedResponse": true,
+            "flowMatchesArchivedResponse": true
+          },
+          {
+            "snapshot": "-today",
+            "generationUnit": "MW",
+            "flowUnit": "GW",
+            "powerIntervals": 28,
+            "flowIntervals": 5,
+            "commonIntervals": 5,
+            "maxBorderSumDifferenceGW": 1.1102230246251565e-16,
+            "powerDuplicateTimestamps": 0,
+            "flowDuplicateTimestamps": 0,
+            "powerMatchesArchivedResponse": true,
+            "flowMatchesArchivedResponse": true
+          }
+        ]
+      },
+      "file": null
+    },
+    {
+      "title": "Hosted Energy-Charts, RWE, TenneT; NED / ENTSO-E",
+      "status": "gap",
+      "detail": "All deployed archive metadata pages inspected. RWE and TenneT have attempt markers but no successful archived payload in this database at audit time. This does not identify the failure cause. NED access remains unverified; direct ENTSO-E is not configured. Archived bodies are truncated by the reader, so only local complete source responses underwent value-level tests.",
+      "stats": {
+        "archiveRecords": 22,
+        "successfulArchivesBySource": {
+          "energy-charts": 22
+        },
+        "truncatedArchiveBodies": 22
+      },
+      "file": null
+    },
+    {
+      "title": "Enexis HS/MS example, Liander transport, permits and tenders",
+      "status": "gap",
+      "detail": "HS/MS is illustrative and cannot verify station load. Liander transport is quarantined for unresolved units/geography. Permits, TenderNed/TED, congestion and KNMI are links/plans with no imported observations to cross-check. TenneT-labelled OSM infrastructure is community mapping, not an operator GIS feed.",
+      "stats": {},
+      "file": null
+    },
+    {
+      "title": "Recent hosted error evidence",
+      "status": "gap",
+      "detail": "A limited native worker-log query found an NED route returning HTTP 502. It does not expose the upstream cause. Absence of other feeds from this error query does not prove success.",
+      "stats": {
+        "queryWindowMinutes": 1440,
+        "events": [
+          {
+            "timestamp": "2026-09-19T08:10:48.336Z",
+            "route": "/api/ned",
+            "responseStatus": 502,
+            "outcome": "ok"
+          }
+        ]
+      },
+      "file": null
+    },
+    {
+      "title": "RVO source workbook ↔ imported project register",
+      "status": "checked",
+      "detail": "Compared every selected workbook project by exact reference: location, applicant, technology, installation type, realisation and commissioning year. Original anonymisation preserved.",
+      "stats": {
+        "workbookHashMatches": true,
+        "sourceProjectIds": 28913,
+        "importedProjectIds": 28913,
+        "differentProjectIds": 0,
+        "fieldDisagreements": 0
+      },
+      "file": null
+    },
+    {
+      "title": "WRI registry ↔ original CSV",
+      "status": "checked",
+      "detail": "All European-Netherlands historical source records checked for name, coordinates, recorded capacity and owner. Two offshore factsheet additions retain separate provenance and approximate display centres; their present-day values were not reverified.",
+      "stats": {
+        "sourceRecords": 69,
+        "importedWriRecords": 69,
+        "fieldDisagreements": 0,
+        "separateOperatorAdditions": 2
+      },
+      "file": null
+    },
+    {
+      "title": "OSM producer coverage ↔ original province boundaries",
+      "status": "checked",
+      "detail": "Checked retained display points against the original full-precision provincial polygons. Offshore records outside those areas are still outside this extract; this does not assess national completeness.",
+      "stats": {
+        "producersChecked": 3359,
+        "outsideOriginalBoundaries": 0
+      },
+      "file": null
+    },
+    {
+      "title": "Operator raw archive integrity",
+      "status": "checked",
+      "detail": "SHA-256 of decompressed source archives compared with recorded import hashes.",
+      "stats": {
+        "layers": [
+          {
+            "dataset": "liander-641",
+            "match": true
+          },
+          {
+            "dataset": "liander-642",
+            "match": true
+          },
+          {
+            "dataset": "liander-643",
+            "match": true
+          },
+          {
+            "dataset": "stedin-8",
+            "match": true
+          },
+          {
+            "dataset": "stedin-6",
+            "match": true
+          },
+          {
+            "dataset": "stedin-5",
+            "match": true
+          }
+        ]
+      },
+      "file": null
+    },
+    {
+      "title": "OSM provenance and evidence coverage",
+      "status": "checked",
+      "detail": "Every evidence tag compared with its original OSM object; metadata counts recalculated after enrichment. All site source links retained. Source presence does not establish current operation.",
+      "stats": {
+        "datasets": [
+          {
+            "dataset": "producers",
+            "rows": 3359,
+            "tagMismatches": 0,
+            "unnamed": 2221,
+            "missingSourceLinks": 0,
+            "evidenceCountMatches": true
+          },
+          {
+            "dataset": "stations",
+            "rows": 7151,
+            "tagMismatches": 0,
+            "unnamed": 5222,
+            "missingSourceLinks": 0,
+            "evidenceCountMatches": true
+          }
+        ]
+      },
+      "file": null
+    },
+    {
+      "title": "Boundary geometry correction",
+      "status": "corrected",
+      "detail": "Rebuilt display boundaries from valid original source geometry using Shapely 2.1.2 set_precision, valid_output, grid 0.00001 degrees. Collapsed sub-grid rings can be removed. No statistical attributes or original archives changed. Display precision, not surveyed accuracy.",
+      "stats": {
+        "datasets": [
+          {
+            "dataset": "public/data/provinces.geojson",
+            "source": "research/raw/provinces.geojson",
+            "sourceSha256": "76d990b9070490726635b4d38e41b0277c19e107bd6a8e4f4e11d8ed019a7ba7",
+            "features": 12,
+            "invalidBefore": 5,
+            "invalidAfter": 0,
+            "propertiesUnchanged": true
+          },
+          {
+            "dataset": "public/data/demand-postcodes.geojson",
+            "source": "research/raw/cbs-postcode-2023.json.gz",
+            "sourceSha256": "4a8f67148b5a7a1a141ba9a5c5c14e671bb19d1bf8b7b1591c0d4901aad4038a",
+            "features": 4070,
+            "invalidBefore": 379,
+            "invalidAfter": 0,
+            "propertiesUnchanged": true
+          }
+        ]
+      },
+      "file": "geometry-correction.json"
+    },
+    {
+      "title": "Automated import and calculation verification",
+      "status": "checked",
+      "detail": "Executed source and calculation tests, including complete Enexis raw-file reconciliation. These checks validate transformations; they are not independent certification of source claims.",
+      "stats": {
+        "nodeDataTestsPassed": 48,
+        "nodeDataTestsFailed": 0,
+        "typecheckPassed": true,
+        "enexisSourceHashesVerified": 10,
+        "enexisCapacityReleasesVerified": 4,
+        "enexisElectricityRangesReconciled": 126357,
+        "enexisWeightedSjaReconciled": true,
+        "browserVerification": "Unavailable: managed preview service mailbox is missing. Visual layout is unverified.",
+        "scope": "Executed during this audit. Real-source import checks are separate from synthetic edge-case tests; tests do not prove hosted feed availability."
+      },
+      "file": null
+    }
+  ],
+  "inventory": [
+    {
+      "dataset": "countries.geojson",
+      "records": 8,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "demand-postcodes.geojson",
+      "records": 4070,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "enexis/neighbourhoods-2026.geojson",
+      "records": 4872,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "municipalities-2025.geojson",
+      "records": 342,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "network.geojson",
+      "records": 3448,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "operator-stations/liander-641.geojson",
+      "records": 719,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "operator-stations/liander-642.geojson",
+      "records": 35935,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "operator-stations/liander-643.geojson",
+      "records": 18941,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "operator-stations/stedin-5.geojson",
+      "records": 16446,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "operator-stations/stedin-6.geojson",
+      "records": 20689,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "operator-stations/stedin-8.geojson",
+      "records": 287,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "producers.geojson",
+      "records": 3359,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "provinces.geojson",
+      "records": 12,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    },
+    {
+      "dataset": "stations.geojson",
+      "records": 7151,
+      "duplicateIds": 0,
+      "invalidGeometry": 0,
+      "emptyGeometry": 0,
+      "missingObjectLinks": 0
+    }
+  ],
+  "files": [
+    {
+      "path": "data/assets.json",
+      "bytes": 44393,
+      "sha256": "9acdf590f7d857fdaf0477eb2ed0ed8a71aff94252a2ba1ff632868462e22e6a"
+    },
+    {
+      "path": "data/cross-source-conflicts.json",
+      "bytes": 1217,
+      "sha256": "1dbaab88475a19e6645f1b69b8d4f5c7501add0be8c1649bc2ec0e2d3b860fba"
+    },
+    {
+      "path": "data/demand-meta.json",
+      "bytes": 811,
+      "sha256": "31c2215efa54c5d6208f4d59c0a9fcdd63f14686b822cf309bcbb287e785f67f"
+    },
+    {
+      "path": "data/energy-flows-today.json",
+      "bytes": 1688,
+      "sha256": "e4d63d3fd2cb61a9439451f6e12afc3e73deccad6748fb510d7585c0d09bce88"
+    },
+    {
+      "path": "data/energy-flows.json",
+      "bytes": 15311,
+      "sha256": "958f743c2faf5ff649e6cc8a85f1a9f419c79c27176d975a716cafc40a5a084d"
+    },
+    {
+      "path": "data/energy-power-today.json",
+      "bytes": 11190,
+      "sha256": "4045d0541664fa94b3d4b76c98e040c1c3eb79e82dd8c88252f92ec84f824838"
+    },
+    {
+      "path": "data/energy-power.json",
+      "bytes": 35668,
+      "sha256": "0046ce3c4ad6be217fe21ecbd5ac00d212a0b62ef765fd74915af1b45077cd6d"
+    },
+    {
+      "path": "data/enexis-meta.json",
+      "bytes": 88914,
+      "sha256": "8c71190b22f0d7f9a355293bc85cb66f3bb6eb52fc63071c3a6c45d9ea210966"
+    },
+    {
+      "path": "data/municipalities-meta.json",
+      "bytes": 2841,
+      "sha256": "11e34c8b36f51e852ca27dd403a25fd5c6baa3b33419a1192a968795839d01c8"
+    },
+    {
+      "path": "data/network-meta.json",
+      "bytes": 790,
+      "sha256": "2ae089ed353c0da425eae32ba3955536655cc6b5275f59d5744438ad5b45739f"
+    },
+    {
+      "path": "data/operator-stations-meta.json",
+      "bytes": 5412,
+      "sha256": "99f8ef1a5f7cf22878e4383760a36ba4eca65fcd3b817ed06e52130e1b50b2ce"
+    },
+    {
+      "path": "data/producers-meta.json",
+      "bytes": 1329,
+      "sha256": "58d41913e5d24e2338dedb7df5689a07d8ed93ccd5ee250801f66f84ebba10c2"
+    },
+    {
+      "path": "data/rvo-projects-meta.json",
+      "bytes": 1003,
+      "sha256": "7ac82cd974454381ed3844e4b7f3f61a537f2852cdc9e03a1e636b2672547038"
+    },
+    {
+      "path": "data/stations-meta.json",
+      "bytes": 1770,
+      "sha256": "c44218daab18487dbeb1927b4f9c29625d5667d435cacb1739c306468b9a3b8d"
+    },
+    {
+      "path": "public/data/annual-consumption.json",
+      "bytes": 87254,
+      "sha256": "c603c14cf8be9406ed4fcc380625d765e924e000f908559d6dcb300870f3ef7e"
+    },
+    {
+      "path": "public/data/assets.json",
+      "bytes": 44393,
+      "sha256": "9acdf590f7d857fdaf0477eb2ed0ed8a71aff94252a2ba1ff632868462e22e6a"
+    },
+    {
+      "path": "public/data/countries.geojson",
+      "bytes": 111519,
+      "sha256": "0ebc2442be19612c82fe66fa79db55afa8eee95ed90459dffe57d7664eca4bda"
+    },
+    {
+      "path": "public/data/demand-meta.json",
+      "bytes": 811,
+      "sha256": "31c2215efa54c5d6208f4d59c0a9fcdd63f14686b822cf309bcbb287e785f67f"
+    },
+    {
+      "path": "public/data/demand-postcodes.geojson",
+      "bytes": 18062040,
+      "sha256": "58d18e18a4a2bcf729cb29caeaca462f6bba58a4a040d5e32b50fdb21186f20b"
+    },
+    {
+      "path": "public/data/enexis/capacity.json",
+      "bytes": 3325264,
+      "sha256": "6bd875abd4aa7aa2e14f1ff9b4e651e48b14340bd8897fe00d016d3acab8dff3"
+    },
+    {
+      "path": "public/data/enexis/consumption/23.json",
+      "bytes": 148,
+      "sha256": "821bba1872a0f0287924f8183fa6ffd12b7dbe80728bb4d0a1101c1c47a08d16"
+    },
+    {
+      "path": "public/data/enexis/consumption/42.json",
+      "bytes": 183162,
+      "sha256": "1ac61bd70f1cf7a245d336e97073b060fc232dc16807148e68cfc064fa91535b"
+    },
+    {
+      "path": "public/data/enexis/consumption/46.json",
+      "bytes": 376171,
+      "sha256": "98a1c078d8f3a4ab25a56c6a36726da29cc783ec0d26571db879ee49a0a3be06"
+    },
+    {
+      "path": "public/data/enexis/consumption/47.json",
+      "bytes": 586233,
+      "sha256": "3996aabd07261405c16d2aac01e7eaaf67f3b0f0677ef9cf80e54df1853b2e36"
+    },
+    {
+      "path": "public/data/enexis/consumption/48.json",
+      "bytes": 780727,
+      "sha256": "4996fd564a3f41fb6f58c66a1111eb6c8a666f623d4e17cc1c72f646f66d0324"
+    },
+    {
+      "path": "public/data/enexis/consumption/49.json",
+      "bytes": 305893,
+      "sha256": "dc1fc07dc42fdd6911a25953573c9793f65252c3b230c73df063e43647123fea"
+    },
+    {
+      "path": "public/data/enexis/consumption/50.json",
+      "bytes": 900552,
+      "sha256": "0e19ca7f490a4eadf49bd6a73b10153b462aee248b50e5d912fff97029821164"
+    },
+    {
+      "path": "public/data/enexis/consumption/51.json",
+      "bytes": 523429,
+      "sha256": "e528aca407a66ce16a29c7ace83a750f83115902f635ec6bd7b7d7560855a75f"
+    },
+    {
+      "path": "public/data/enexis/consumption/52.json",
+      "bytes": 876727,
+      "sha256": "7496d6c8b8c4f9f6c9fbc2e885fb9a0fe62d68425a89c4589c446b7a5058e5d9"
+    },
+    {
+      "path": "public/data/enexis/consumption/53.json",
+      "bytes": 437746,
+      "sha256": "cbe5da1c9803cce967c5cf4d1b9065df8391cd6c8f561a947b7aab5549929d7d"
+    },
+    {
+      "path": "public/data/enexis/consumption/54.json",
+      "bytes": 691198,
+      "sha256": "66851fd28448b540effc47628a8b0085ec0ab6cf6997b52970c33aaa23a533d5"
+    },
+    {
+      "path": "public/data/enexis/consumption/55.json",
+      "bytes": 597316,
+      "sha256": "ce60e2e9f450ba5ccb12a4dad6cfcc95af1c5e07b62cf065482214506f664fe2"
+    },
+    {
+      "path": "public/data/enexis/consumption/56.json",
+      "bytes": 1118577,
+      "sha256": "b260bc71eb613456d84d92caf19ce8b23c73bf92358f7c5b7ec4835f4fcdea5f"
+    },
+    {
+      "path": "public/data/enexis/consumption/57.json",
+      "bytes": 674767,
+      "sha256": "3f676858397447eb3e868ed9a3ff0c3260ebbe3ea96f37e67fb5b281fed89841"
+    },
+    {
+      "path": "public/data/enexis/consumption/58.json",
+      "bytes": 328566,
+      "sha256": "e89fe0de3de9abcdf188dc3d2661183775ef9b3f79b34a8930edd26eb9194675"
+    },
+    {
+      "path": "public/data/enexis/consumption/59.json",
+      "bytes": 619215,
+      "sha256": "f98a3b47c0480115da86062fa1dc9ac296e5220db39307942a78df95ab7eb056"
+    },
+    {
+      "path": "public/data/enexis/consumption/60.json",
+      "bytes": 778979,
+      "sha256": "fb12f523788e735788221bbca7578b5e5f4a12c2cb60d2a6c7e5cb04ebbf6eff"
+    },
+    {
+      "path": "public/data/enexis/consumption/61.json",
+      "bytes": 617854,
+      "sha256": "d944c42361dcb52da38f01ca81cb9c23da1f314e1d58a88ceda546420572a2e0"
+    },
+    {
+      "path": "public/data/enexis/consumption/62.json",
+      "bytes": 623385,
+      "sha256": "ebd4a999d7253dda1fe1ec0d48952dde75aab32d4c6fdbd5ace5c472d0ff6d94"
+    },
+    {
+      "path": "public/data/enexis/consumption/63.json",
+      "bytes": 348793,
+      "sha256": "39250166b0af7de82a60b90f8560f651423a6adefb08a70e617229779a1aa850"
+    },
+    {
+      "path": "public/data/enexis/consumption/64.json",
+      "bytes": 650781,
+      "sha256": "3642b6f4e9b9b68e3108a6d8cacda164708c04fe0029e779c2d3f155949a50ab"
+    },
+    {
+      "path": "public/data/enexis/consumption/65.json",
+      "bytes": 86009,
+      "sha256": "4874f5c4cb1e4b58161a0176add7471bea2e3728a6b5dd214dc1dbf7f4871490"
+    },
+    {
+      "path": "public/data/enexis/consumption/74.json",
+      "bytes": 801019,
+      "sha256": "d63a90329bf1367960bc98312ee2060aea13d24ca979649a1c0140ec7bdf53ca"
+    },
+    {
+      "path": "public/data/enexis/consumption/75.json",
+      "bytes": 994334,
+      "sha256": "2b1c7c8f08e2381573b20578f4312aea00bd05c8d8974f6426d3466c00f9fe73"
+    },
+    {
+      "path": "public/data/enexis/consumption/76.json",
+      "bytes": 406737,
+      "sha256": "e05ee27ed0094844ce0a8ccc7a93cd1c571fdc47e3114fce22c69fdd7f18707c"
+    },
+    {
+      "path": "public/data/enexis/consumption/77.json",
+      "bytes": 432305,
+      "sha256": "b45fa90032dc006e69abfb6327fe71aee5acf9f8e81d44497d8776ea4633e984"
+    },
+    {
+      "path": "public/data/enexis/consumption/78.json",
+      "bytes": 449623,
+      "sha256": "35391a67816ae5f31a03e1f8b385c8c42ba9729ddce951e1585fea454183b45e"
+    },
+    {
+      "path": "public/data/enexis/consumption/79.json",
+      "bytes": 367460,
+      "sha256": "cc79f7e5cdcf4d448cee7c2ce905111efea7feb83f310eca69969eaff0ac028c"
+    },
+    {
+      "path": "public/data/enexis/consumption/80.json",
+      "bytes": 494690,
+      "sha256": "8ac784c258939eb5f53e456f24c1b8389da64d822b176e2c8961373d68be1f4f"
+    },
+    {
+      "path": "public/data/enexis/consumption/81.json",
+      "bytes": 217602,
+      "sha256": "a47e5ae8f46f6bf5eff3126741875ba36d8d58e5e8e8690330d6edbff458c959"
+    },
+    {
+      "path": "public/data/enexis/consumption/82.json",
+      "bytes": 209864,
+      "sha256": "16055d4f7cfde3855fbe63759bbeca88aae2a0512928a9e617e0550edfc04cfc"
+    },
+    {
+      "path": "public/data/enexis/consumption/83.json",
+      "bytes": 103850,
+      "sha256": "0884f4daac91b4581fabd52b3313753c390af8e07a013277c4567346146ae96f"
+    },
+    {
+      "path": "public/data/enexis/consumption/84.json",
+      "bytes": 2486,
+      "sha256": "cc0e731428bd7240e3e3fcd8f1489867fa595582416b1df296a09f4dae2f98db"
+    },
+    {
+      "path": "public/data/enexis/consumption/92.json",
+      "bytes": 504,
+      "sha256": "b1a98d0519a2b3c6d254cd855ee363f7ea6fd5f571925240f2ac88c9c9ebbb68"
+    },
+    {
+      "path": "public/data/enexis/consumption/93.json",
+      "bytes": 229860,
+      "sha256": "bb9b9d213c3199352ad4b8490a06edbfc57a3fd843a5a44e4327adb46d81990f"
+    },
+    {
+      "path": "public/data/enexis/consumption/94.json",
+      "bytes": 524541,
+      "sha256": "b4b58ed199a7a736672d2156fc7fa4c093eb39130209603b217c7a2cfe108d34"
+    },
+    {
+      "path": "public/data/enexis/consumption/95.json",
+      "bytes": 254021,
+      "sha256": "519ba2088db94503adb48910bf57873de45bfff7ca79579a272b53a681b1b151"
+    },
+    {
+      "path": "public/data/enexis/consumption/96.json",
+      "bytes": 568292,
+      "sha256": "d70b9689ba0e530e6afc4afe3365ef484f4959d3338d2d7170c7d07a3fb69972"
+    },
+    {
+      "path": "public/data/enexis/consumption/97.json",
+      "bytes": 935915,
+      "sha256": "4a6c327c293df37078a51d4a1d9e729510191de435ed2c245cfb9459c8d315d4"
+    },
+    {
+      "path": "public/data/enexis/consumption/98.json",
+      "bytes": 133570,
+      "sha256": "0d78c3dfae4840b80d0130eaae9081f01d8541a3205159ae0a08020bd80929a2"
+    },
+    {
+      "path": "public/data/enexis/consumption/99.json",
+      "bytes": 354169,
+      "sha256": "8b3fc0aa8e5c3524801aab5a0c57682ae566b2632a6fff3d892eab1a98b01c82"
+    },
+    {
+      "path": "public/data/enexis/consumption-index.json",
+      "bytes": 192561,
+      "sha256": "2c02be8b4287f04eb4696fb4a4ccbb8ae4e4e31e0c22aee3387fc0f355d76f36"
+    },
+    {
+      "path": "public/data/enexis/hsms-profile.json",
+      "bytes": 318547,
+      "sha256": "cf0fa00dfe4e4227faf79150b1b14f14092e5f95e43c9f341ca13905bf172ad2"
+    },
+    {
+      "path": "public/data/enexis/metadata.json",
+      "bytes": 88914,
+      "sha256": "8c71190b22f0d7f9a355293bc85cb66f3bb6eb52fc63071c3a6c45d9ea210966"
+    },
+    {
+      "path": "public/data/enexis/neighbourhoods-2026.geojson",
+      "bytes": 14611798,
+      "sha256": "b7c9df69948445a9d941e5c264b83efb45306cfc1681b221ff229a41c8f6140f"
+    },
+    {
+      "path": "public/data/map-evidence-audit.json",
+      "bytes": 36729,
+      "sha256": "7a452207863742d2c259c9de39fc101ef76eada4e0f7d581d977ae7824964363"
+    },
+    {
+      "path": "public/data/municipalities-2025.geojson",
+      "bytes": 6490893,
+      "sha256": "32ed7d4f5f1776c80ca3d7423fab9578e7cdae77f4073b2532d37e33141c9c68"
+    },
+    {
+      "path": "public/data/municipalities-meta.json",
+      "bytes": 2841,
+      "sha256": "11e34c8b36f51e852ca27dd403a25fd5c6baa3b33419a1192a968795839d01c8"
+    },
+    {
+      "path": "public/data/network-meta.json",
+      "bytes": 790,
+      "sha256": "2ae089ed353c0da425eae32ba3955536655cc6b5275f59d5744438ad5b45739f"
+    },
+    {
+      "path": "public/data/network.geojson",
+      "bytes": 1953203,
+      "sha256": "0289bbf7d50d480838edfe23155d1e0182f0bfc7a7ad5162f9329611fb87eea0"
+    },
+    {
+      "path": "public/data/operator-stations/liander-641.geojson",
+      "bytes": 393508,
+      "sha256": "84a1b3a9eb40a63c039eb359f8c874cf2f0eda513bcb77e5bca6ce19ccc5f732"
+    },
+    {
+      "path": "public/data/operator-stations/liander-642.geojson",
+      "bytes": 19501334,
+      "sha256": "43592a8208e1b5249e5c4224a402a332bac533e40cd34bfe198976cf67aed41b"
+    },
+    {
+      "path": "public/data/operator-stations/liander-643.geojson",
+      "bytes": 10078581,
+      "sha256": "6787be0586f01c1e44d9df4a5de196271699ba30603a6e054ec8e62939feefc9"
+    },
+    {
+      "path": "public/data/operator-stations/metadata.json",
+      "bytes": 5412,
+      "sha256": "99f8ef1a5f7cf22878e4383760a36ba4eca65fcd3b817ed06e52130e1b50b2ce"
+    },
+    {
+      "path": "public/data/operator-stations/stedin-5.geojson",
+      "bytes": 8931604,
+      "sha256": "f9ce972a08a0edf1afb51f4b1775eee041f205b448fa5d343f59e9cbd905e85f"
+    },
+    {
+      "path": "public/data/operator-stations/stedin-6.geojson",
+      "bytes": 11433372,
+      "sha256": "f37207b909b855708a4431c7d9ebfc75e607ec057e3b9250212f4766d755c9cb"
+    },
+    {
+      "path": "public/data/operator-stations/stedin-8.geojson",
+      "bytes": 154255,
+      "sha256": "7f5c86f149ecbcb85fa68534f31a6fef03d662476689f0e40675a7faaafd6dd7"
+    },
+    {
+      "path": "public/data/producers-meta.json",
+      "bytes": 1329,
+      "sha256": "58d41913e5d24e2338dedb7df5689a07d8ed93ccd5ee250801f66f84ebba10c2"
+    },
+    {
+      "path": "public/data/producers.geojson",
+      "bytes": 1896367,
+      "sha256": "fd0c8cee0c1ad453d6a8a3b1ee7a09051d115e1fd0bce90b6a46efa441ae78c5"
+    },
+    {
+      "path": "public/data/provinces.geojson",
+      "bytes": 2615897,
+      "sha256": "b429b5fd37725c1dadb9aef23e25682be5f82b77a8628c2adde8c9be023ac5cb"
+    },
+    {
+      "path": "public/data/rvo-projects-meta.json",
+      "bytes": 1003,
+      "sha256": "7ac82cd974454381ed3844e4b7f3f61a537f2852cdc9e03a1e636b2672547038"
+    },
+    {
+      "path": "public/data/rvo-projects.json",
+      "bytes": 9730552,
+      "sha256": "461570c6e1a8c53f446d76b0784b720857bd5fff6a8a6556a9ae7d215a67b9fa"
+    },
+    {
+      "path": "public/data/stations-meta.json",
+      "bytes": 1770,
+      "sha256": "c44218daab18487dbeb1927b4f9c29625d5667d435cacb1739c306468b9a3b8d"
+    },
+    {
+      "path": "public/data/stations.geojson",
+      "bytes": 3668567,
+      "sha256": "32cd0485ff07a0e6529cb7f24d7a6e7994a6a5656c38352f870fa7fb6f6d05fe"
+    }
+  ],
+  "limitations": [
+    "No claim that a catalogue record proves present-day operation.",
+    "Spatial and address candidates are not applied automatically.",
+    "Provider feeds that describe different quantities, years or populations are not forced to agree.",
+    "Native archive reader truncates payloads; complete production-history revalidation was not possible.",
+    "No new outside data was acquired; disconnected/planned sources are coverage gaps, not checked datasets."
+  ],
+  "nextSteps": [
+    "Diagnose hosted RWE and TenneT retrievals and the NED error, then retain successful timestamped responses before marking them available.",
+    "Resolve the NOORDERRINGWEG voltage conflict against dated operator evidence. Both published values remain visible.",
+    "Review Stedin footprint, Liander proximity and RVO address candidates using independent identifiers or documents; do not automatically merge them.",
+    "Obtain authoritative Enexis and TenneT asset registers. Neighbourhood aggregates and national balancing cannot identify individual substations."
+  ],
+  "validation": {
+    "scope": "Automated checks, not an independent human audit. See research/cross-check/report.md for executed verification.",
+    "reproduce": "PYTHONPATH=../geo-deps python3 scripts/audit-all-sources.py"
+  }
+}

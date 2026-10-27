@@ -1,0 +1,4 @@
+Producers and stations: © OpenStreetMap contributors, ODbL 1.0. https://opendatacommons.org/licenses/odbl/1-0/
+Download each derived database as producers.geojson and stations.geojson. Queries and source hashes are recorded in the repository and respective metadata. These databases are separate from CBS and other app datasets.
+
+Demand postcodes: © CBS, © ESRI Nederland. 2023 postcode statistics and boundaries via PDOK. Use is permitted with attribution under CBS dataset conditions: https://www.cbs.nl/nl-nl/longread/diversen/2025/statistische-gegevens-per-vierkant-en-postcode-2022-2023-2024/5-voorwaarden-en-recht-gebruik

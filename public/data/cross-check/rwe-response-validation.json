@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-09-19T08:29:12.613Z",
+  "scope": "Complete locally saved research responses. Not a successful hosted fetch or a fresh upstream download. sums.json is retained and hashed only; it is not used by the application.",
+  "dutchPlants": 18,
+  "dutchUnits": 22,
+  "unitsAbsentFromLiveResponse": [],
+  "commonWithSavedNational": [
+    {
+      "plant": "Claus",
+      "commonIntervals": 0
+    },
+    {
+      "plant": "Eemshaven (Magnum)",
+      "commonIntervals": 0
+    }
+  ],
+  "nullUnitReadings": 0,
+  "histories": [
+    {
+      "file": "claus-history.json",
+      "id": "E110336",
+      "plant": "Claus",
+      "intervals": 84,
+      "missing": 0,
+      "first": "2026-09-18T07:30:00.000Z",
+      "last": "2026-09-19T04:15:00.000Z"
+    },
+    {
+      "file": "magnum-history.json",
+      "id": "E000660",
+      "plant": "Eemshaven (Magnum)",
+      "intervals": 84,
+      "missing": 0,
+      "first": "2026-09-18T07:30:00.000Z",
+      "last": "2026-09-19T04:15:00.000Z"
+    },
+    {
+      "file": "nl-wind-history.json",
+      "id": null,
+      "plant": "Empty aggregate-query response; no national observations",
+      "intervals": 0,
+      "missing": 0
+    },
+    {
+      "file": "nl-gas-history.json",
+      "id": null,
+      "plant": "Empty aggregate-query response; no national observations",
+      "intervals": 0,
+      "missing": 0
+    }
+  ],
+  "hashes": [
+    {
+      "file": "claus-history.json",
+      "sha256": "2c5f1bd6dd63668ef74136476e92e9f04d5b47121b9bff8a01adb3a98b92e614"
+    },
+    {
+      "file": "live.json",
+      "sha256": "6cb8638d9f5b86118e28a3b4782d36d7124cdfcd2d4f62d9475ac031c77847c2"
+    },
+    {
+      "file": "magnum-history.json",
+      "sha256": "bbc1173ff3685a83eb34fe966883f28d9e8c7f66b0fd0bcc55efce8a92c988cb"
+    },
+    {
+      "file": "master.json",
+      "sha256": "80cb933602008c0f4a65ffb64b83891d3ecaa7121e5fb89665d0e61c2a68fabc"
+    },
+    {
+      "file": "nl-gas-history.json",
+      "sha256": "62715f42bcbc4a3f27ca9ff04db34f36bee8d5096e253356f1cce96a598f01fe"
+    },
+    {
+      "file": "nl-wind-history.json",
+      "sha256": "62715f42bcbc4a3f27ca9ff04db34f36bee8d5096e253356f1cce96a598f01fe"
+    },
+    {
+      "file": "sums.json",
+      "sha256": "1c4a46e2a94d67496a1f0c2fccd153c03b3f36c50e0e213746e4fd72d914ead4"
+    }
+  ],
+  "limits": "ISO/epoch timestamps and duplicate times validated. Live values have no observation timestamp and are not reconciled to history or added to national totals."
+}

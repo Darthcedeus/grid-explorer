@@ -1,0 +1,50 @@
+[
+  {
+    "postcode": "7418",
+    "enexisConnections": 900,
+    "lianderConnections": 101,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  },
+  {
+    "postcode": "7478",
+    "enexisConnections": 1450,
+    "lianderConnections": 21,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  },
+  {
+    "postcode": "8376",
+    "enexisConnections": 416,
+    "lianderConnections": 13,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  },
+  {
+    "postcode": "8395",
+    "enexisConnections": 17,
+    "lianderConnections": 477,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  },
+  {
+    "postcode": "8397",
+    "enexisConnections": 15,
+    "lianderConnections": 329,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  },
+  {
+    "postcode": "8398",
+    "enexisConnections": 32,
+    "lianderConnections": 170,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  },
+  {
+    "postcode": "9222",
+    "enexisConnections": 16,
+    "lianderConnections": 496,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  },
+  {
+    "postcode": "9243",
+    "enexisConnections": 30,
+    "lianderConnections": 835,
+    "interpretation": "Shared postcode coverage, not duplicate connections"
+  }
+]

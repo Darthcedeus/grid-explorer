@@ -1,0 +1,63 @@
+{
+  "source": "OpenStreetMap contributors",
+  "license": "ODbL 1.0",
+  "snapshotAt": "2026-09-18T14:05:20Z",
+  "geographicFilter": "Netherlands area query; representative points limited to European scope",
+  "sourceSnapshots": [
+    "2026-09-18T14:05:20Z"
+  ],
+  "count": 7151,
+  "counts": {
+    "minor_distribution": 2359,
+    "transmission": 383,
+    "Unclassified": 3540,
+    "trnsf": 1,
+    "yes": 43,
+    "distribution": 340,
+    "generation": 100,
+    "traction": 86,
+    "industrial": 135,
+    "transition": 137,
+    "compensation": 4,
+    "measurement": 6,
+    "converter": 8,
+    "emergancy": 1,
+    "transformer": 2,
+    "substation": 4,
+    "distribution; minor_distribution": 1,
+    "Warmteoverdrachtstation": 1
+  },
+  "kinds": {
+    "minor_distribution": 2359,
+    "transmission": 383,
+    "Unclassified": 3540,
+    "trnsf": 1,
+    "yes": 43,
+    "distribution": 340,
+    "generation": 100,
+    "traction": 86,
+    "industrial": 135,
+    "transition": 137,
+    "compensation": 4,
+    "measurement": 6,
+    "converter": 8,
+    "emergancy": 1,
+    "transformer": 2,
+    "substation": 4,
+    "distribution; minor_distribution": 1,
+    "Warmteoverdrachtstation": 1
+  },
+  "excluded": {
+    "outside_scope_or_no_point": 5
+  },
+  "rawSha256": "d723d5b268a9e8d3d176ca998ad45f74b1c909ed0dd82da5a971d1c7e71d8a5c",
+  "scope": "All mapped power=substation objects in the Netherlands query area, including distribution and unclassified voltages. Objects may represent the same physical site; no proximity deduplication or electrical connectivity is inferred.",
+  "fieldCoverage": {
+    "nameOrReference": 1929,
+    "operator": 2946,
+    "voltage": 1552,
+    "additionalEvidence": 7151,
+    "assetTelemetry": 0
+  },
+  "enrichmentAudit": "/data/map-evidence-audit.json"
+}
