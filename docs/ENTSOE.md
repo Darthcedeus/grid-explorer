@@ -57,3 +57,9 @@ Choose **National replay source → ENTSO-E direct** above the map. The selected
 Physical borders still use Energy-Charts. Only identical start/end intervals are joined; fallback snapshots from a different date cannot populate exchanges or the residual. Missing load periods and missing generation quantities remain null. Generation-side fuel series are summed; consumption-side series are excluded. Duplicate fuel series fail closed. Other published fuels are grouped under Other, and only published categories appear. This does not establish complete fleet coverage or equivalence to Energy-Charts public net generation. The replay currently requires published 15-minute intervals; other resolutions fail explicitly. No future actual intervals are displayed.
 
 The source toolbar wraps on narrow screens and shows the active providers. National observations do not alter static plant capacities, municipality annual statistics or infrastructure locations. Downloads retain direct document identifiers, revisions and fetch timestamps alongside border provenance.
+
+## Replay publication gaps — 30 October 2026
+
+Direct replay retrieves the Energy-Charts physical-border feed independently of its generation feed, using the same source archive and refresh limits. The replay ends at the shared published generation/load and border window instead of extending to the wall clock. When all border observations are unavailable, the published power window remains usable with an explicit warning. Internal gaps are retained; no values or directions are carried forward. Missing borders keep a faint grey schematic connection labelled “Not reported”; observed zero flows remain labelled “no net flow”.
+
+Regression tests cover delayed borders, unpublished power tails, internal gaps, independent border normalization, unit/sign validation and missing versus zero values.

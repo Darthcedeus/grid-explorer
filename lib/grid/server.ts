@@ -1,6 +1,7 @@
 import {fetchWithoutRedirects,boundedText,acquireSourceLease} from './security';
 import { env } from 'cloudflare:workers';
 import { normalizePair } from './domain';
+import {normalizePhysicalFlows,type PhysicalFlows} from './physical-flows';
 import { bundled } from './bundled';
 import type { Envelope, Dataset } from './types';
 const BASE='https://api.energy-charts.info/v2/';
@@ -36,4 +37,14 @@ export async function loadDataset(day=dutchDay(),latest=false):Promise<Dataset>{
  let permission:Promise<boolean>|undefined;
  const mayRefresh=()=>permission??=(env.DB?acquireSourceLease(env.DB,'energy',15000).catch(()=>false):Promise.resolve(false));
  return resolveDataset(day,latest,d=>retrieveDay(d,mayRefresh),bundled);
+}
+
+/** Border retrieval must not depend on Energy-Charts generation availability. */
+export async function loadPhysicalFlows(day:string):Promise<PhysicalFlows>{
+ const sourceUrl=`${BASE}cbpf?country=nl&start=${day}`;
+ try{
+  const response=await getEnvelope('cbpf',day,()=>env.DB?acquireSourceLease(env.DB,'energy',15000):Promise.resolve(false));
+  const intervals=normalizePhysicalFlows(response.data).filter(i=>Date.parse(i.end)<=Date.now()&&dutchDay(new Date(i.start))===day);
+  return {intervals,fetchedAt:response.fetchedAt,sourceUrl,warning:response.warning||null};
+ }catch{return {intervals:[],fetchedAt:'',sourceUrl,warning:'Physical-border observations could not be retrieved for this date. No other date is substituted.'};}
 }
