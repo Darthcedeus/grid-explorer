@@ -193,3 +193,5 @@ html.dark{color-scheme:dark;--background:#101e2b;--foreground:#e4edf3;--card:#15
 @media(max-width:600px){.audit-content{padding:18px}.audit-totals{grid-template-columns:1fr;gap:8px}.audit-totals>div{display:flex;align-items:center;gap:14px;padding:10px 14px}.audit-totals strong{font-size:23px;min-width:90px}.audit-facts>div{display:block}.audit-facts dd{margin-top:3px}}
 
 .audit-content ol{list-style:decimal;padding-left:22px}
+
+.entsoe-content>label{display:block;margin:16px 0;font-size:14px}.entsoe-content select,.entsoe-content input[type=date]{display:block;width:100%;max-width:100%;margin-top:6px;padding:10px;border:1px solid var(--border);border-radius:5px;background:var(--card);color:var(--foreground)}.entsoe-content p{line-height:1.65;margin:14px 0;overflow-wrap:anywhere}.entsoe-content select:focus-visible{outline:2px solid var(--primary);outline-offset:3px}

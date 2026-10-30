@@ -99,7 +99,7 @@ Use **Data sources → connection checks** inside the app for provider-specific 
 - TenneT: balancing feed, one upstream attempt per minute.
 - NED: modelled offshore estimates, one query pipeline per two minutes. Firewall error 1010 or HTTP 401/403 requires provider-side access review; the app does not bypass it.
 - Liander, Stedin, Enexis, TenneT GIS, RVO, OSM and CBS layers are included source snapshots, not live asset telemetry. No unattended collector or automatic GIS refresh is configured.
-- Direct ENTSO-E integration remains unimplemented; national data currently comes through Energy-Charts.
+- Set `ENTSOE_API_KEY` as a server-side secret in Coolify and redeploy to enable the ENTSO-E panel. The Coolify compose file forwards it to the container. Never use a NEXT_PUBLIC variable. The main replay continues to use Energy-Charts; the direct ENTSO-E panel keeps overlapping data separate. See `docs/ENTSOE.md`.
 
 If you change keys, run `docker compose up -d --force-recreate grid`. Do not use `restart` alone to load changed environment values. Wait for the relevant provider's rate-limit window before repeating diagnostics.
 

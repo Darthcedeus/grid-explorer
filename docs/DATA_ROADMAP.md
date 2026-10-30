@@ -1,3 +1,5 @@
+> Update 27 October 2026: direct ENTSO-E load, generation, forecasts and prices are implemented and authenticated local access is validated. Earlier token-gap entries below describe the previous assessment. See [ENTSO-E integration](ENTSOE.md) for current scope and deployment configuration.
+
 # Netherlands Grid Explorer — research and delivery roadmap
 
 Updated 18 September 2026. Working product: a source-aware atlas of Dutch electricity, with complementary views of infrastructure, system observations, connection constraints and local annual demand. It is not an operational digital twin.

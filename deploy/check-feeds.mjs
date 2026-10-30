@@ -3,14 +3,14 @@ import https from 'node:https';
 // Runs inside the app container; does not print secrets or provider bodies.
 const base=process.env.GRID_CHECK_URL||'http://127.0.0.1:6000';
 const day=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Amsterdam',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
-const paths=process.argv.includes('--health')?['/api/health']:['/api/health','/api/grid','/api/rwe','/api/tennet',`/api/ned?point=28&date=${day}`];
+const paths=process.argv.includes('--health')?['/api/health']:['/api/health','/api/grid','/api/rwe','/api/tennet',`/api/ned?point=28&date=${day}`,`/api/entsoe?product=load&date=${day}`];
 let failures=0;
 for(const path of paths){
  try{
   const {status,body}=await getJson(base+path);
   const response={ok:status>=200&&status<300,status};
   const warning=body.error||body.message||body.warning||body.retrieval?.fallbackReason||body.plants?.warning||null;
-  const recordCount=body.intervals?.length??body.records?.length??body.plants?.data?.length??null;
+  const recordCount=body.intervals?.length??body.records?.length??body.series?.reduce((n,s)=>n+s.points.length,0)??body.plants?.data?.length??null;
   const delivery=body.delivery||body.plants?.delivery||null;
   const ok=response.ok&&!warning&&body.status!=='no_data'&&recordCount!==0;
   if(!ok)failures++;
