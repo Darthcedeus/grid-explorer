@@ -12,6 +12,7 @@ services:
       HOST: 0.0.0.0
       VINEXT_TRUSTED_HOSTS: ${VINEXT_TRUSTED_HOSTS:?Set trusted hosts in Coolify}
       NED_API_KEY: ${NED_API_KEY:-}
+      ENTSOE_API_KEY: ${ENTSOE_API_KEY:-}
       TENNET_API_KEY: ${TENNET_API_KEY:-}
     ports:
       - "0.0.0.0:6000:6000"

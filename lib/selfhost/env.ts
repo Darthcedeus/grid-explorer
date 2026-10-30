@@ -8,5 +8,6 @@ export const env={
   return archive as unknown as D1Database;
  },
  get NED_API_KEY(){return process.env.NED_API_KEY;},
+ get ENTSOE_API_KEY(){return process.env.ENTSOE_API_KEY;},
  get TENNET_API_KEY(){return process.env.TENNET_API_KEY;},
 };

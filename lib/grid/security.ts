@@ -26,7 +26,7 @@ export async function boundedText(response:Response,maxBytes=2_000_000):Promise<
 export interface LeaseDatabase{prepare(sql:string):{bind(...values:(string|number)[]):{first():Promise<unknown>}};}
 /** A bounded, provider-global lease cannot be bypassed by changing dates/IDs.
  * Failed attempts also consume the window. D1 atomically arbitrates isolates. */
-export async function acquireSourceLease(db:LeaseDatabase,source:'ned'|'energy',ttlMs:number,now=Date.now()):Promise<boolean>{
+export async function acquireSourceLease(db:LeaseDatabase,source:'ned'|'energy'|'entsoe',ttlMs:number,now=Date.now()):Promise<boolean>{
  const row=await db.prepare('INSERT INTO source_cache (key,artifact_id,expires_at) VALUES (?,?,?) ON CONFLICT(key) DO UPDATE SET expires_at=excluded.expires_at WHERE source_cache.expires_at<=? RETURNING key').bind('security:'+source+':lease','reserved',now+ttlMs,now).first();
  return Boolean(row);
 }
