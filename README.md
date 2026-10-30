@@ -46,4 +46,4 @@ The build, typecheck and data tests pass. Supported browser preview infrastructu
 
 Select **Grid** to explore 110–380 kV OSM line sections, cables and substation records. The independent ODbL derivative dataset and attribution are downloadable from the inspector. It is not a validated electrical network model. See `docs/DATA_ROADMAP.md` for dataset-level NED, ENTSO-E, TenneT, congestion, DSO, CBS and weather integration gates.
 
-Direct ENTSO-E national load, generation mix, forecasts and day-ahead prices are available in the header panel. Configure the server-only `ENTSOE_API_KEY` and redeploy; see [integration and validation notes](docs/ENTSOE.md).
+Choose ENTSO-E direct above the map to drive the national replay with direct load and generation mix, alongside Energy-Charts physical-border flows. Forecasts and day-ahead prices remain available in the header panel. Configure the server-only `ENTSOE_API_KEY` and redeploy; see [integration and validation notes](docs/ENTSOE.md).

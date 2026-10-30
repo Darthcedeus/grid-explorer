@@ -4,7 +4,7 @@
 
 Grid Explorer uses React 19, Next-compatible Vinext routing and MapLibre. The default national replay normalizes Energy-Charts generation/load and physical-border series. Regional CBS/DSO snapshots, RWE plant histories and TenneT balancing have distinct coverage. Self-hosting aliases Cloudflare bindings to SQLite and server environment variables. Successful provider responses are immutable content-hashed source artifacts, with demand-driven cache refresh and source leases.
 
-A separate direct panel preserves those contracts and adds forecasts and wholesale prices without changing the replay or mixing provider totals. No new network dependency is required at build time; XML parsing uses fast-xml-parser with DTD/entity declarations rejected and entity processing disabled.
+The national replay can now select direct ENTSO-E generation and load with explicitly attributed Energy-Charts border flows. A separate panel adds forecasts and wholesale prices. Provider totals are never added together. No new network dependency is required at build time; XML parsing uses fast-xml-parser with DTD/entity declarations rejected and entity processing disabled.
 
 ## Enabled products
 
@@ -20,7 +20,7 @@ All queries use Netherlands EIC `10YNL----------L` and `https://web-api.tp.entso
 
 ## Operations
 
-Set `ENTSOE_API_KEY` in Coolify's server environment and redeploy. For plain Docker Compose use the ignored `.env` file. Never commit it, expose it as NEXT_PUBLIC, or enter it into a browser URL. Open the header's **ENTSO-E** button, choose dataset/date/series and inspect or download intervals and provenance. The panel loads only when opened; there is no unattended collection.
+Set `ENTSOE_API_KEY` in Coolify's server environment and redeploy. For plain Docker Compose use the ignored `.env` file. Never commit it, expose it as NEXT_PUBLIC, or enter it into a browser URL. Choose **National replay source → ENTSO-E direct** above the map to drive the national replay. Open the header's **ENTSO-E** button for additional forecasts, prices and source records. The panel loads only when opened; there is no unattended collection.
 
 `GET /api/entsoe?product=load&date=2026-10-26` accepts only the five named products and one valid calendar date from 2015 through tomorrow. The existing API access guard applies. Credentials are appended only to the upstream request; redirects are rejected, response bodies are bounded, and errors never echo URLs or upstream text. Cache duration is 15 minutes with a provider-global two-second refresh lease including failed attempts. Older cached data can be shown only for the same requested product and date, with a warning. Missing configuration returns 503; retrieval/contract errors return 502 without invented substitute data.
 
@@ -49,3 +49,11 @@ Energy-Charts republishes ENTSO-E source data. Comparing them can detect transfo
 - Repository-wide lint has existing component errors. The full test suite has a missing historical Liander raw fixture; the map-worker test passes after building.
 - Browser interaction/screenshot checks could not run: Browser plugin unavailable, Chromium absent, and the attempted browser download returned invalid/truncated archives. No visual QA success is claimed.
 - Changes have not been deployed. Coolify needs the server secret and a redeploy.
+
+## Map replay integration — 30 October 2026
+
+Choose **National replay source → ENTSO-E direct** above the map. The selected date drives direct actual generation and total load, the national stat cards, map replay overlay, generation mix and timeline. The expanded ENTSO-E panel continues to offer prices and forecasts separately. Source selection becomes active only after a successful request; a failed switch retains the labelled previous source and displays an error.
+
+Physical borders still use Energy-Charts. Only identical start/end intervals are joined; fallback snapshots from a different date cannot populate exchanges or the residual. Missing load periods and missing generation quantities remain null. Generation-side fuel series are summed; consumption-side series are excluded. Duplicate fuel series fail closed. Other published fuels are grouped under Other, and only published categories appear. This does not establish complete fleet coverage or equivalence to Energy-Charts public net generation. The replay currently requires published 15-minute intervals; other resolutions fail explicitly. No future actual intervals are displayed.
+
+The source toolbar wraps on narrow screens and shows the active providers. National observations do not alter static plant capacities, municipality annual statistics or infrastructure locations. Downloads retain direct document identifiers, revisions and fetch timestamps alongside border provenance.
